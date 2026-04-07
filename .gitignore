@@ -1,0 +1,9 @@
+# Obsidian 系统文件
+.obsidian/
+!.obsidian/plugins/obsidian-git/data.json
+# 系统文件
+.DS_Store
+Thumbs.db
+# 临时文件
+*.tmp
+*.swp
