@@ -78,7 +78,10 @@
       "Bash(claude doctor *)",
       "Skill(update-config)",
       "Bash(npm list *)",
-      "Bash(npm config *)"
+      "Bash(npm config *)",
+      "Bash(claude mcp *)",
+      "Bash(defuddle --version)",
+      "Bash(obsidian --version)"
     ]
   }
 }
