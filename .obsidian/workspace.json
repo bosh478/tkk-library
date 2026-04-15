@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "ec250dc619f05905",
+    "type": "split",
+    "children": [
+      {
+        "id": "bed309b0dd0e7baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ddffde439f167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/网络文章/20240327_律师办理国内商事仲裁涉及证人、专家报告及鉴定报告的法律业务操作指引2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20240327_律师办理国内商事仲裁涉及证人、专家报告及鉴定报告的法律业务操作指引2024"
+            }
+          },
+          {
+            "id": "57c3bc299780e5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed1d0e009cd80ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "294e0f057b731eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06971e775282946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6fa66328545fb388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6a3e2bed2242b808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "cfb4cfb547660744",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a902c77de86ea60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810e9025df1bb340",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7d319c9b077d7bd0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "57c3bc299780e5f6",
+  "lastOpenFiles": [
+    "Clippings/“两高”发布《关于办理袭警刑事案件适用法律若干问题的解释》 - 中华人民共和国最高人民法院.md",
+    "index.md.tmp.15204.1776254639224",
+    "index.md.tmp.15204.1776254632986",
+    "index.md.tmp.15204.1776254622478",
+    "index.md.tmp.15204.1776254605244",
+    "wiki/syntheses/synthesis_受贿罪体系对比.md",
+    "wiki/syntheses/synthesis_受贿罪体系对比.md.tmp.15204.1776254582649",
+    "wiki/syntheses/synthesis_贪污罪vs职务侵占罪对比.md",
+    "wiki/syntheses/synthesis_贪污罪vs职务侵占罪对比.md.tmp.15204.1776254556267",
+    "wiki/syntheses/synthesis_袭警罪与妨害公务罪对比.md",
+    "wiki/syntheses/synthesis_袭警罪与妨害公务罪对比.md.tmp.15204.1776254535375",
+    "index.md.tmp.15204.1776249396028",
+    "wiki/entities/entity_两高袭警刑事案件解释.md",
+    "wiki/entities/entity_两高袭警刑事案件解释.md.tmp.15204.1776249289527",
+    "wiki/summaries/SPP_JianDaWang_2021-06-16_[2021-06-16]检答网集萃46在办理案件中如何把握造成恶劣社会影响的情形.md",
+    "wiki/summaries/SPP_JianDaWang_2021-06-09_[2021-06-09]检答网集萃45未成年人犯罪被害人不同意适用附条件不起诉的能否作出附条件不起诉.md",
+    "wiki/summaries/SPP_JianDaWang_2021-05-31_[2021-05-31]检答网集萃44买卖身份证件罪中的买卖是否包含居间介绍行为.md",
+    "wiki/summaries/SPP_JianDaWang_2021-04-28_[2021-04-28]检答网集萃40上级院转来已作出处理决定的申诉如何处理等两问两答.md",
+    "wiki/summaries/SPP_JianDaWang_2021-04-18_[2021-04-18]检答网集萃39关于追诉时效的两个问题.md",
+    "wiki/summaries/SPP_JianDaWang_2019-11-13_[2019-11-13]检答网集萃16被强制医疗人在治疗期间发生的由律师代理的民事法律行为该如何定性.md",
+    "wiki/summaries/SPP_JianDaWang_2019-10-09_[2019-10-09]检答网集萃15对取保候审的审查起诉案件流程监控怎样把握.md",
+    "wiki/summaries/SPP_JianDaWang_2019-09-19_[2019-09-19]检答网集萃14关于羁押必要性审查的问题等两问两答.md",
+    "wiki/summaries/SPP_JianDaWang_2019-08-31_[2019-08-31]检答网集萃13套取公款的去向是否影响贪污数额的认定等两问两答.md",
+    "wiki/summaries/SPP_JianDaWang_2019-08-07_[2019-08-07]检答网集萃12拆迁公司负责人能否成为贪污罪挪用公款罪的主体等两问两答.md",
+    "wiki/summaries/SPP_JianDaWang_2019-07-27_[2019-07-27]检答网集萃11罪犯是否可以主动选择减刑或假释.md",
+    "wiki/summaries/Court_RukuAnli_2025-08-14_[2025-08-14]入库参考案例吴某慧陈某强等侵犯公民个人信息案.md",
+    "wiki/summaries/Court_RukuAnli_2025-08-07_[2025-08-07]入库参考案例解读逆行被他人行李箱绊倒谁之过.md",
+    "wiki/summaries/Court_RukuAnli_2025-08-07_[2025-08-07]入库参考案例刘某华诉张某乡生命权身体权健康权纠纷案.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-31_[2025-07-31]入库参考案例解读好人就该得好报.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-31_[2025-07-31]入库参考案例柴某诉顾某生命权身体权健康权纠纷案.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-24_[2025-07-24]入库参考案例解读全国首例职业闭店人承担民事赔偿案的法理分析.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-24_[2025-07-24]入库参考案例王某月诉薛某亮清算责任纠纷案.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-17_[2025-07-17]入库参考案例麦某波诉北京法某科技有限公司北京律某信息技术有限公司网络侵权责任.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-17_[2025-07-17]入库参考案例解读已公开的个人信息能随便用吗.md",
+    "wiki/summaries/Court_RukuAnli_2025-07-10_[2025-07-10]入库参考案例解读人民法院案例库与法答网的交融互促.md",
+    "_process_clippings.py.tmp.15204.1776247701932",
+    "Pasted image 20260413174157.png"
+  ]
+}
