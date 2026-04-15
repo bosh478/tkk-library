@@ -81,7 +81,10 @@
       "Bash(npm config *)",
       "Bash(claude mcp *)",
       "Bash(defuddle --version)",
-      "Bash(obsidian --version)"
+      "Bash(obsidian --version)",
+      "Bash(grep -l \"指导案例180\" wiki/summaries/*.md)",
+      "Bash(sort -t'_' -k4 -n)",
+      "Bash(grep -r \"\\\\[\\\\[指导性案例\" wiki/syntheses/*.md)"
     ]
   }
 }
