@@ -70,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "c06971e775282946",
+  "active": "6fa66328545fb388",
   "lastOpenFiles": [
     "GitHub同步信息.md",
     "index.md",
