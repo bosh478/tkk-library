@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57c3bc299780e5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "69b2929104d05ea4",
+            "id": "d567c7e67bb45405",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -32,8 +17,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,11 +125,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7d319c9b077d7bd0",
+  "active": "c06971e775282946",
   "lastOpenFiles": [
+    "GitHub同步信息.md",
+    "index.md",
     "installed_extensions_report.html",
     "installed_extensions_report.html.tmp.24776.1776258490516",
-    "index.md",
     "sources/网络文章/20240327_律师办理国内商事仲裁涉及证人、专家报告及鉴定报告的法律业务操作指引2024.md",
     "Clippings/“两高”发布《关于办理袭警刑事案件适用法律若干问题的解释》 - 中华人民共和国最高人民法院.md",
     "index.md.tmp.15204.1776254639224",
@@ -160,7 +145,6 @@
     "wiki/syntheses/synthesis_袭警罪与妨害公务罪对比.md.tmp.15204.1776254535375",
     "index.md.tmp.15204.1776249396028",
     "wiki/entities/entity_两高袭警刑事案件解释.md",
-    "wiki/entities/entity_两高袭警刑事案件解释.md.tmp.15204.1776249289527",
     "wiki/summaries/SPP_JianDaWang_2021-06-16_[2021-06-16]检答网集萃46在办理案件中如何把握造成恶劣社会影响的情形.md",
     "wiki/summaries/SPP_JianDaWang_2021-06-09_[2021-06-09]检答网集萃45未成年人犯罪被害人不同意适用附条件不起诉的能否作出附条件不起诉.md",
     "wiki/summaries/SPP_JianDaWang_2021-05-31_[2021-05-31]检答网集萃44买卖身份证件罪中的买卖是否包含居间介绍行为.md",
