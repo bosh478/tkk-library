@@ -84,7 +84,10 @@
       "Bash(obsidian --version)",
       "Bash(grep -l \"指导案例180\" wiki/summaries/*.md)",
       "Bash(sort -t'_' -k4 -n)",
-      "Bash(grep -r \"\\\\[\\\\[指导性案例\" wiki/syntheses/*.md)"
+      "Bash(grep -r \"\\\\[\\\\[指导性案例\" wiki/syntheses/*.md)",
+      "Bash(grep -r \"\\\\[\\\\[\" wiki/concepts/concept_职务犯罪审判指导_*.md wiki/concepts/concept_法官*.md)",
+      "Bash(grep -r \"\\\\[\\\\[\" wiki/concepts/concept_刑事审判参考_*.md)",
+      "WebFetch(domain:flk.flzw.org.cn)"
     ]
   }
 }
