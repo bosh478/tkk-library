@@ -8,28 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d567c7e67bb45405",
+            "id": "ffeb30c214ac40f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "草稿本.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
               "title": "草稿本"
-            }
-          },
-          {
-            "id": "81531f903066a401",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
             }
           }
         ]
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfb4cfb547660744",
@@ -122,6 +112,69 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0bd42a40836a97bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "草稿本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "草稿本 的反向链接列表"
+            }
+          },
+          {
+            "id": "b09ca67a621b173a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "草稿本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "草稿本 的出链列表"
+            }
+          },
+          {
+            "id": "ecea8bdac2e27970",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "903461409b8b5ee3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "草稿本.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "草稿本 的大纲"
+            }
           }
         ],
         "currentTab": 1
@@ -132,6 +185,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
@@ -140,8 +196,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "c06971e775282946",
+  "active": "ffeb30c214ac40f3",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "草稿本.md",
     "CLAUDE.md.tmp.26392.1776267209408",
     "CLAUDE.md.tmp.26392.1776267202956",
     "log.md.tmp.26392.1776266629934",
@@ -173,11 +231,9 @@
     "wiki/concepts/concept_刑事审判参考_总第123辑.md",
     "wiki/concepts/concept_刑事审判参考_总第122辑.md",
     "wiki/concepts/concept_刑事审判参考_总第121辑.md",
-    "wiki/concepts/concept_刑事审判参考_总第120辑.md",
     "wiki/concepts/concept_刑事审判参考_总第115辑.md.tmp.26392.1776265558916",
     "wiki/concepts/concept_刑事审判参考_总第114辑.md.tmp.26392.1776265545249",
     "wiki/concepts/concept_刑事审判参考_总第113辑.md.tmp.26392.1776265545229",
-    "wiki/concepts/concept_刑事审判参考_总第112辑.md.tmp.26392.1776265524918",
     "Pasted image 20260413174157.png"
   ]
 }

@@ -127,7 +127,12 @@
       "Bash(grep -c \"\\\\.md$\")",
       "Bash(grep \"\\\\.md$\")",
       "Bash(grep -v \"\\\\.md$\")",
-      "Bash(echo \"Source: $\\(find sources/现行规范库 -name \"*.md\")"
+      "Bash(echo \"Source: $\\(find sources/现行规范库 -name \"*.md\")",
+      "Bash(npm install *)",
+      "Bash(qmd --version)",
+      "Bash(npm root *)",
+      "Bash(setx PATH *)",
+      "Bash(powershell *)"
     ]
   },
   "hooks": {
