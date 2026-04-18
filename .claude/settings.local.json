@@ -87,7 +87,62 @@
       "Bash(grep -r \"\\\\[\\\\[指导性案例\" wiki/syntheses/*.md)",
       "Bash(grep -r \"\\\\[\\\\[\" wiki/concepts/concept_职务犯罪审判指导_*.md wiki/concepts/concept_法官*.md)",
       "Bash(grep -r \"\\\\[\\\\[\" wiki/concepts/concept_刑事审判参考_*.md)",
-      "WebFetch(domain:flk.flzw.org.cn)"
+      "WebFetch(domain:flk.flzw.org.cn)",
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(set PYTHONUTF8=1)",
+      "Bash(chcp 65001)",
+      "Bash(PYTHONUTF8=1 python *)",
+      "Bash(claude skills *)",
+      "Bash(ls \"D:/AI agent/tkk-library/sources/现行规范库/法律/\")",
+      "Read(//tmp/**)",
+      "Bash(grep -v \"^$\")",
+      "Bash(iconv -f gbk -t utf-8 \"D:/AI agent/tkk-library/sources/现行规范库/司法解释/人民检察院刑事诉讼规则（2019）.md\")",
+      "Bash(iconv -f gbk -t utf-8 \"D:/AI agent/tkk-library/sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国民事诉讼法》的解释（2022修正）.md\")",
+      "Bash(xxd \"D:/AI agent/tkk-library/sources/现行规范库/司法解释/人民检察院刑事诉讼规则（2019）.md\")",
+      "Bash([ -f \"D:/AI agent/tkk-library/wiki/entities/$f\" ])",
+      "Bash([ ! -f \"D:/AI agent/tkk-library/wiki/entities/$f\" ])",
+      "Bash(PYTHONIOENCODING=utf-8 python *)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/入库案例/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/公报案例/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/最高检指导性案例/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/最高法指导性案例/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/公报案例/刑事/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/公报案例/民事/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/入库案例/刑事/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/入库案例/民事/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/公报案例/执行/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(find \"D:/AI agent/tkk-library/sources/案例库/入库案例/执行/\" -name \"*.md\" -exec wc -l {} +)",
+      "Bash(head -3 ls \"/d/AI agent/tkk-library/sources/案例库/公报案例/\"*.md)",
+      "Bash(head -3 ls \"/d/AI agent/tkk-library/sources/案例库/最高检指导性案例/\"*.md)",
+      "Write(/d/AI agent/tkk-library/wiki/**)",
+      "Edit(/d/AI agent/tkk-library/wiki/**)",
+      "Write(/d/AI agent/tkk-library/sources/**)",
+      "Edit(/d/AI agent/tkk-library/sources/**)",
+      "Bash(ls -d sources/案例库/公报案例/*/)",
+      "Bash(ls -d sources/案例库/入库案例/*/)",
+      "Bash(grep -c \"\\\\.md$\")",
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(grep -v \"\\\\.md$\")",
+      "Bash(echo \"Source: $\\(find sources/现行规范库 -name \"*.md\")"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /d/AI\\ agent/tkk-library && git status -s && echo \"---Git changes detected---\"",
+            "timeout": 15,
+            "statusMessage": "Checking git status..."
+          }
+        ]
+      }
     ]
   }
 }
