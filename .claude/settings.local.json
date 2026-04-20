@@ -193,7 +193,8 @@
       "Bash(echo \"---EXIT:$?---\")",
       "Bash(git -C \"D:/AI agent/tkk-library\" status --short)",
       "Bash(awk -F'/' '{print $1,$2,$3}')",
-      "Bash(awk -F'/' '{print $2}')"
+      "Bash(awk -F'/' '{print $2}')",
+      "Bash(awk '{print $1}')"
     ]
   },
   "hooks": {
