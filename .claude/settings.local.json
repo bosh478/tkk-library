@@ -194,7 +194,9 @@
       "Bash(git -C \"D:/AI agent/tkk-library\" status --short)",
       "Bash(awk -F'/' '{print $1,$2,$3}')",
       "Bash(awk -F'/' '{print $2}')",
-      "Bash(awk '{print $1}')"
+      "Bash(awk '{print $1}')",
+      "Bash(git -C \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest\" diff skill.md)",
+      "WebFetch(domain:minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com)"
     ]
   },
   "hooks": {
