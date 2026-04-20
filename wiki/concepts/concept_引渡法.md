@@ -2,6 +2,7 @@
 title: 中华人民共和国引渡法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [对外关系, 司法协助, 实体法]
 source: [[中华人民共和国引渡法]]

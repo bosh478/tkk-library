@@ -2,6 +2,7 @@
 title: 对单位行贿罪
 type: concept
 created: 2026-04-10
+quality: 2
 updated: 2026-04-13
 tags: [行贿类, 单位犯罪, 贪污贿赂]
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]

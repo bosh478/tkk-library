@@ -2,6 +2,7 @@
 title: 中华人民共和国海南自由贸易港法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [法律]
 sources: [[中华人民共和国海南自由贸易港法]]

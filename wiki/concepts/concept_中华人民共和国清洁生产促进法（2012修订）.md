@@ -2,6 +2,7 @@
 title: 中华人民共和国清洁生产促进法（2012修订）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [清洁生产, 环境保护, 环境资源]
 sources: [[中华人民共和国清洁生产促进法（2012修订）.md]]

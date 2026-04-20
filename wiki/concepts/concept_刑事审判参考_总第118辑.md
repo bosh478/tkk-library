@@ -2,6 +2,7 @@
 title: 刑事审判参考（总第118辑）
 type: concept
 created: 2026-04-15
+quality: 2
 updated: 2026-04-15
 tags: [刑事审判, 最高法, 审判指导, 参考资料]
 source: [[《刑事审判参考 总第118辑》.md]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国护照法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [公安, 出入境, 实体法]
 source: [[中华人民共和国护照法]]

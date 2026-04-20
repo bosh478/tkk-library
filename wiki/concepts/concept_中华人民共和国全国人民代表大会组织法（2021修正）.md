@@ -2,6 +2,7 @@
 title: 中华人民共和国全国人民代表大会组织法（2021修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [宪法与人大, 实体法]
 source: [[中华人民共和国全国人民代表大会组织法（2021修正）.md]]

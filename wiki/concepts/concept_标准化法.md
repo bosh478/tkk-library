@@ -2,6 +2,7 @@
 title: 中华人民共和国标准化法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [经济, 标准化, 实体法]
 source: [[中华人民共和国标准化法（2017修订）]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国职业病防治法（2018修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [职业病防治, 劳动保护, 卫生健康]
 sources: [[中华人民共和国职业病防治法（2018修正）.md]]

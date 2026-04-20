@@ -2,6 +2,7 @@
 title: 中华人民共和国刑法修正案（九）
 type: concept
 created: 2026-04-16
+quality: 3
 updated: 2026-04-16
 tags: [刑法, 实体法]
 source: [[中华人民共和国刑法修正案（九）.md]]

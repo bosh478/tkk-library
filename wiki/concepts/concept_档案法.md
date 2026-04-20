@@ -2,6 +2,7 @@
 title: 中华人民共和国档案法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [文化, 档案管理, 实体法]
 source: [[中华人民共和国档案法（2020修订）]]

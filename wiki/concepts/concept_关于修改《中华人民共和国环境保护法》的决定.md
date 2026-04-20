@@ -2,6 +2,7 @@
 title: 关于修改《中华人民共和国环境保护法》的决定
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [行政监管, 实体法, 环境保护]
 source: [[关于修改《中华人民共和国环境保护法》的决定.md]]

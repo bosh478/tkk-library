@@ -2,6 +2,7 @@
 title: 中华人民共和国数据安全法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [行政监管, 实体法, 数据安全]
 source: [[中华人民共和国数据安全法.md]]

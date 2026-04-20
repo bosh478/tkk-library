@@ -2,6 +2,7 @@
 title: 反分裂国家法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [国家统一, 国防, 对外关系]
 sources: [[反分裂国家法.md]]

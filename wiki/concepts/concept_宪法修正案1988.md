@@ -2,6 +2,7 @@
 title: 宪法修正案（1988）
 type: concept
 created: 2026-04-16
+quality: 1
 updated: 2026-04-16
 tags: [宪法与人大, 实体法]
 source: [[中华人民共和国宪法修正案（1988）.md]]

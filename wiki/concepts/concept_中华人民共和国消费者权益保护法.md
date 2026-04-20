@@ -2,6 +2,7 @@
 title: 中华人民共和国消费者权益保护法（2013修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [其他, 实体法]
 source: [[中华人民共和国消费者权益保护法（2013修正）]]

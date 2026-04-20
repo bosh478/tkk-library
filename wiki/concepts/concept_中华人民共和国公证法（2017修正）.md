@@ -2,6 +2,7 @@
 title: 中华人民共和国公证法（2017修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [行政与司法, 程序法]
 source: [[中华人民共和国公证法（2017修正）.md]]

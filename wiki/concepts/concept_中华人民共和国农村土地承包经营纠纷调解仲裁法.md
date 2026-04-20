@@ -2,6 +2,7 @@
 title: 中华人民共和国农村土地承包经营纠纷调解仲裁法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [行政与司法, 程序法]
 source: [[中华人民共和国农村土地承包经营纠纷调解仲裁法.md]]

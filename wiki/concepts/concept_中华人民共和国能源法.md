@@ -2,6 +2,7 @@
 title: 中华人民共和国能源法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [能源, 能源安全, 环境资源]
 sources: [[中华人民共和国能源法.md]]

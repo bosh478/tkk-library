@@ -2,6 +2,7 @@
 title: 中华人民共和国环境保护税法（2025修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [法律]
 sources: [[中华人民共和国环境保护税法（2025修正）]]

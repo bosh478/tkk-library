@@ -2,6 +2,7 @@
 title: 中华人民共和国海岛保护法
 type: concept
 created: 2026-04-16
+quality: 1
 updated: 2026-04-16
 tags: [环境资源, 海洋, 实体法]
 source: [[中华人民共和国海岛保护法]]

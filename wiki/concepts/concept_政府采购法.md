@@ -2,6 +2,7 @@
 title: 中华人民共和国政府采购法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [财政, 政府采购, 实体法]
 source: [[中华人民共和国政府采购法（2014修正）]]

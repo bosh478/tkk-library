@@ -2,6 +2,7 @@
 title: 中华人民共和国工会法（2021修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [法律]
 sources: [[中华人民共和国工会法（2021修正）]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国立法法（2023修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [宪法与人大, 实体法]
 source: [[中华人民共和国立法法（2023修正）.md]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国妇女权益保障法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [社会权利, 妇女权益, 实体法]
 source: [[中华人民共和国妇女权益保障法（2022修订）]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国气象法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [科技, 气象, 实体法]
 source: [[中华人民共和国气象法（2016修正）]]

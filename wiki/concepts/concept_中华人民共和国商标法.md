@@ -2,6 +2,7 @@
 title: 中华人民共和国商标法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [知识产权法, 实体法]
 source: [[中华人民共和国商标法（2019修正）.md]]

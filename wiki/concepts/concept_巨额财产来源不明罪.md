@@ -2,6 +2,7 @@
 title: 巨额财产来源不明罪
 type: concept
 created: 2026-04-10
+quality: 2
 updated: 2026-04-13
 tags: [财产类, 贪污贿赂, 廉政类]
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]

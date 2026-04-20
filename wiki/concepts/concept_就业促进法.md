@@ -2,6 +2,7 @@
 title: 中华人民共和国就业促进法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [劳动, 就业, 实体法]
 source: [[中华人民共和国就业促进法（2015修正）]]

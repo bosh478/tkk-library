@@ -2,6 +2,7 @@
 title: 中华人民共和国邮政法（2015修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [其他, 实体法]
 source: [[中华人民共和国邮政法（2015修正）]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国枪支管理法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [公安, 枪支管理, 实体法]
 source: [[中华人民共和国枪支管理法（2015修正）]]

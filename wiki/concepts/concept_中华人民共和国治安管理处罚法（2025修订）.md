@@ -2,6 +2,7 @@
 title: 中华人民共和国治安管理处罚法（2025修订）
 type: concept
 created: 2026-04-16
+quality: 3
 updated: 2026-04-16
 tags: [行政法]
 source: [[中华人民共和国治安管理处罚法（2025修订）.md]]

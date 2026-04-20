@@ -2,6 +2,7 @@
 title: 中华人民共和国归侨侨眷权益保护法
 type: concept
 created: 2026-04-16
+quality: 1
 updated: 2026-04-16
 tags: [对外关系, 侨务, 实体法]
 source: [[中华人民共和国归侨侨眷权益保护法（2009修正）]]

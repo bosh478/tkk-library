@@ -2,6 +2,7 @@
 title: 关于《中华人民共和国民事诉讼法修正案（草案）》的说明
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [民事诉讼法, 立法说明, 其他]
 sources: [[关于《中华人民共和国民事诉讼法修正案（草案）》的说明.md]]

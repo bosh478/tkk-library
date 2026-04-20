@@ -2,6 +2,7 @@
 title: 中华人民共和国测绘法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [测绘法, 行政法, 实体法]
 source: [[中华人民共和国测绘法（2017修订）.md]]

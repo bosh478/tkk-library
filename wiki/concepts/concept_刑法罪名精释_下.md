@@ -2,6 +2,7 @@
 title: 刑法罪名精释（下）
 type: concept
 created: 2026-04-18
+quality: 2
 updated: 2026-04-18
 tags: [刑法, 罪名, 司法解释]
 source: [[2024《刑法罪名精释》下 胡云腾 人民法院 2024年.md]]

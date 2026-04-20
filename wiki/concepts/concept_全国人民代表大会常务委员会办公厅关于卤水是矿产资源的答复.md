@@ -2,6 +2,7 @@
 title: 全国人民代表大会常务委员会办公厅关于卤水是矿产资源的答复
 type: concept
 created: 2026-04-16
+quality: 1
 updated: 2026-04-16
 tags: [法律]
 sources: [[全国人民代表大会常务委员会办公厅关于卤水是矿产资源的答复]]

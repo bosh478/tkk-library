@@ -2,6 +2,7 @@
 title: 中华人民共和国消防法（2021修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [消防, 火灾预防, 灭火救援, 其他]
 sources: [[中华人民共和国消防法（2021修正）.md]]

@@ -2,6 +2,7 @@
 title: 中华人民共和国民营经济促进法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [法律]
 sources: [[中华人民共和国民营经济促进法]]

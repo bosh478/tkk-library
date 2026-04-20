@@ -2,6 +2,7 @@
 title: 中华人民共和国慈善法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [社会事务, 慈善, 实体法]
 source: [[中华人民共和国慈善法（2023修正）]]

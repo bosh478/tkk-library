@@ -2,6 +2,7 @@
 title: 中华人民共和国计量法（2018修正）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [计量, 计量标准, 其他]
 sources: [[中华人民共和国计量法（2018修正）.md]]

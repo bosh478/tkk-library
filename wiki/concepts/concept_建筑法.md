@@ -2,6 +2,7 @@
 title: 中华人民共和国建筑法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [建设, 建筑, 实体法]
 source: [[中华人民共和国建筑法（2019修正）]]

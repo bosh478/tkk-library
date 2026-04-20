@@ -2,6 +2,7 @@
 title: 中华人民共和国城市房地产管理法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [城市建设, 房地产, 实体法]
 source: [[中华人民共和国城市房地产管理法（2019修正）]]

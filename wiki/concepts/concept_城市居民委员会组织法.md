@@ -2,6 +2,7 @@
 title: 中华人民共和国城市居民委员会组织法
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [社区治理, 基层自治, 实体法]
 source: [[中华人民共和国城市居民委员会组织法（2025修订）]]

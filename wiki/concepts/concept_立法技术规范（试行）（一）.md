@@ -2,6 +2,7 @@
 title: 立法技术规范（试行）（一）
 type: concept
 created: 2026-04-16
+quality: 2
 updated: 2026-04-16
 tags: [立法技术, 立法规范, 其他]
 sources: [[立法技术规范（试行）（一）.md]]

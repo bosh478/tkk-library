@@ -2,6 +2,7 @@
 title: 全国人民代表大会议事规则
 type: concept
 created: 2026-04-16
+quality: 1
 updated: 2026-04-16
 tags: [宪法与人大, 程序法]
 source: [[中华人民共和国全国人民代表大会议事规则（2021修正）.md]]
