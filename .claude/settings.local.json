@@ -208,7 +208,20 @@
       "Bash(git -C C:/Users/汤康康/.agents branch -a)",
       "Bash(dir \".claude\\\\skills\\\\\")",
       "Bash(grep -E \"^\\\\[案例|案$|罪$\")",
-      "Bash(sort -t第 -k2 -n)"
+      "Bash(sort -t第 -k2 -n)",
+      "Bash(sort -k5 -n -r)",
+      "Bash(bash 查重筛选.sh sources/法律法规/)",
+      "Bash(bash 查重筛选.sh 法律法规/)",
+      "Bash(bash 查重筛选.sh 网络文章/)",
+      "Bash(mv 已整理.txt 已整理.mdown)",
+      "Bash(mv 未整理.txt 未整理.mdown)",
+      "Bash(ls *.mdown)",
+      "Bash(mv 已整理.mdown 已整理.md)",
+      "Bash(mv 未整理.mdown 未整理.md)",
+      "Bash(ls *.md)",
+      "Bash(bash 查重筛选.sh 司法观点、案例/)",
+      "Bash(bash 查重筛选.sh \"司法观点、案例/\")",
+      "Bash(py *)"
     ]
   },
   "hooks": {
