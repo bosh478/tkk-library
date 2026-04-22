@@ -6,7 +6,7 @@ quality: 2
 updated: 2026-04-13
 tags: [财产类, 职务犯罪, 贪污贿赂]
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
-related: ["concept_职务侵占罪", "concept_挪用公款罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
+related: ["concept_受贿罪", "concept_挪用公款罪", "concept_职务侵占罪", "concept_挪用资金罪", "concept_私分国有资产罪", "concept_巨额财产来源不明罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
 
 ## 法条依据
@@ -52,8 +52,7 @@ related: ["concept_职务侵占罪", "concept_挪用公款罪", "entity_法释20
 
 ## 相关
 
-- [[entity_法释2016_9号_贪污贿赂解释]]
-- [[entity_法释2026_6号_贪污贿赂解释二]]
-- [[concept_职务侵占罪]]
-- [[concept_挪用公款罪]]
-- [[concept_私分国有资产罪]]
+- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
+- 同章节罪名：[[concept_受贿罪]] | [[concept_挪用公款罪]] | [[concept_巨额财产来源不明罪]] | [[concept_私分国有资产罪]]
+- 主体身份对比：[[concept_职务侵占罪]]（非国家工作人员） | [[concept_挪用资金罪]]（非国家工作人员）
+- 推理链：[[synthesis_贿赂犯罪体系对比]]（罪名选择逻辑）

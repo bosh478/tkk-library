@@ -6,7 +6,7 @@ quality: 2
 updated: 2026-04-13
 tags: [行贿类, 职务犯罪, 贪污贿赂]
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
-related: ["concept_单位行贿罪", "concept_对单位行贿罪", "concept_介绍贿赂罪"]
+related: ["concept_受贿罪", "concept_单位行贿罪", "concept_对单位行贿罪", "concept_介绍贿赂罪", "concept_对非国家工作人员行贿罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
 
 ## 法条依据
@@ -46,7 +46,8 @@ related: ["concept_单位行贿罪", "concept_对单位行贿罪", "concept_介�
 
 ## 相关
 
-- [[entity_法释2016_9号_贪污贿赂解释]]
-- [[entity_法释2026_6号_贪污贿赂解释二]]
-- [[concept_单位行贿罪]]
-- [[concept_对单位行贿罪]]
+- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
+- 同章节罪名：[[concept_单位行贿罪]] | [[concept_对单位行贿罪]] | [[concept_介绍贿赂罪]]
+- 对向犯：[[concept_受贿罪]]
+- 横向对比：[[concept_对非国家工作人员行贿罪]]
+- 推理链：[[synthesis_贿赂犯罪体系对比]]

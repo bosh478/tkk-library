@@ -6,7 +6,7 @@ quality: 2
 updated: 2026-04-13
 tags: [财产类, 企业犯罪, 贪污贿赂]
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
-related: ["concept_贪污罪", "concept_挪用资金罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
+related: ["concept_贪污罪", "concept_挪用资金罪", "concept_受贿罪", "concept_非国家工作人员受贿罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
 
 ## 法条依据
@@ -35,7 +35,7 @@ related: ["concept_贪污罪", "concept_挪用资金罪", "entity_法释2016_9�
 
 ## 相关
 
-- [[entity_法释2016_9号_贪污贿赂解释]]
-- [[entity_法释2026_6号_贪污贿赂解释二]]
-- [[concept_贪污罪]]
-- [[concept_挪用资金罪]]
+- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
+- 同章节罪名：[[concept_非国家工作人员受贿罪]]
+- 主体身份对比：[[concept_贪污罪]]（国家工作人员） | [[concept_挪用资金罪]]（非国家工作人员）
+- 推理链：[[synthesis_贿赂犯罪体系对比]]

@@ -196,7 +196,19 @@
       "Bash(awk -F'/' '{print $2}')",
       "Bash(awk '{print $1}')",
       "Bash(git -C \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest\" diff skill.md)",
-      "WebFetch(domain:minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com)"
+      "WebFetch(domain:minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com)",
+      "Bash(tasklist)",
+      "Bash(wmic process *)",
+      "Bash(sed 's/<[^>]*>//g')",
+      "Bash(sed 's/^[[:space:]]*//')",
+      "Bash(mkdir -p \"D:/BaiduSyncdisk/第二大脑/7归档/文章发布\")",
+      "Read(//d/BaiduSyncdisk/第二大脑/7归档/文章发布/**)",
+      "Bash(mv \"D:/AI agent/tkk-library/wiki/问答/synthesis_刑事程序追回网络打赏钱款的法律分析_小梦案为引言.md\" \"D:/BaiduSyncdisk/第二大脑/7归档/文章发布/\")",
+      "Bash(mv \"D:/AI agent/tkk-library/wiki/问答/images/\" \"D:/BaiduSyncdisk/第二大脑/7归档/文章发布/\")",
+      "Bash(git -C C:/Users/汤康康/.agents branch -a)",
+      "Bash(dir \".claude\\\\skills\\\\\")",
+      "Bash(grep -E \"^\\\\[案例|案$|罪$\")",
+      "Bash(sort -t第 -k2 -n)"
     ]
   },
   "hooks": {
