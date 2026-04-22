@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "cfb4cfb547660744",
@@ -196,7 +195,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ffeb30c214ac40f3",
+  "active": "7d319c9b077d7bd0",
   "lastOpenFiles": [
     "sources/书籍资料/《刑法》释解与适用  下  王爱立 人民法院 2024年.md",
     "sources/书籍资料/《刑法》释解与适用  上  王爱立 人民法院 2024年.md",
