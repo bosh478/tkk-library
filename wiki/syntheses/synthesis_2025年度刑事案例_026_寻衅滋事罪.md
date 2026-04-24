@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [寻衅滋事罪, 借故生非, 共同犯罪]
-source: [[2025年度法院刑事案例合集（1-4册）.md]]
+sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [[故意伤害罪]]
 ---
 

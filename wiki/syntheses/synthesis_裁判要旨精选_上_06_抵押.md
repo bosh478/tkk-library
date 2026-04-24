@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 抵押, 担保合同, 抵押登记, 抵押权实现]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_抵押权]], [[concept_担保合同]], [[concept_物权]]
 ---
 

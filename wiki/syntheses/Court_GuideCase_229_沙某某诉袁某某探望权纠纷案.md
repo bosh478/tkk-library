@@ -1,3 +1,12 @@
+---
+title: 指导性案例229号 - 沙某某诉袁某某探望权纠纷案
+type: synthesis
+created: 2026-04-18
+updated: 2026-04-18
+tags: [指导性案例, 最高人民法院]
+sources: [Court_GuideCase_229_沙某某诉袁某某探望权纠纷案.md]
+---
+
 　　指导性案例229号
 
 　　沙某某诉袁某某探望权纠纷案

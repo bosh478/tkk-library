@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 土地使用权, 土地出让合同, 土地转让, 违约金]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_土地使用权]], [[concept_土地出让合同]], [[concept_建设用地使用权]]
 ---
 

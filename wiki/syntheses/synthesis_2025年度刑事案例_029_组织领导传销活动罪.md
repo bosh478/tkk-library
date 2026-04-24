@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [组织领导传销活动罪, 传销, 区块链]
-source: [[2025年度法院刑事案例合集（1-4册）.md]]
+sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [[非法吸收公众存款罪]]
 ---
 

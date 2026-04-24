@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 违约责任, 违约金, 定金, 损失赔偿, 可预见性原则]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_违约责任]], [[concept_违约金]], [[concept_定金]], [[concept_损失赔偿]]
 ---
 

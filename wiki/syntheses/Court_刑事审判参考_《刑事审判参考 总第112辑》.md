@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-19
 tags: [刑事审判参考, 指导案例, 恐怖主义犯罪, 死刑适用, 共同犯罪, 毒品犯罪, 受贿罪]
-source: [[《刑事审判参考 总第112辑》.md]]
+sources: [《刑事审判参考 总第112辑》.md]
 refinement_needed: false
 quality: 4
 ---

@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 房地产开发, 合作开发, 合资, 委托代建]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_合作开发房地产]], [[concept_合资合同]], [[concept_委托代建合同]]
 ---
 

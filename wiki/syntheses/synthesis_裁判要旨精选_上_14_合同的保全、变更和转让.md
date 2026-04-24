@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同保全, 债权人撤销权, 债务加入, 债权人代位权, 债权转让]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_债权人撤销权]], [[concept_债务加入]], [[concept_债权人代位权]], [[concept_债权转让]]
 ---
 

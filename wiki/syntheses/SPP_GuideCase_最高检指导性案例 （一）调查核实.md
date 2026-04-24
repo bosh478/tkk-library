@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高检]
-source: [[最高检指导性案例 （一）调查核实.md]]
+sources: [最高检指导性案例 （一）调查核实.md]
 ---
 
 ## 案件信息

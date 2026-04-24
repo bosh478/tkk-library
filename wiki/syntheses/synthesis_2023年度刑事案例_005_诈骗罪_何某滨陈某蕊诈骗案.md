@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [诈骗罪, 套路贷, 虚假诉讼, 刑民交叉, 非法占有目的]
-source: [[2023年度中国法院刑事案例（1-4册）.md]]
+sources: [2023年度中国法院刑事案例（1-4册）.md]
 related: [[concept_诈骗罪]]
 ---
 

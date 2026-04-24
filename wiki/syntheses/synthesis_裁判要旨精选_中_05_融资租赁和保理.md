@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 融资租赁, 保理合同, 民商事]
-source: [[《最高人民法院裁判要旨精选》中 最高法审管办 202504]]
+sources: [《最高人民法院裁判要旨精选》中 最高法审管办 202504]
 related: [[synthesis_裁判要旨精选_中_01_合同纠纷总则]], [[concept_融资租赁合同]], [[concept_保理合同]]
 ---
 

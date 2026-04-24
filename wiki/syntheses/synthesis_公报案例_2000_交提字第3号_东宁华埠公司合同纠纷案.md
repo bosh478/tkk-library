@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 合同纠纷, 船舶代理, 买卖合同]
-source: [[公报案例 (2000)交提字第3号.md]]
+sources: [公报案例 (2000)交提字第3号.md]
 ---
 
 ## 案件信息

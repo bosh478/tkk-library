@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [交通肇事罪, 赔偿请求权, 亲权, 离婚, 监护人]
-source: [[2023年度中国法院刑事案例（1-4册）.md]]
+sources: [2023年度中国法院刑事案例（1-4册）.md]
 related: [[concept_交通肇事罪]]
 ---
 

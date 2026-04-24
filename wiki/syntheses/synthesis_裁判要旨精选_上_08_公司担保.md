@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 公司担保, 越权担保, 表见代理, 上市公司担保, 关联担保]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_公司担保]], [[concept_越权担保]], [[concept_上市公司担保]]
 ---
 

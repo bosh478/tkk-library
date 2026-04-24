@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [引渡, 诈骗罪]
-source: [[公报案例 (2006)刑引字第2号]]
+sources: [公报案例 (2006)刑引字第2号]
 ---
 
 ## 案件信息

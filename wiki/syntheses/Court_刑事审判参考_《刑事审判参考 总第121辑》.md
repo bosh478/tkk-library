@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-19
 tags: [刑事审判参考, 指导案例, 疫情防控, 以危险方法危害公共安全罪, 销售伪劣产品罪, 诈骗罪, 妨害公务罪, 寻衅滋事罪]
-source: [[《刑事审判参考 总第121辑》.md]]
+sources: [《刑事审判参考 总第121辑》.md]
 refinement_needed: false
 quality: 4
 ---

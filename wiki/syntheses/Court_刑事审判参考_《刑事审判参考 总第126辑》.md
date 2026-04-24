@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-19
 tags: [刑事审判参考, 司法解释, 刑事诉讼法解释, 刑事程序法]
-source: [[《刑事审判参考 总第126辑》.md]]
+sources: [《刑事审判参考 总第126辑》.md]
 refinement_needed: false
 quality: 4
 ---

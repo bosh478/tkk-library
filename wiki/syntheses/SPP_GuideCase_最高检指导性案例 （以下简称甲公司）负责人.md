@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高检]
-source: [[最高检指导性案例 （以下简称甲公司）负责人.md]]
+sources: [最高检指导性案例 （以下简称甲公司）负责人.md]
 ---
 
 ## 案件信息

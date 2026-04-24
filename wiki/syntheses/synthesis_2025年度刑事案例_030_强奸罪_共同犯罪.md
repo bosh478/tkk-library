@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [强奸罪, 共同犯罪, 犯意联络]
-source: [[2025年度法院刑事案例合集（1-4册）.md]]
+sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [[强奸罪]]
 ---
 

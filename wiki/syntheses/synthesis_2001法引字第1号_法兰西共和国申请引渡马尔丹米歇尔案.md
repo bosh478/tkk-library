@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [引渡, 强奸罪]
-source: [[公报案例 (2001)法引字第1号]]
+sources: [公报案例 (2001)法引字第1号]
 ---
 
 ## 案件信息

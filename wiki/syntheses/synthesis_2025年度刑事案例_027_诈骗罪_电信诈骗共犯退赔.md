@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [诈骗罪, 电信诈骗, 从犯, 退赔责任]
-source: [[2025年度法院刑事案例合集（1-4册）.md]]
+sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [[帮助信息网络犯罪活动罪]]
 ---
 

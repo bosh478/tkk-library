@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 商标许可, 技术合同, 特许经营, 合同效力]
-source: [[《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
 related: [[concept_知识产权法]], [[concept_商标法]], [[concept_合同法]], [[synthesis_裁判要旨精选_下_02_知识产权_商标]]
 ---
 

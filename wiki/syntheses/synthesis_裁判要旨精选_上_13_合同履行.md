@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同履行, 情势变更, 同时履行抗辩权, 不安抗辩权]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_合同履行]], [[concept_情势变更]], [[concept_同时履行抗辩权]], [[concept_不安抗辩权]]
 ---
 

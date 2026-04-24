@@ -4,7 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 买卖合同, 合同解释, 实际履行, 检验期间, 拍卖, 虚假买卖]
-source: [[《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]]
+sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
 related: [[concept_买卖合同]], [[concept_合同解释]], [[concept_拍卖]]
 ---
 

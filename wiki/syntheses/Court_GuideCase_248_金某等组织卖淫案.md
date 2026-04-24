@@ -1,3 +1,12 @@
+---
+title: 指导性案例248号 - 金某等组织卖淫案
+type: synthesis
+created: 2026-04-18
+updated: 2026-04-18
+tags: [指导性案例, 最高人民法院]
+sources: [Court_GuideCase_248_金某等组织卖淫案.md]
+---
+
 　　**指导性案例248号**
 
 **金某等组织卖淫案**
