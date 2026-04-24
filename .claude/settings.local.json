@@ -239,7 +239,10 @@
       "Bash(审判监督\" | head -20)",
       "Bash(bash 查重筛选.sh \"现行规范库/\")",
       "Bash(grep -n \"^\\\\d\\\\{1,2\\\\}.*法人\" \"D:\\\\AI agent\\\\tkk-library\\\\sources\\\\司法观点、案例\\\\《最高人民法院裁判要旨精选》中 最高法审管办 202504.md\")",
-      "Bash(grep *)"
+      "Bash(grep *)",
+      "Bash(mv \"wiki/syntharies/synthesis_商事合同法定解除的三层递进审查法.md\" \"wiki/syntheses/\")",
+      "Bash(rmdir \"wiki/syntharies\")",
+      "Bash(xargs -I{} basename \"{}\")"
     ]
   },
   "hooks": {

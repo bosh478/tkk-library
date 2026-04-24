@@ -2,7 +2,7 @@
 title: 民法典适用大全·合同卷核心要点
 type: synthesis
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [民法典, 合同编, 司法适用, 适用大全]
 sources: [
   [合同卷1, 《民法典适用大全》合同卷1 2023年 463-556.md],
