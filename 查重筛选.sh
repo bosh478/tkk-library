@@ -68,14 +68,19 @@ for wiki_dir in "${WIKI_DIRS[@]}"; do
         #   source: [[文件名.md]]
         #   source: [["文件名.md"]]
         #   sources: [[文件名]]
+        #   sources: [["文件名1.md"], ["文件名2.md"]]
         #   source: ["sources/目录/文件名.md"]
         #   sources: [["文件名.md"]]
         grep -rE "^source[s]?:" "${wiki_dir}"/ --include="*.md" -h 2>/dev/null | \
             sed -E 's/^source[s]?:\s*//' | \
-            sed -E 's/\[\[([^]]+)\]\]/\1/g' | \
-            sed -E 's/\["?sources\/[^]]+\/([^]]+)"?\]/\1/g' | \
+            # 去掉首尾的 [[ 和 ]]
+            sed -E 's/^\[\[//' | sed -E 's/\]\]$//' | \
+            # 按 ], [ 分割成多行
+            sed -E 's/\],\s*\[/\n/g' | \
+            # 去掉每行首尾的 [ 和 ]
+            sed -E 's/^\[//' | sed -E 's/\]$//' | \
             sed -E 's/^"//g; s/"$//g' | \
-            sed -E 's/.*\|(.*)/\1/' | \
+            grep -v '^$' | \
             while IFS= read -r line; do
                 # 去除可能的 sources/ 前缀，只保留纯文件名
                 basename "${line}" 2>/dev/null || echo "${line}"

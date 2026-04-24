@@ -221,7 +221,25 @@
       "Bash(ls *.md)",
       "Bash(bash 查重筛选.sh 司法观点、案例/)",
       "Bash(bash 查重筛选.sh \"司法观点、案例/\")",
-      "Bash(py *)"
+      "Bash(py *)",
+      "Bash(bash 查重筛选.sh \"书籍资料/\")",
+      "Bash(HF_ENDPOINT=https://hf-mirror.com qmd embed)",
+      "Bash(bash 查重筛选.sh \"sources/《理解与适用》/\")",
+      "Bash(sed -E 's/^source[s]?:\\\\s*//')",
+      "Bash(perl -pe 's/\\\\[\\\\[\\([^\\\\]]+\\)\\\\]\\\\]/$1\\\\n/g')",
+      "Bash(sed -E 's/^\\\\[\\\\[//')",
+      "Bash(sed -E 's/\\\\]\\\\]$//')",
+      "Bash(sed -E 's/^\\\\[//')",
+      "Bash(sed -E 's/\\\\]$//')",
+      "Bash(bash 查重筛选.sh \"sources/《民法典适用大全》/\")",
+      "Bash(xargs head *)",
+      "Bash(shuf)",
+      "Bash(bash 查重筛选.sh \"sources/《刑事审判参考》/\")",
+      "Bash(bash 查重筛选.sh \"sources/《统编教材》法官审判实务/\")",
+      "Bash(审判监督\" | head -20)",
+      "Bash(bash 查重筛选.sh \"现行规范库/\")",
+      "Bash(grep -n \"^\\\\d\\\\{1,2\\\\}.*法人\" \"D:\\\\AI agent\\\\tkk-library\\\\sources\\\\司法观点、案例\\\\《最高人民法院裁判要旨精选》中 最高法审管办 202504.md\")",
+      "Bash(grep *)"
     ]
   },
   "hooks": {
