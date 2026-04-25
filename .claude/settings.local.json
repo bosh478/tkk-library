@@ -242,7 +242,8 @@
       "Bash(grep *)",
       "Bash(mv \"wiki/syntharies/synthesis_商事合同法定解除的三层递进审查法.md\" \"wiki/syntheses/\")",
       "Bash(rmdir \"wiki/syntharies\")",
-      "Bash(xargs -I{} basename \"{}\")"
+      "Bash(xargs -I{} basename \"{}\")",
+      "Bash(bash 查重筛选.sh 书籍资料/)"
     ]
   },
   "hooks": {
