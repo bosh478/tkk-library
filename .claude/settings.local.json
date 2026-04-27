@@ -255,7 +255,14 @@
       "Bash(mkdir -p tkk-legal-ingest tkk-article-polish tkk-legal-article-pipeline)",
       "Bash(mv SKILL.md tkk-legal-ingest/)",
       "Bash(cp -r tkk-article-polish/* tkk-skills/tkk-article-polish/)",
-      "Bash(cp -r tkk-legal-article-pipeline/* tkk-skills/tkk-legal-article-pipeline/)"
+      "Bash(cp -r tkk-legal-article-pipeline/* tkk-skills/tkk-legal-article-pipeline/)",
+      "Bash(mkdir -p \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/skill\")",
+      "Bash(mkdir -p \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/memory\")",
+      "Bash(mkdir -p \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/evals\")",
+      "Bash(mkdir -p \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/examples\")",
+      "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/SKILL.md\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/skill/\")",
+      "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/evals/evals.json\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/evals/\")",
+      "Bash(cp \"C:/Users/汤康康/.claude/projects/D--AI-agent-tkk-library/memory/\"*.md \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/memory/\")"
     ]
   },
   "hooks": {
