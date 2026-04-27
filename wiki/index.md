@@ -167,10 +167,10 @@
 
 | 类型 | 数量 |
 |------|------|
-| Concepts（概念页） | 1562 |
+| Concepts（概念页） | 1566 |
 | Entities（实体页） | 1793 |
-| Syntheses（综合分析） | 2458 |
-| Summaries（来源摘要） | 524 |
-| **总计** | **6419** |
+| Syntheses（综合分析） | 2475 |
+| Summaries（来源摘要） | 543 |
+| **总计** | **6377** |
 
-> 注：统计数据截至 2026-04-27。Concepts/Entities/Syntheses 数量为目录内 .md 文件数；Summaries 为律师业务指引摘要数量。
+> 注：统计数据截至 2026-04-28。Concepts/Entities/Syntheses 数量为目录内 .md 文件数；Summaries 为律师业务指引摘要数量。

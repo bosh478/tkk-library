@@ -262,7 +262,8 @@
       "Bash(mkdir -p \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/examples\")",
       "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/SKILL.md\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/skill/\")",
       "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/evals/evals.json\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/evals/\")",
-      "Bash(cp \"C:/Users/汤康康/.claude/projects/D--AI-agent-tkk-library/memory/\"*.md \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/memory/\")"
+      "Bash(cp \"C:/Users/汤康康/.claude/projects/D--AI-agent-tkk-library/memory/\"*.md \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/memory/\")",
+      "Bash(bun scripts/main.ts --help)"
     ]
   },
   "hooks": {

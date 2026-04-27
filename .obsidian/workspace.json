@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da8c9f24cc389067",
+            "id": "391a93564be7dffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/用AI生成内容，版权到底算谁的？.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "用AI生成内容，版权到底算谁的？"
+              "title": "新标签页"
             }
           }
         ]
@@ -161,13 +157,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "890f1497dab50dd7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da8c9f24cc389067",
+  "active": "890f1497dab50dd7",
   "lastOpenFiles": [
+    "Clippings/用AI生成内容，版权到底算谁的？.md",
     "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md",
     "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md.tmp.18320.1777260386384",
     "wiki/summaries/Summary_民事审判实务问答_分类_劳动争议与人身损害_114-154.md",
@@ -192,7 +199,6 @@
     "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md",
     "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md.tmp.18320.1777260147004",
     "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md.tmp.18320.1777260057259",
-    "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md",
-    "Clippings/用AI生成内容，版权到底算谁的？.md"
+    "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md"
   ]
 }
