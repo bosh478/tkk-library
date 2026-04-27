@@ -243,7 +243,19 @@
       "Bash(mv \"wiki/syntharies/synthesis_商事合同法定解除的三层递进审查法.md\" \"wiki/syntheses/\")",
       "Bash(rmdir \"wiki/syntharies\")",
       "Bash(xargs -I{} basename \"{}\")",
-      "Bash(bash 查重筛选.sh 书籍资料/)"
+      "Bash(bash 查重筛选.sh 书籍资料/)",
+      "Bash(bash 查重筛选.sh \"《刑事审判参考》/职务犯罪审判指导/\")",
+      "Bash(unzip *)",
+      "Bash(mkdir *)",
+      "Bash(cp -r . \"C:\\\\Users\\\\汤康康\\\\Desktop\\\\tkk-legal-ingest-backup/\")",
+      "Bash(rm -rf \"C:\\\\Users\\\\汤康康\\\\Desktop\\\\tkk-legal-ingest-backup/legal-ingest-workspace\")",
+      "Bash(cp -r tkk-legal-ingest/SKILL.md tkk-skills/)",
+      "Bash(cp -r tkk-article-polish/. tkk-skills/)",
+      "Bash(cp -r tkk-legal-article-pipeline/. tkk-skills/)",
+      "Bash(mkdir -p tkk-legal-ingest tkk-article-polish tkk-legal-article-pipeline)",
+      "Bash(mv SKILL.md tkk-legal-ingest/)",
+      "Bash(cp -r tkk-article-polish/* tkk-skills/tkk-article-polish/)",
+      "Bash(cp -r tkk-legal-article-pipeline/* tkk-skills/tkk-legal-article-pipeline/)"
     ]
   },
   "hooks": {

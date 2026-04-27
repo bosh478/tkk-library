@@ -1,0 +1,19 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="450" fill="#f0f4f8"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="22" fill="#1a1a2e" text-anchor="middle" font-weight="bold">案情对比：本案 vs 普通拒执罪</text>
+  <rect x="40" y="70" width="340" height="300" rx="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="210" y="100" font-family="Arial, sans-serif" font-size="16" fill="#4a90d9" text-anchor="middle" font-weight="bold">普通拒执罪</text>
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="13" fill="#333">主体：被执行人本人</text>
+  <text x="60" y="155" font-family="Arial, sans-serif" font-size="13" fill="#333">故意：直接故意逃避执行</text>
+  <text x="60" y="180" font-family="Arial, sans-serif" font-size="13" fill="#333">行为：本人转移/隐匿财产</text>
+  <text x="60" y="205" font-family="Arial, sans-serif" font-size="13" fill="#333">入罪：单一主体即可构罪</text>
+  <rect x="420" y="70" width="340" height="300" rx="12" fill="#ffffff" stroke="#ffd700" stroke-width="2"/>
+  <text x="590" y="100" font-family="Arial, sans-serif" font-size="16" fill="#c9a000" text-anchor="middle" font-weight="bold">李志萍律师案</text>
+  <text x="440" y="130" font-family="Arial, sans-serif" font-size="13" fill="#333">主体：律师（被执行人代理人）</text>
+  <text x="440" y="155" font-family="Arial, sans-serif" font-size="13" fill="#333">故意：共同故意帮助拒执</text>
+  <text x="440" y="180" font-family="Arial, sans-serif" font-size="13" fill="#333">行为：教唆/指使当事人转移</text>
+  <text x="440" y="205" font-family="Arial, sans-serif" font-size="13" fill="#333">入罪：共犯理论纳入规制</text>
+  <text x="590" y="250" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="middle" font-weight="bold">⚠ 律师身份不免责</text>
+  <rect x="380" y="150" width="40" height="40" rx="20" fill="#4a90d9"/>
+  <text x="400" y="175" font-family="Arial, sans-serif" font-size="20" fill="#fff" text-anchor="middle">VS</text>
+</svg>

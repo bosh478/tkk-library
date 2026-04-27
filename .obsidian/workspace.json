@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ec250dc619f05905",
+    "id": "f5ac59bd72614b4d",
     "type": "split",
     "children": [
       {
-        "id": "bed309b0dd0e7baa",
+        "id": "ad0c0e435ff711de",
         "type": "tabs",
         "children": [
           {
-            "id": "ffeb30c214ac40f3",
+            "id": "da8c9f24cc389067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问答/19岁少女挪用的1700万元拿来打赏了，能通过刑事程序追回吗？.md",
+                "file": "Clippings/用AI生成内容，版权到底算谁的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19岁少女挪用的1700万元拿来打赏了，能通过刑事程序追回吗？"
+              "title": "用AI生成内容，版权到底算谁的？"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed1d0e009cd80ab5",
+    "id": "effd7e9bad1a510e",
     "type": "split",
     "children": [
       {
-        "id": "294e0f057b731eca",
+        "id": "d1877226760be2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "c06971e775282946",
+            "id": "fa958266aca4b871",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "6fa66328545fb388",
+            "id": "6c7922d16724c61a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6a3e2bed2242b808",
+            "id": "561564e8404945e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,47 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 300
   },
   "right": {
-    "id": "cfb4cfb547660744",
+    "id": "76ef66ce11341f45",
     "type": "split",
     "children": [
       {
-        "id": "6a902c77de86ea60",
+        "id": "b230e5aaa3be27b4",
         "type": "tabs",
         "children": [
           {
-            "id": "810e9025df1bb340",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "7d319c9b077d7bd0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "0bd42a40836a97bc",
+            "id": "6dd199b88230499a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "草稿本 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "b09ca67a621b173a",
+            "id": "cf3a3ea0f4709577",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "草稿本 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "ecea8bdac2e27970",
+            "id": "22a1e70a55caebfc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,87 +135,64 @@
             }
           },
           {
-            "id": "903461409b8b5ee3",
+            "id": "075ad9413661ee0f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e6a77db57c364938",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿本 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "canvas:新建白板": false,
       "graph:查看关系图谱": false,
-      "obsidian-git:Open Git source control": false,
+      "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffeb30c214ac40f3",
+  "active": "da8c9f24cc389067",
   "lastOpenFiles": [
-    "wiki/syntheses/synthesis_职务犯罪审判指导_合集.md",
-    "wiki/syntheses/synthesis_民法典适用大全_涉外商事海事卷.md",
-    "wiki/index.md.tmp.14900.1777045716487",
-    "log.md.tmp.14900.1777045688816",
-    "wiki/syntheses/synthesis_公报案例_合集.md",
-    "wiki/syntheses/synthesis_电子数据司法鉴定实务.md",
-    "sources/书籍资料/《刑法》释解与适用  下  王爱立 人民法院 2024年.md",
-    "sources/书籍资料/《刑法》释解与适用  上  王爱立 人民法院 2024年.md",
-    "wiki/问答/synthesis_刑事程序追回网络打赏钱款的法律分析_小梦案为引言.md",
-    "问答/19岁少女挪用的1700万元拿来打赏了，能通过刑事程序追回吗？.md",
-    "wiki/问答/images/打赏追赃-05.svg.tmp.8964.1776786394119",
-    "wiki/问答/synthesis_刑事程序追回网络打赏钱款的法律分析_小梦案为引言.md.tmp.8964.1776785506489",
-    "wiki/问答/synthesis_刑事程序追回网络打赏钱款的法律分析_小梦案为引言.md.tmp.8964.1776785500076",
-    "wiki/问答/images/打赏追赃-05.png",
-    "wiki/问答/images/打赏追赃-04.png",
-    "wiki/问答/images/打赏追赃-03.png",
-    "wiki/问答/images/打赏追赃-02.png",
-    "wiki/问答/images/打赏追赃-01.png",
-    "wiki/问答/images/打赏追赃-05.svg",
-    "wiki/问答/images/打赏追赃-05.svg.tmp.8964.1776785438726",
-    "wiki/问答/images/打赏追赃-04.svg",
-    "wiki/问答/images/打赏追赃-03.svg",
-    "wiki/问答/images/打赏追赃-02.svg",
-    "wiki/问答/images/打赏追赃-01.svg",
-    "wiki/问答/images",
-    "wiki/问答",
-    "wiki/syntheses/synthesis_刑事程序追回网络打赏钱款的法律分析_小梦案为引言.md",
-    "log.md.tmp.8964.1776783131063",
-    "sources/INDEX.md.tmp.8964.1776783098351",
-    "wiki/syntheses/Court_入库案例_胡某某职务侵占案_2021京03刑终623号.md",
-    "wiki/syntheses/synthesis_胡某某职务侵占案_2021京03刑终623号.md",
-    "sources/书籍资料/20260418/2023年度中国法院刑事案例（1-4册）.md",
-    "log.md",
-    "wiki/syntheses/Synthesis_2024年度法院刑事案例合集.md",
-    "草稿本.md",
-    "wiki/concepts/concept_排除强制执行.md",
-    "wiki/summaries/summary_案外人另案生效法律文书排除强制执行司法认定.md",
-    "sources/网络文章/2026-04-20_刑事合规不起诉审理要点/案外人另案生效法律文书排除强制执行司法认定.md",
-    "wiki/concepts/concept_医疗美容欺诈.md",
-    "wiki/summaries/summary_医疗美容欺诈行为及责任司法认定要点.md",
-    "sources/网络文章/2026-04-20_涉未成年保护案件审理要点/医疗美容欺诈行为及责任的司法认定要点.md",
-    "wiki/concepts/concept_甲指分包付款义务.md",
-    "wiki/summaries/summary_建设工程甲指分包付款义务主体审查要点.md",
-    "sources/网络文章/2026-04-20_劳动争议审理司法建议/建设工程甲指分包付款义务主体甄别与审查要点.md",
-    "wiki/concepts/concept_故意伤害罪主观故意.md",
-    "wiki/concepts/concept_轻微暴力认定.md"
+    "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md",
+    "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md.tmp.18320.1777260386384",
+    "wiki/summaries/Summary_民事审判实务问答_分类_劳动争议与人身损害_114-154.md",
+    "wiki/summaries/Summary_民事审判实务问答_分类_婚姻家庭与继承_079-113.md",
+    "wiki/summaries/Summary_民事审判实务问答_分类_婚姻家庭与继承_079-113.md.tmp.18320.1777260223517",
+    "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md",
+    "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md.tmp.18320.1777260147004",
+    "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md.tmp.18320.1777260057259",
+    "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md",
+    "Clippings/用AI生成内容，版权到底算谁的？.md"
   ]
 }

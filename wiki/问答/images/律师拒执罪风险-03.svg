@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="450" fill="#1a1a2e"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="22" fill="#ffffff" text-anchor="middle" font-weight="bold">拒执罪共犯认定框架</text>
+  <rect x="300" y="65" width="200" height="40" rx="8" fill="#4a90d9"/>
+  <text x="400" y="92" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">前提条件</text>
+  <path d="M400 105 L400 135" stroke="#4a90d9" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="200" y="140" width="400" height="40" rx="8" fill="#2d5a87"/>
+  <text x="400" y="167" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle">被执行人确有执行能力</text>
+  <path d="M400 180 L400 210" stroke="#4a90d9" stroke-width="2"/>
+  <rect x="80" y="215" width="280" height="120" rx="12" fill="none" stroke="#ffd700" stroke-width="2"/>
+  <text x="220" y="245" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">律师帮助行为</text>
+  <text x="100" y="270" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">教唆转移财产</text>
+  <text x="100" y="290" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">指使虚假异议</text>
+  <text x="100" y="310" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">隐匿财产线索</text>
+  <rect x="440" y="215" width="280" height="120" rx="12" fill="none" stroke="#ff6b6b" stroke-width="2"/>
+  <text x="580" y="245" font-family="Arial, sans-serif" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">危害结果</text>
+  <text x="460" y="270" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">判决无法执行</text>
+  <text x="460" y="290" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">申请人权益受损</text>
+  <text x="460" y="310" font-family="Arial, sans-serif" font-size="12" fill="#cccccc">情节严重认定</text>
+  <path d="M360 275 L440 275" stroke="#ffd700" stroke-width="1" stroke-dasharray="4"/>
+  <path d="M400 335 L400 365" stroke="#4a90d9" stroke-width="2"/>
+  <rect x="250" y="370" width="300" height="50" rx="10" fill="#d32f2f"/>
+  <text x="400" y="400" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">结论：拒执罪共犯</text>
+</svg>
