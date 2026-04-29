@@ -263,7 +263,14 @@
       "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/SKILL.md\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/skill/\")",
       "Bash(cp \"C:/Users/汤康康/.claude/skills/tkk-legal-ingest/evals/evals.json\" \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/evals/\")",
       "Bash(cp \"C:/Users/汤康康/.claude/projects/D--AI-agent-tkk-library/memory/\"*.md \"C:/Users/汤康康/Desktop/tkk-legal-ingest-export/memory/\")",
-      "Bash(bun scripts/main.ts --help)"
+      "Bash(bun scripts/main.ts --help)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(mkdir -p tkk-legal-ingest)",
+      "Bash(mv SKILL.md README.md references/ tkk-legal-ingest/)",
+      "Bash(xxd \"SPP_JianDaWang_2019-08-07_[2019-08-07]检答网集萃12拆迁公司负责人能否成为贪污罪挪用公款罪的主体等两问两答.md\")"
     ]
   },
   "hooks": {

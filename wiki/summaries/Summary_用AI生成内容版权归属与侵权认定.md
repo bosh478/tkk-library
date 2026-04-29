@@ -1,7 +1,7 @@
 ---
 title: 用AI生成内容，版权到底算谁的？
 type: summary
-source: [[Clippings/用AI生成内容，版权到底算谁的？.md]]
+source: [[用AI生成内容，版权到底算谁的？.md]]
 published: 2026-04-25
 created: 2026-04-27
 updated: 2026-04-27
