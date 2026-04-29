@@ -273,7 +273,11 @@
       "Bash(xxd \"SPP_JianDaWang_2019-08-07_[2019-08-07]检答网集萃12拆迁公司负责人能否成为贪污罪挪用公款罪的主体等两问两答.md\")",
       "Bash(cat)",
       "Bash(mv wiki/courts/Court_\\\\\\(2025\\\\\\)皖1181刑初322号_李志萍律师拒执罪案.md \"wiki/syntheses/synthesis_李志萍律师拒执罪案_2025.md\")",
-      "Bash(rmdir wiki/courts)"
+      "Bash(rmdir wiki/courts)",
+      "Bash(rm \"8输出/tkk-case/李志萍律师拒执罪案法律分析.md\")",
+      "Bash(rmdir \"8输出/tkk-case\")",
+      "Bash(rmdir \"8输出\")",
+      "Bash(ls \"8输出/\")"
     ]
   },
   "hooks": {
