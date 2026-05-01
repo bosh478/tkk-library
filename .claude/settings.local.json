@@ -290,7 +290,13 @@
       "Bash(rm -rf tkk-legal-ingest/)",
       "Bash(rm -rf tkk-case/)",
       "Read(//d/tmp/**)",
-      "Bash(rm *)"
+      "Bash(rm *)",
+      "Bash(find wiki/syntheses/SPP_GuideCase_*.md -newer log.md -name \"*检例第2*\")",
+      "Bash(cp \"D:/AI agent/tkk-library/sources/2-案例库/最高检指导性案例/最高检指导性案例 湖南省检察机关督促综合整治\\\\\"锰三角\\\\\"矿业污染公益诉讼案——最高检发布第六十二批指导性案例之二【检例第253号】.md\" /tmp/spp_253.md)",
+      "Bash(echo \"Failed with exit code $?\")",
+      "Bash(iconv -f GB18030 -t UTF-8 *253*)",
+      "Bash(Select-Object -First 300\")",
+      "Bash(find wiki/syntheses/SPP_GuideCase_*.md -newer log.md)"
     ]
   },
   "hooks": {
