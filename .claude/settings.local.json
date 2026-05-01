@@ -283,7 +283,13 @@
       "Bash(git fetch *)",
       "Bash(git revert *)",
       "Bash(git mv *)",
-      "Bash(git ls-tree *)"
+      "Bash(git ls-tree *)",
+      "Bash(mv darwin *)",
+      "Bash(mv tkk-legal-ingest/SKILL.md ./SKILL.md)",
+      "Bash(mv tkk-legal-ingest/references/ ./references/)",
+      "Bash(rm -rf tkk-legal-ingest/)",
+      "Bash(rm -rf tkk-case/)",
+      "Read(//d/tmp/**)"
     ]
   },
   "hooks": {
