@@ -289,7 +289,8 @@
       "Bash(mv tkk-legal-ingest/references/ ./references/)",
       "Bash(rm -rf tkk-legal-ingest/)",
       "Bash(rm -rf tkk-case/)",
-      "Read(//d/tmp/**)"
+      "Read(//d/tmp/**)",
+      "Bash(rm *)"
     ]
   },
   "hooks": {
