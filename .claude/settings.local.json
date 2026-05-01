@@ -277,7 +277,13 @@
       "Bash(rm \"8输出/tkk-case/李志萍律师拒执罪案法律分析.md\")",
       "Bash(rmdir \"8输出/tkk-case\")",
       "Bash(rmdir \"8输出\")",
-      "Bash(ls \"8输出/\")"
+      "Bash(ls \"8输出/\")",
+      "Bash(git clone *)",
+      "Bash(mv SKILL.md evals legal-ingest-workspace tkk-legal-ingest/)",
+      "Bash(git fetch *)",
+      "Bash(git revert *)",
+      "Bash(git mv *)",
+      "Bash(git ls-tree *)"
     ]
   },
   "hooks": {
