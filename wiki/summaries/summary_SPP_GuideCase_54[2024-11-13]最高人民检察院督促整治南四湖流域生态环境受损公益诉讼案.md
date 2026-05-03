@@ -4,6 +4,7 @@ created: 2024-11-13
 title: SPP GuideCase 54[2024 11 13]最高人民检察院督促整治南四湖流域生态环境受损公益诉讼案
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -14,6 +15,7 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-27
 tags: [最高检, 指导性案例]
+category: 刑事参考
 category: 生态环境与能源
 source: [[54[2024-11-13]最高人民检察院督促整治南四湖流域生态环境受损公益诉讼案.md]]
 published: 2024-11-13

@@ -4,6 +4,7 @@ created: 2026-05-03
 title: Summary 开庭 法官思维与庭审实务 分类 程序与技巧
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -15,6 +16,7 @@ published: 2024
 created: 2026-04-27
 updated: 2026-04-27
 tags: [审判指导, 民事审判, 刑事审判, 庭审实务, 程序技巧, 开庭, 上海一中院]
+category: 刑事参考
 category: 诉讼与仲裁
 source: "开庭》法官思维与庭审实务_上海一中院_中国法治_2024年
 ---

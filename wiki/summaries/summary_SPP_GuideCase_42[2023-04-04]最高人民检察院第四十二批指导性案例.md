@@ -4,6 +4,7 @@ created: 2023-04-04
 title: SPP GuideCase 42[2023 04 04]最高人民检察院第四十二批指导性案例
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -14,6 +15,7 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-27
 tags: [最高检, 指导性案例]
+category: 刑事参考
 category: 诉讼与仲裁
 source: [[42[2023-04-04]最高人民检察院第四十二批指导性案例.md]]
 published: 2023-04-04

@@ -7,30 +7,7 @@
   summaries: 561
   syntheses: 2472
 
---- L1 问题 (23 项) ---
-  summaries/summary_SPP_GuideCase_37[2022-06-24]最高人民检察院发布第三十七批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_38[2022-07-15]最高人民检察院发布第三十八批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_39[2022-08-29]最高检发布第三十九批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_40[2022-09-26]最高检发布第四十批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_41[2022-09-22]最高检发布第四十一批指导性案例万峰湖专案.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_42[2023-04-04]最高人民检察院第四十二批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_43[2023-03-01]最高人民检察院第四十三批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_44[2023-06-13]最高人民检察院发布第四十四批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_45[2023-07-06]最高检发布第四十五批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_46[2023-08-03]最高检发布第四十六批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_47[2023-08-22]最高检发布第四十七批指导性案例剑指金融领域新型职务犯罪.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_48[2023-09-15]最高检发布第四十八批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_49[2023-11-06]最高检发布第四十九批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_50[2024-03-01]最高人民检察院发布第五十批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_51[2024-05-28]最高检发布第五十一批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_52[2024-05-14]最高检发布第五十二批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_53[2024-06-13]最高检发布第五十三批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_54[2024-11-13]最高人民检察院督促整治南四湖流域生态环境受损公益诉讼案.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_55[2025-02-21]最高检发布第五十五批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_56[2025-03-13]最高检发布第五十六批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_57[2025-03-01]最高检发布第五十七批指导性案例.md: L1-summary无category
-  summaries/summary_SPP_GuideCase_58[2025-05-06]最高检发布第五十八批指导性案例.md: L1-summary无category
-  summaries/summary_Summary_开庭_法官思维与庭审实务_分类_程序与技巧.md: L1-summary无category
+--- L1 问题 (0 项) ---
 
 --- L2 问题 (0 项) ---
 
@@ -682,4 +659,4 @@
   syntheses/synthesis_illustration_5_约定受贿理论争议.md: L3-目录type不一致: 文件type=summary, 目录应为syntheses
   syntheses/synthesis_illustration_6_预期利益受贿认定.md: L3-目录type不一致: 文件type=summary, 目录应为syntheses
 
-汇总: L1=23, L2=0, L3=646
+汇总: L1=0, L2=0, L3=646

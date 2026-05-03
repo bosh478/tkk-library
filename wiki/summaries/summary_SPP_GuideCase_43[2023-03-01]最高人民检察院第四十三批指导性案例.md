@@ -4,6 +4,7 @@ created: 2023-03-01
 title: SPP GuideCase 43[2023 03 01]最高人民检察院第四十三批指导性案例
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -14,6 +15,7 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-27
 tags: [最高检, 指导性案例]
+category: 刑事参考
 category: 诉讼与仲裁
 source: [[43[2023-03-01]最高人民检察院第四十三批指导性案例.md]]
 published: 2023-03-01

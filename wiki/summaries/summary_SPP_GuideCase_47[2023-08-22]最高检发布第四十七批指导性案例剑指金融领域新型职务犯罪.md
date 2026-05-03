@@ -4,6 +4,7 @@ created: 2023-08-22
 title: SPP GuideCase 47[2023 08 22]最高检发布第四十七批指导性案例剑指金融领域新型职务犯罪
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -14,6 +15,7 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-27
 tags: [最高检, 指导性案例]
+category: 刑事参考
 category: 刑事参考
 source: [[47[2023-08-22]最高检发布第四十七批指导性案例剑指金融领域新型职务犯罪.md]]
 published: 2023-08-22

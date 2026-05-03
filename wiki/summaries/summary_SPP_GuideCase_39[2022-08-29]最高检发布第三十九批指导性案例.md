@@ -4,6 +4,7 @@ created: 2022-08-29
 title: SPP GuideCase 39[2022 08 29]最高检发布第三十九批指导性案例
 updated: 2026-05-03
 tags: [待分类]
+category: 刑事参考
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
 source: 〔来源文件不存在〕
@@ -14,6 +15,7 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-27
 tags: [最高检, 指导性案例]
+category: 刑事参考
 category: 诉讼与仲裁
 source: [[39[2022-08-29]最高检发布第三十九批指导性案例.md]]
 published: 2022-08-29
