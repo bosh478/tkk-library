@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [贿赂犯罪, 贪污贿赂, 体系对比]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: ["wiki/concepts/concept_受贿罪.md", "wiki/concepts/concept_贪污罪.md", "wiki/concepts/concept_行贿罪.md", "wiki/concepts/concept_非国家工作人员受贿罪.md", "wiki/concepts/concept_利用影响力受贿罪.md", "wiki/concepts/concept_单位行贿罪.md", "wiki/concepts/concept_对单位行贿罪.md", "wiki/concepts/concept_介绍贿赂罪.md"]
 ---
 

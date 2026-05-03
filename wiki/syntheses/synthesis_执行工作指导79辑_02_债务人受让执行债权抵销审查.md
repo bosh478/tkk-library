@@ -3,6 +3,8 @@ title: 债务人受让执行债权抵销审查
 type: synthesis
 tags: [执行, 最高人民法院案例, 债权抵销]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [《执行工作指导 总第79辑》最高法执行局 人民法院 2022年.md]
 created: 2026-04-22
 updated: 2026-04-22

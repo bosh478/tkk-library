@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-13
 tags: [贿赂类, 共同犯罪, 贪污贿赂]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_行贿罪", "concept_单位行贿罪", "concept_对单位行贿罪", "concept_受贿罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---

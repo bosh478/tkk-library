@@ -5,6 +5,8 @@ published: 2025-12
 created: 2026-04-29
 tags: [职务犯罪, 受贿罪, 隐性受贿, 纪检监察]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 刑事参考
 source: '《新型隐性受贿犯罪实务疑难解析》万龙 中国检察 2025年.md'
 updated: 2026-05-03

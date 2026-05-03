@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [消防, 火灾预防, 灭火救援, 其他]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国消防法（2021修正）.md
 ---
 

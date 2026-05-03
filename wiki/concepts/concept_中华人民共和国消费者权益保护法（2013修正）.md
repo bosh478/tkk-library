@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [消费者权益, 经营者义务, 其他]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国消费者权益保护法（2013修正）.md
 ---
 

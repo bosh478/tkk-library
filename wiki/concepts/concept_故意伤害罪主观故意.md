@@ -5,6 +5,8 @@ created: 2026-04-20
 updated: 2026-04-20
 tags: [刑法, 故意伤害罪, 主观故意, 主客观相一致]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 related: ["summary_邻里纠纷轻伤害案件罪与非罪的裁判思路", "concept_轻微暴力认定"]
 ---
 

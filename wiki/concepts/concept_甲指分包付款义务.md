@@ -5,6 +5,8 @@ created: 2026-04-20
 updated: 2026-04-20
 tags: [建设工程, 甲指分包, 付款义务, 合同关系]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 related: ["summary_建设工程甲指分包付款义务主体审查要点"]
 ---
 

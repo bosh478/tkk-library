@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [盗窃罪, 银行卡, 财产占有]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: 侵占罪, 诈骗罪
 ---

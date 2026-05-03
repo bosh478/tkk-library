@@ -9,6 +9,8 @@ guide_number: 检例第94号
 guide_batch: 第二十五批
 tags: [重大劳动安全事故罪, 重大责任事故罪, 危害生产安全, 检察建议]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [最高检指导性案例 (2017)鄂0582刑初108号 (1)]
 created: 2026-05-03
 updated: 2026-05-03

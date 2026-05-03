@@ -1,4 +1,13 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 统编教材 刑事审判实务
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+---
+---
 title: 统编教材_刑事审判实务
 type: synthesis
 created: 2026-04-24

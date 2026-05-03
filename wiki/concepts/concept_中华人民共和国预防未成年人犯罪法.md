@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [未成年人犯罪, 预防犯罪, 教育]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国预防未成年人犯罪法（2020修订）.md
 ---
 

@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-13
 tags: [财产类, 廉政类, 贪污贿赂]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_巨额财产来源不明罪", "concept_贪污罪", "concept_私分国有资产罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---

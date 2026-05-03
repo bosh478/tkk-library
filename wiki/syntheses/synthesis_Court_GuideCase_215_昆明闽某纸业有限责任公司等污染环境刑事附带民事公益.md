@@ -5,6 +5,8 @@ created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高人民法院]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [Court_GuideCase_215_昆明闽某纸业有限责任公司等污染环境刑事附带民事公益.md]
 ---
 

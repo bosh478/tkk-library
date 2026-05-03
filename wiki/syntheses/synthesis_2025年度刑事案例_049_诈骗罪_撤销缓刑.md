@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [诈骗罪, 缓刑, 撤销缓刑, 社区矫正]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: 危险驾驶罪
 ---

@@ -3,6 +3,8 @@ title: 2024《公司法释义》王翔·法工委
 type: synthesis
 tags: [公司法, 民商法, 公司治理, 司法解释]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: "sources/民商事纠纷/《公司法释义》王翔-法工委 中国法制 2024年.md"
 created: 2026-04-25
 updated: 2026-04-25

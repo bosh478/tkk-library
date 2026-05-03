@@ -5,6 +5,8 @@ created: 2026-04-20
 updated: 2026-04-20
 tags: [公司法律, 公司僵局, 公司解散, 司法解散]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 related: ["summary_公司解散纠纷中如何认定公司僵局"]
 ---
 

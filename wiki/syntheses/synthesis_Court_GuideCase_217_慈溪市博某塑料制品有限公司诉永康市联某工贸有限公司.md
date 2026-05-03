@@ -5,6 +5,8 @@ created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高人民法院]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [Court_GuideCase_217_慈溪市博某塑料制品有限公司诉永康市联某工贸有限公司.md]
 ---
 

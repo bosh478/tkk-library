@@ -5,6 +5,8 @@ created: 2026-04-18
 updated: 2026-04-25
 tags: [审判指导案例, 侵犯财产罪]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [最高法指导性案例]
 ---
 

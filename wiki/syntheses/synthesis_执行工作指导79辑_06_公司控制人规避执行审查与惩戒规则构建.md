@@ -3,6 +3,8 @@ title: 公司控制人规避执行审查与惩戒规则构建
 type: synthesis
 tags: [执行, 理论与争鸣, 公司控制人, 善意执行, 规避执行]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [《执行工作指导 总第79辑》最高法执行局 人民法院 2022年.md]
 created: 2026-04-22
 updated: 2026-04-22

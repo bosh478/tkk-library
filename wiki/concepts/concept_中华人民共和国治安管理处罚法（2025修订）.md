@@ -6,6 +6,8 @@ quality: 3
 updated: 2026-04-16
 tags: [行政法]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 source: 中华人民共和国治安管理处罚法（2025修订）.md
 ---
 

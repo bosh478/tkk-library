@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [行政监管, 实体法, 药品监管]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 source: 中华人民共和国药品管理法（2019修订）.md
 ---
 

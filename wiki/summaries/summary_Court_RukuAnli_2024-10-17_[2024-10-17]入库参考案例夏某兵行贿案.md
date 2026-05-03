@@ -6,6 +6,8 @@ created: 2026-04-19
 updated: 2026-04-27
 tags: [刑事, 行贿罪, 缓刑考验期, 犯新罪, 发现漏罪, 撤销缓刑]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 source: 〔来源文件不存在〕
 ---

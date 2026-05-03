@@ -13,7 +13,7 @@ issued_date: 2022-12-21
 effective_date: 2022-12-21
 status: 现行有效
 issuing_authority: 最高人民法院
-source: [[最高人民法院发布关于加强中医药知识产权司法保护的意见]]
+source: 最高人民法院发布关于加强中医药知识产权司法保护的意见
 tags: [知识产权, 中医药, 司法保护, 创新发展]
 related_articles: [《知识产权强国建设纲要（2021-2035年）》, 《中医药法》
 ---

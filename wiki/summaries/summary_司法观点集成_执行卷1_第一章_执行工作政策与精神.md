@@ -5,6 +5,8 @@ published: 2023-06
 created: 2026-04-22
 tags: [司法观点, 执行, 政策与精神]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 source: '《最高法司法观点集成》执行卷1 人民法院出版社 2023年.md'
 updated: 2026-05-03

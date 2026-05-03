@@ -5,6 +5,8 @@ created: 2026-04-19
 updated: 2026-04-27
 tags: [民事, 公司法, 股东出资, 债权抵销, 出资义务, 公司资本充实]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 quality: 3
 source: 〔来源文件不存在〕

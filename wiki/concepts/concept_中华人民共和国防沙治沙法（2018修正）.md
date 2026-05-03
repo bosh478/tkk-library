@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [军法国防, 实体法]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 source: 中华人民共和国防沙治沙法（2018修正）.md
 ---
 

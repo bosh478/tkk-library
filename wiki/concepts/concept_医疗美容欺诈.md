@@ -5,6 +5,8 @@ created: 2026-04-20
 updated: 2026-04-20
 tags: [医疗美容, 欺诈, 消费者权益, 惩罚性赔偿]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 related: ["summary_医疗美容欺诈行为及责任司法认定要点"]
 ---
 

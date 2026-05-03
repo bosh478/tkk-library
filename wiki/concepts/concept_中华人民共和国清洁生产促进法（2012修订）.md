@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [清洁生产, 环境保护, 环境资源]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国清洁生产促进法（2012修订）.md
 ---
 

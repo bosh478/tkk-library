@@ -5,6 +5,8 @@ created: 2026-04-19
 updated: 2026-04-19
 tags: [刑事审判参考, 指导案例, 串通投标, 故意杀人, 抢劫]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: "《刑事审判参考 总第114辑》"
 quality: 4
 ---

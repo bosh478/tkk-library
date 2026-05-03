@@ -5,6 +5,8 @@ created: 2026-04-19
 updated: 2026-04-27
 tags: [民事, 教育机构责任, 未成年人, 限制民事行为能力人, 学校管理职责]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 quality: 3
 source: 〔来源文件不存在〕

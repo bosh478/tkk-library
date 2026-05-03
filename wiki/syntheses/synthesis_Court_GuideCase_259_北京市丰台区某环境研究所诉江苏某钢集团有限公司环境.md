@@ -5,6 +5,8 @@ created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高人民法院]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [Court_GuideCase_259_北京市丰台区某环境研究所诉江苏某钢集团有限公司环境.md]
 ---
 

@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [计量, 其他]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国计量法（2018修正）.md
 ---
 

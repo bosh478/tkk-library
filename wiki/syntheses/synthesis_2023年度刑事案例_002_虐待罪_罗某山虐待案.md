@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [虐待罪, 结果加重犯, 自杀, 因果关系, 家庭暴力]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [2023年度中国法院刑事案例（1-4册）.md]
 related: concept_虐待罪
 ---

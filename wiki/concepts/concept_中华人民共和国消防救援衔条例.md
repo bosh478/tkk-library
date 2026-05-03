@@ -6,6 +6,8 @@ quality: 1
 updated: 2026-04-16
 tags: [消防救援, 衔级, 其他]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国消防救援衔条例.md
 ---
 

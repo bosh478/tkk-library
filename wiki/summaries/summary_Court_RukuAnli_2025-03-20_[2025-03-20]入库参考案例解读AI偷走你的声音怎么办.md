@@ -5,6 +5,8 @@ created: 2026-04-19
 updated: 2026-04-27
 tags: [民事, 人格权, 声音权益, AI生成, 侵权责任]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 quality: 3
 source: 〔来源文件不存在〕

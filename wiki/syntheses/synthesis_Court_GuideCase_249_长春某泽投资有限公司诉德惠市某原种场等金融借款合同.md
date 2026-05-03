@@ -5,6 +5,8 @@ created: 2026-04-18
 updated: 2026-04-18
 tags: [指导性案例, 最高人民法院]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [Court_GuideCase_249_长春某泽投资有限公司诉德惠市某原种场等金融借款合同.md]
 ---
 

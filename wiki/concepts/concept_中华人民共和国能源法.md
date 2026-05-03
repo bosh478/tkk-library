@@ -6,6 +6,8 @@ quality: 2
 updated: 2026-04-16
 tags: [能源, 能源安全, 环境资源]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: 中华人民共和国能源法.md
 ---
 

@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [自首, 立功, 坦白, 量刑情节, 刑法总则]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: []
 ---
 

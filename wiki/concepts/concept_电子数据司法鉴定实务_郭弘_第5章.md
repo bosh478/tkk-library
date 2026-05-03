@@ -5,7 +5,9 @@ created: 2026-04-29
 updated: 2026-04-29
 tags: [电子数据鉴定, 司法鉴定, Windows系统鉴定]
 source: 〔来源文件不存在〕
-sources: '《电子数据司法鉴定实务》郭弘 科学出版社 2025年.md'
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+sources: 《电子数据司法鉴定实务》郭弘 科学出版社 2025年.md
 ---
 
 # 第五章 Windows系统电子数据鉴定

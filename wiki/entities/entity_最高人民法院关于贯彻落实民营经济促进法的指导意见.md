@@ -13,7 +13,7 @@ issued_date: 2025-07-30
 effective_date: 2025-07-30
 status: 现行有效
 issuing_authority: 最高人民法院
-source: [[最高人民法院印发《关于贯彻落实〈中华人民共和国民营经济促进法〉的指导意见》的通知]]
+source: [[中华人民共和国民营经济促进法]]
 tags: [民营经济, 司法保护, 营商环境, 平等保护]
 related_articles: [《中华人民共和国民营经济促进法》, 《中华人民共和国民法典》
 ---

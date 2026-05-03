@@ -5,6 +5,8 @@ created: 2026-04-22
 updated: 2026-04-22
 tags: [合同诈骗罪, 非法占有目的, 履约能力]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: 诈骗罪
 ---

@@ -3,6 +3,8 @@ title: 人民检察院公益诉讼办案规则
 type: synthesis
 tags: [公益诉讼, 检察监督, 司法解释, 民事行政检察]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 sources: [[人民检察院公益诉讼办案规则]]
 created: 2026-04-24
 updated: 2026-04-24

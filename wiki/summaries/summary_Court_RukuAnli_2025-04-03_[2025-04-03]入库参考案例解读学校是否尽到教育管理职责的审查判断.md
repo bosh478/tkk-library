@@ -5,6 +5,8 @@ created: 2026-04-19
 updated: 2026-04-27
 tags: [民事, 学校责任, 教育机构, 人身损害, 过错责任]
 source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
+source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 quality: 3
 source: 〔来源文件不存在〕
