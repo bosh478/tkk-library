@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 政府与公共法律服务
 category: 政府与公共法律服务
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—68】关于撤销不起诉决定的启动主体、情形及程序
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650727644&idx=1&sn=f0f6aff1436007e0bfb51afea7cc60a9&chksm=878eaeacb0f927ba14a1ef99b42344d2ebe86a73c2d77be469287c065
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-04-13]检答网集萃78行政拘留的时间能否在行政诉讼起诉期限内扣除.md]]

@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 刑事参考
 category: 刑事参考
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 ](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650737607&idx=1&sn=6bacad261e44eb451912e1e8f5bb953f&chksm=878f41b7b0f8c8a18b788f22a8da5b37f217817363881c20220f4133f0b26f053cdb50de5c54&token=93739563&lang=zh_CN&scene=21#wechat_redirect)
 [ 【检答
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-05-16]检答网集萃82犯罪嫌疑人不在案的案管部门可否受理案件.md]]

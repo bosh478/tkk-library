@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650730654&idx=1&sn=63f2f47b4d350c6617a8472b51667265&chksm=878ebaeeb0f933f8b2966ec075a883b297af404a3a9d528ba114fac52ea20752aecf899f7d0e&scene=21#wechat_redirect)
 [ 【检
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-04-18]检答网集萃79因构成正当防卫被不起诉行为人是否有权申请国家赔偿.md]]

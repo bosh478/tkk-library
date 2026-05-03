@@ -5,9 +5,6 @@ title: SPP GuideCase 51[2024 05 28]最高检发布第五十一批指导性案例
 updated: 2026-05-03
 tags: [待分类]
 category: 刑事参考
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 ---
 ---
 title: 最高检发布第五十一批指导性案例
@@ -17,7 +14,6 @@ updated: 2026-04-27
 tags: [最高检, 指导性案例]
 category: 刑事参考
 category: 诉讼与仲裁
-source: [[51[2024-05-28]最高检发布第五十一批指导性案例.md]]
 published: 2024-05-28
 ---
 
@@ -72,4 +68,5 @@ published: 2024-05-28
 ![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1rNN8iaPyOgLmFrFvjosn7Ubj6BYIZN5B8toqmxnNzibgBrib9YFicf1cAoW5h1oFKapoj4WX4ml4by9Llw85MeuYA
 
 ## 相关链接
-- 原文来源：[[51[2024-05-28]最高检发布第五十一批指导性案例.md]]
+---
+sources: [[51[2024-05-28]最高检发布第五十一批指导性案例.md]]

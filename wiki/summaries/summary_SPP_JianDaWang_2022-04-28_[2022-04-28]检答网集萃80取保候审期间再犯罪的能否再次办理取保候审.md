@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 刑事参考
 category: 刑事参考
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—70】退出员额后，副检察长不能留任原职
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650730654&idx=1&sn=63f2f47b4d350c6617a8472b51667265&chksm=878ebaeeb0f933f8b2966ec075a883b297af404a3a9d528ba114fac52ea20752aecf899f7d0e&s
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-04-28]检答网集萃80取保候审期间再犯罪的能否再次办理取保候审.md]]

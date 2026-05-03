@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—6】关于诉讼规则的日期问题等两问两答
 ](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650542994&idx=2&sn=098905883264c7565d6755e191e0819a&chksm=878c59e2b0fbd0f455cf0a41abc10e872042f544e28f473b
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2021-03-14]检答网集萃36适用认罪认罚从宽制度的案件拟作相对不起诉是否需要签署认罪认罚具.md]]

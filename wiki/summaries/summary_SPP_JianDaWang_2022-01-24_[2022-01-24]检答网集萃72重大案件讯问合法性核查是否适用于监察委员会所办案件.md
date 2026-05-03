@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—62】不服公安机关不予受理检察院是否有权监督
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650714281&idx=2&sn=3e57ec690fedc7d9183052c582e8323f&chksm=878efad9b0f973cfc9d54cd1adfbf6bd92aaac2d4061264a11791bc9c8979b0ecca15119c056&
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-01-24]检答网集萃72重大案件讯问合法性核查是否适用于监察委员会所办案件.md]]

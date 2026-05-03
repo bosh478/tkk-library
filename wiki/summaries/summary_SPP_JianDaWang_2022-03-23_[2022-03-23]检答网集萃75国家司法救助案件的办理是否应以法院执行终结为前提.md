@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -39,5 +35,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—67】如何认定是否属于“同一商品”
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650726279&idx=2&sn=38b75394f178f46fc11e14742c122b0e&chksm=878e95f7b0f91ce1353f5d9af84a6aba282d344010fbeba9cf15ec38f9
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-03-23]检答网集萃75国家司法救助案件的办理是否应以法院执行终结为前提.md]]

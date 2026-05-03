@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—52】盆腔积血是否可以适用《人体损伤程度鉴定标准》第5.7.4 h）条款
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650690719&idx=2&sn=f229fc7b1423b65aee4e02046e4f5bec&chksm=878e1eefb0f997
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2021-11-01]检答网集萃62不服公安机关不予受理检察院是否有权监督.md]]

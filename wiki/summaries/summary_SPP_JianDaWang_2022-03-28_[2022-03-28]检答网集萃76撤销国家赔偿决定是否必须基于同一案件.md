@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -37,5 +33,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—68】关于撤销不起诉决定的启动主体、情形及程序
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650727644&idx=1&sn=f0f6aff1436007e0bfb51afea7cc60a9&chksm=878eaeacb0f927ba14a1ef99b42344d2ebe86a73c2d77be469287c06505904833ad3d5375873&scene=21#wechat_r
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-03-28]检答网集萃76撤销国家赔偿决定是否必须基于同一案件.md]]

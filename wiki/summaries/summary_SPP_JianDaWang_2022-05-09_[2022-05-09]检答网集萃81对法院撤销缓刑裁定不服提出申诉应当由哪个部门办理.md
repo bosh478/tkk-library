@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650731606&idx=2&sn=4b8e72713f8539fe6adc7eedcc04218f&chksm=878ebe26b0f93730140db03462a3db1c365106638fc705d96e67459e22a4090367da1d98f2c4&scene=21#wechat_redirect)
 [ 【
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-05-09]检答网集萃81对法院撤销缓刑裁定不服提出申诉应当由哪个部门办理.md]]

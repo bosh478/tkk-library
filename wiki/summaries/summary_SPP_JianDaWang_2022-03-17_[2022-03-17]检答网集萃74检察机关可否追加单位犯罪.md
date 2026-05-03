@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 刑事参考
 category: 刑事参考
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—67】如何认定是否属于“同一商品”
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650726279&idx=2&sn=38b75394f178f46fc11e14742c122b0e&chksm=878e95f7b0f91ce1353f5d9af84a6aba282d344010fbeb
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2022-03-17]检答网集萃74检察机关可否追加单位犯罪.md]]

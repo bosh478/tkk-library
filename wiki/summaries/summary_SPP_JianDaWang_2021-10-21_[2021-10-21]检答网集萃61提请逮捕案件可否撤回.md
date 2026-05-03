@@ -4,12 +4,8 @@ type: summary
 created: 2026-04-15
 updated: 2026-04-15
 tags: [最高检,检答网]
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
-source: 〔来源文件不存在〕
 category: 诉讼与仲裁
 category: 诉讼与仲裁
-source: 〔来源文件不存在〕
 ---
 
 ## 关键要点
@@ -38,5 +34,5 @@ source: 〔来源文件不存在〕
 [ 【检答网集萃—51】检察机关作出存疑不诉前，公安机关对赔偿请求人行政拘留的，行政拘留期间应当计算在赔偿范围内吗
 ](http://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650689526&idx=1&sn=5d3fa9512fab69cd3ce1bc491f023454&ch
 
-## 相关链接
-- 原文来源：〔来源文件不存在〕
+---
+sources: [[[2021-10-21]检答网集萃61提请逮捕案件可否撤回.md]]
