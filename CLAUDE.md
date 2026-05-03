@@ -209,7 +209,7 @@ base_clean=$(echo "$name" | sed 's/（[0-9]*年[修正修订]*）//g')
 ```bash
 # 阶段门检查：数量必须完全匹配
 SOURCE_COUNT=$(ls sources/xxx/*.md | wc -l)
-TARGET_COUNT=$(ls wiki/dest/*.md | wc -l)
+TARGET_COUNT=$(ls wiki/summaries/*.md | wc -l)
 echo "Source: $SOURCE_COUNT, Target: $TARGET_COUNT"
 [ "$SOURCE_COUNT" -eq "$TARGET_COUNT" ] || echo "⚠️ 数量不一致！"
 ```
@@ -471,6 +471,10 @@ Phase 2 不合格 → 返回 Phase 1 返工，不得跳过。
 3. **指令依从性检查**：回顾用户要求，确认没有自行添加步骤
 4. **Wiki 质量检查**：扫描输出，确认无 UI 残留、无占位符
 5. **法律准确性检查**（必须）：涉及具体法条内容（数额、日期、适用范围、罪名构成等）是否引用原文；如存在不确定内容，是否已主动向用户核验
+
+**验证脚本**（位于 vault 根目录 `scripts/`）：
+- `phase2_gate.py`：Phase 2 门控检查（输出>500字符、置信度标注、无占位符、三色断言）
+- `phase3_spot_check.py`：Phase 3 内容抽检（frontmatter 完整性、正文非空）
 
 如发现问题，立即修正后再呈现给用户。
 
