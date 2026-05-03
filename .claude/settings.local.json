@@ -296,7 +296,27 @@
       "Bash(echo \"Failed with exit code $?\")",
       "Bash(iconv -f GB18030 -t UTF-8 *253*)",
       "Bash(Select-Object -First 300\")",
-      "Bash(find wiki/syntheses/SPP_GuideCase_*.md -newer log.md)"
+      "Bash(find wiki/syntheses/SPP_GuideCase_*.md -newer log.md)",
+      "mcp__MiniMax__web_search",
+      "WebFetch(domain:www.ojp.gov)",
+      "WebFetch(domain:www.nsvrc.org)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --oneline --all -- \"**/tkk-case/**\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" ls-files)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" show 7aef85b7 --stat)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" ls-tree -r --name-only 7aef85b7)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -- \"**/tkk-case/SKILL.md\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" show HEAD:.claude/skills/)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline --source --remotes -- \"**/tkk*\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" ls-tree -r --name-only HEAD)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -p -- \"**/tkk-case*\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -p)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --name-status)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -S \"tkk-case\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" ls-tree -r HEAD -- .claude/skills/)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" show HEAD:.claude/skills/tkk-legal-ingest/SKILL.md)",
+      "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -S \"三段论\")",
+      "Bash(git -C \"D:/AI agent/tkk-library\" show d2b23c37:8输出/tkk-case/李志萍律师拒执罪案法律分析.md)"
     ]
   },
   "hooks": {
