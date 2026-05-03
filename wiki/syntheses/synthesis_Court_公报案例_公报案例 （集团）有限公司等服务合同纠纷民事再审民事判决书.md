@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）有限公司等服务合同纠纷民事再审民事判决书
 updated: 2026-05-03

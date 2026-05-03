@@ -1,5 +1,5 @@
 ---
-type: entity
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 朱某涉嫌盗窃不批捕复议复核案——最高人民检察院发布第五十二批指导性案例之一【检例第209号】
 updated: 2026-05-03

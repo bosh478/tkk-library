@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （张家港）食品有限公司与天津经济技术开发区正元行销有限公司不正当竞争纠纷案
 updated: 2026-05-03

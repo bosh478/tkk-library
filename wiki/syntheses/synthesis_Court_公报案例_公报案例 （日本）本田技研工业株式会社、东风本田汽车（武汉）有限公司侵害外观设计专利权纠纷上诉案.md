@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （日本）本田技研工业株式会社、东风本田汽车（武汉）有限公司侵害外观设计专利权纠纷上诉案
 updated: 2026-05-03

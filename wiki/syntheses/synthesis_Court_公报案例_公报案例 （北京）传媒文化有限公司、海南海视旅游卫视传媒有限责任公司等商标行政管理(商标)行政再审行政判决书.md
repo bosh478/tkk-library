@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （北京）传媒文化有限公司、海南海视旅游卫视传媒有限责任公司等商标行政管理(商标)行政再审行政判决书
 updated: 2026-05-03

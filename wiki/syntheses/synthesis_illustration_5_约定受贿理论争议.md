@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 5 约定受贿理论争议
 updated: 2026-05-03

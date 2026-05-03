@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （中国）制药有限公司与湖北午时药业股份有限公司、王军社侵犯发明专利权纠纷二审案
 updated: 2026-05-03

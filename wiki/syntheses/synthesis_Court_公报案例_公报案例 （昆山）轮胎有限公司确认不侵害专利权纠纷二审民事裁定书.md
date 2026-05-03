@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （昆山）轮胎有限公司确认不侵害专利权纠纷二审民事裁定书
 updated: 2026-05-03

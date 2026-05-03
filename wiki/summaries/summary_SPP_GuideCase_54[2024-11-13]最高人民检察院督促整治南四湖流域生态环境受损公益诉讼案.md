@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2024-11-13
 title: SPP GuideCase 54[2024 11 13]最高人民检察院督促整治南四湖流域生态环境受损公益诉讼案
 updated: 2026-05-03

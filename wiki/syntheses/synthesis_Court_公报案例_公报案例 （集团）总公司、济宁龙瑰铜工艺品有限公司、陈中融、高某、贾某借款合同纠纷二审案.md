@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）总公司、济宁龙瑰铜工艺品有限公司、陈中融、高某、贾某借款合同纠纷二审案
 updated: 2026-05-03

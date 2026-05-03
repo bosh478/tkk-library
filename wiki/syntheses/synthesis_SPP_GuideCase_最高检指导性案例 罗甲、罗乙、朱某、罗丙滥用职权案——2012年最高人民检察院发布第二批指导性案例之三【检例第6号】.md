@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 罗甲、罗乙、朱某、罗丙滥用职权案——2012年最高人民检察院发布第二批指导性案例之三【检例第6号】
 updated: 2026-05-03

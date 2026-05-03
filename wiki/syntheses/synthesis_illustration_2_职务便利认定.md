@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 2 职务便利认定
 updated: 2026-05-03

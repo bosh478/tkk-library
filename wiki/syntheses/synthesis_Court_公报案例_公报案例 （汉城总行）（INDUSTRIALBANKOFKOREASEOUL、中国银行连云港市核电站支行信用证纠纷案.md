@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （汉城总行）（INDUSTRIALBANKOFKOREASEOUL、中国银行连云港市核电站支行信用证纠纷案
 updated: 2026-05-03

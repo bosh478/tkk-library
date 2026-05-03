@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （以下简称三菱公司）发生损害赔偿纠纷
 updated: 2026-05-03

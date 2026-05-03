@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （原沈阳皇朝万鑫房屋开发有限公司）财产损害赔偿纠纷再审民事判决书
 updated: 2026-05-03

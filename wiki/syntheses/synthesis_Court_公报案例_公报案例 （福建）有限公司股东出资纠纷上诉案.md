@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （福建）有限公司股东出资纠纷上诉案
 updated: 2026-05-03

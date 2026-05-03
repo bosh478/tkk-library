@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 4 商业机会司法难点
 updated: 2026-05-03

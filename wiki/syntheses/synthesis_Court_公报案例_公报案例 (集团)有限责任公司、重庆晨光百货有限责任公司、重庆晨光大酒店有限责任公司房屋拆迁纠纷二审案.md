@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (集团)有限责任公司、重庆晨光百货有限责任公司、重庆晨光大酒店有限责任公司房屋拆迁纠纷二审案
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 （厦门）有限公司等销售假冒注册商标的商品案——最高检发布第二十六批指导性案例之一【检例第98号】
 updated: 2026-05-03

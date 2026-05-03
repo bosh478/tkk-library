@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (2008)沪二中民五(知)初字第187号
 updated: 2026-05-03

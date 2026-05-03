@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (2010)沪二中民四(商)终字第41号
 updated: 2026-05-03

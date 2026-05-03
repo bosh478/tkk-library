@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (规划)再审审查与审判监督行政裁定书
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （天福酒店）证券营业部申请国家赔偿案
 updated: 2026-05-03

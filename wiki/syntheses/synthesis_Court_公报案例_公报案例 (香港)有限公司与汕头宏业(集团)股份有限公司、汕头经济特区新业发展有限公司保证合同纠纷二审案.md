@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (香港)有限公司与汕头宏业(集团)股份有限公司、汕头经济特区新业发展有限公司保证合同纠纷二审案
 updated: 2026-05-03

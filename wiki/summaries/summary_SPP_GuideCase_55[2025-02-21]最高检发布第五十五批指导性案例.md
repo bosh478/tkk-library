@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2025-02-21
 title: SPP GuideCase 55[2025 02 21]最高检发布第五十五批指导性案例
 updated: 2026-05-03

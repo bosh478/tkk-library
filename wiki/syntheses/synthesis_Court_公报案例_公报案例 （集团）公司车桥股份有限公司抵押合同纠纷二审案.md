@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）公司车桥股份有限公司抵押合同纠纷二审案
 updated: 2026-05-03

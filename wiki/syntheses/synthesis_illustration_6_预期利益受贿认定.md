@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 6 预期利益受贿认定
 updated: 2026-05-03

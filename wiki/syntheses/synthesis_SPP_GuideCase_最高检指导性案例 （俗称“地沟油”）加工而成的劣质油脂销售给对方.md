@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 （俗称“地沟油”）加工而成的劣质油脂销售给对方
 updated: 2026-05-03

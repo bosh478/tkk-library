@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2022-09-26
 title: SPP GuideCase 40[2022 09 26]最高检发布第四十批指导性案例
 updated: 2026-05-03

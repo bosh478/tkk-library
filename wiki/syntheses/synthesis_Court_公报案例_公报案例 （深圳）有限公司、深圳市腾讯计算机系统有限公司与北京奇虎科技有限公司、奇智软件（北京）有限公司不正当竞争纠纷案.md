@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （深圳）有限公司、深圳市腾讯计算机系统有限公司与北京奇虎科技有限公司、奇智软件（北京）有限公司不正当竞争纠纷案
 updated: 2026-05-03

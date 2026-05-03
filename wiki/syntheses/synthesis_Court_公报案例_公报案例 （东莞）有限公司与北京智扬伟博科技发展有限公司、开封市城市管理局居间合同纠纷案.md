@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （东莞）有限公司与北京智扬伟博科技发展有限公司、开封市城市管理局居间合同纠纷案
 updated: 2026-05-03

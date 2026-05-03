@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （深圳）有限公司商标异议复审行政纠纷再审行政判决书
 updated: 2026-05-03

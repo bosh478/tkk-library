@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （福建）有限公司、漳州开发区汇丰源贸易有限公司、嘉吉国际公司（CargillInternationalSA）买卖合同纠纷二审民事判决书
 updated: 2026-05-03

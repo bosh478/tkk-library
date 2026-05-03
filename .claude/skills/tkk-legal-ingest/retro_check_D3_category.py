@@ -93,13 +93,15 @@ def check_file(filepath: Path, subdir: str) -> List[str]:
     return issues
 
 def parse_frontmatter(content: str) -> Tuple[Dict, str]:
-    """解析 frontmatter"""
-    match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
-    if not match:
+    """解析 frontmatter，处理双 frontmatter 的情况（返回最后一个）"""
+    matches = list(re.finditer(r'^---\n(.*?)\n---\n', content, re.DOTALL))
+    if not matches:
         return {}, content
+    # 使用最后一个 frontmatter（实际内容）
+    last = matches[-1]
     try:
-        fields = yaml.safe_load(match.group(1)) or {}
-        body = content[match.end():]
+        fields = yaml.safe_load(last.group(1)) or {}
+        body = content[last.end():]
         return fields, body
     except:
         return {}, content

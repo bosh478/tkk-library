@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （商丘）有限公司等破产债权确认纠纷民事再审民事裁定书
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）公司与TMT贸易有限公司商标权权属纠纷上诉案
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）总公司借款合同纠纷管辖权纠纷二审案
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）公司、滕州市国有资产经营有限公司借款合同纠纷二审案
 updated: 2026-05-03

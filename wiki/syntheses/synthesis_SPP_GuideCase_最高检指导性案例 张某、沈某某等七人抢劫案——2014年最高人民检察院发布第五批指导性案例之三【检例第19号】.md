@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 张某、沈某某等七人抢劫案——2014年最高人民检察院发布第五批指导性案例之三【检例第19号】
 updated: 2026-05-03

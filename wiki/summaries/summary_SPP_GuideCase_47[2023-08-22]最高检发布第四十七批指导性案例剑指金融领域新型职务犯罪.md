@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2023-08-22
 title: SPP GuideCase 47[2023 08 22]最高检发布第四十七批指导性案例剑指金融领域新型职务犯罪
 updated: 2026-05-03

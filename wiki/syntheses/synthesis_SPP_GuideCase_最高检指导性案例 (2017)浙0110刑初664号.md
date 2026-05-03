@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 (2017)浙0110刑初664号
 updated: 2026-05-03

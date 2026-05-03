@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）有限责任公司、北京皇台商贸有限责任公司互易纠纷二审案
 updated: 2026-05-03

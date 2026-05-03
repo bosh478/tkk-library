@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （沈阳）高压开关有限公司等借款合同、债权人撤销权纠纷二审案
 updated: 2026-05-03

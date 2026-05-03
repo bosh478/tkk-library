@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （南京）房地产有限公司与吴某供用热力合同纠纷案
 updated: 2026-05-03

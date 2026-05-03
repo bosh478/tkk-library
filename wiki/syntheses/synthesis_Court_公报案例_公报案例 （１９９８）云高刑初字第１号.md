@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （１９９８）云高刑初字第１号
 updated: 2026-05-03

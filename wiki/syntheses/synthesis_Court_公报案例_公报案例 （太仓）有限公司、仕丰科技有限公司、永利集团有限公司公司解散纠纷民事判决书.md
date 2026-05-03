@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （太仓）有限公司、仕丰科技有限公司、永利集团有限公司公司解散纠纷民事判决书
 updated: 2026-05-03

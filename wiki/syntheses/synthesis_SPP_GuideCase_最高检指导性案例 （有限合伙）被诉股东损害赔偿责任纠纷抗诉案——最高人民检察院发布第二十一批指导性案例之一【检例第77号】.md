@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 （有限合伙）被诉股东损害赔偿责任纠纷抗诉案——最高人民检察院发布第二十一批指导性案例之一【检例第77号】
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2022-07-15
 title: SPP GuideCase 38[2022 07 15]最高人民检察院发布第三十八批指导性案例
 updated: 2026-05-03

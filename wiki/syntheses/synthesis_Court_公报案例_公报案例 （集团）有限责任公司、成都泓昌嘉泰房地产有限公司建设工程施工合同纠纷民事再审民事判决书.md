@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）有限责任公司、成都泓昌嘉泰房地产有限公司建设工程施工合同纠纷民事再审民事判决书
 updated: 2026-05-03

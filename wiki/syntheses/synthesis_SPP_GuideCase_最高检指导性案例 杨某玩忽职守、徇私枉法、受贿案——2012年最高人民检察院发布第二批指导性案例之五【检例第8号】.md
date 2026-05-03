@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 杨某玩忽职守、徇私枉法、受贿案——2012年最高人民检察院发布第二批指导性案例之五【检例第8号】
 updated: 2026-05-03

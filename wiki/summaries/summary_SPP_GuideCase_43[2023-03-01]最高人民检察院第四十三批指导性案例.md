@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2023-03-01
 title: SPP GuideCase 43[2023 03 01]最高人民检察院第四十三批指导性案例
 updated: 2026-05-03

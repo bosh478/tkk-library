@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (2014)黄浦民五(商)初字第9721号
 updated: 2026-05-03

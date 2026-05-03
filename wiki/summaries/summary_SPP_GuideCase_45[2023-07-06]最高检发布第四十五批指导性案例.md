@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2023-07-06
 title: SPP GuideCase 45[2023 07 06]最高检发布第四十五批指导性案例
 updated: 2026-05-03

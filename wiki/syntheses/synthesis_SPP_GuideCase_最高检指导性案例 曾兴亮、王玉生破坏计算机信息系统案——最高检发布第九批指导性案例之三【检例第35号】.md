@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 曾兴亮、王玉生破坏计算机信息系统案——最高检发布第九批指导性案例之三【检例第35号】
 updated: 2026-05-03

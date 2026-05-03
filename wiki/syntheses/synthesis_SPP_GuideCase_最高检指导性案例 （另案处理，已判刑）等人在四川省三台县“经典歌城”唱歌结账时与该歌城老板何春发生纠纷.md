@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 （另案处理，已判刑）等人在四川省三台县“经典歌城”唱歌结账时与该歌城老板何春发生纠纷
 updated: 2026-05-03

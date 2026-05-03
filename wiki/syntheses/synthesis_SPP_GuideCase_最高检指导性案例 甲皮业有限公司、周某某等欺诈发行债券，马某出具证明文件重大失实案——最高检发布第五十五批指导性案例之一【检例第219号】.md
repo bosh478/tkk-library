@@ -1,5 +1,5 @@
 ---
-type: entity
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 甲皮业有限公司、周某某等欺诈发行债券，马某出具证明文件重大失实案——最高检发布第五十五批指导性案例之一【检例第219号】
 updated: 2026-05-03

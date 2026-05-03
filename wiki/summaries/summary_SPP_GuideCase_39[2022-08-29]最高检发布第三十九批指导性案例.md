@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2022-08-29
 title: SPP GuideCase 39[2022 08 29]最高检发布第三十九批指导性案例
 updated: 2026-05-03

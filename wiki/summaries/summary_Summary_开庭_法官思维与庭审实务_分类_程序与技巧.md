@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2026-05-03
 title: Summary 开庭 法官思维与庭审实务 分类 程序与技巧
 updated: 2026-05-03

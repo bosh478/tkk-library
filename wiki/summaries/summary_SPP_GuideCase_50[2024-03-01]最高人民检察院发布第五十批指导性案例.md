@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2024-03-01
 title: SPP GuideCase 50[2024 03 01]最高人民检察院发布第五十批指导性案例
 updated: 2026-05-03

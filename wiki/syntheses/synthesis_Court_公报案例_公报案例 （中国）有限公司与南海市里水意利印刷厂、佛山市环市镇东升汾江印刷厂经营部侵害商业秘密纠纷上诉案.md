@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （中国）有限公司与南海市里水意利印刷厂、佛山市环市镇东升汾江印刷厂经营部侵害商业秘密纠纷上诉案
 updated: 2026-05-03

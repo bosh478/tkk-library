@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 白山市江源区卫生和计划生育局及江源区中医院行政附带民事公益诉讼案——最高人民检察院2017年发布第八批指导性案例之二【检例第29号】
 updated: 2026-05-03

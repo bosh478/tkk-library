@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （蛇口）成都房地产开发有限责任公司、成都港招实业开发有限责任公司、海南民丰科技实业开发总公司债权人代位权纠纷案
 updated: 2026-05-03

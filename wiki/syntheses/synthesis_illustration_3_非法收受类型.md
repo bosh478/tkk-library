@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 3 非法收受类型
 updated: 2026-05-03

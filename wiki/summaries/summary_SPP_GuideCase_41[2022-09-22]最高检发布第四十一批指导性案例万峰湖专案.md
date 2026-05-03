@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2022-09-22
 title: SPP GuideCase 41[2022 09 22]最高检发布第四十一批指导性案例万峰湖专案
 updated: 2026-05-03

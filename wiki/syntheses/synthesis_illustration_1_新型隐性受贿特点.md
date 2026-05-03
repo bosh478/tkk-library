@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: illustration 1 新型隐性受贿特点
 updated: 2026-05-03

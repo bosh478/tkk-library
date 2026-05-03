@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (中国)航运有限公司、马士基(中国)航运有限公司厦门分公司与厦门瀛海实业发展有限公司国际海上货运代理经营权纠纷案
 updated: 2026-05-03

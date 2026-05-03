@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 张四毛盗窃案——最高检发布第九批指导性案例之五【检例第37号】
 updated: 2026-05-03

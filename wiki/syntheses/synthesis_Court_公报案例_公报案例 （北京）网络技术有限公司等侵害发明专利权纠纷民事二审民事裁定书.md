@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （北京）网络技术有限公司等侵害发明专利权纠纷民事二审民事裁定书
 updated: 2026-05-03

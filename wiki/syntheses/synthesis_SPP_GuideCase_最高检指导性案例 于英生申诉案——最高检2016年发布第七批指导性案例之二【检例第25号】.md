@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 于英生申诉案——最高检2016年发布第七批指导性案例之二【检例第25号】
 updated: 2026-05-03

@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: summary
 created: 2024-05-28
 title: SPP GuideCase 51[2024 05 28]最高检发布第五十一批指导性案例
 updated: 2026-05-03

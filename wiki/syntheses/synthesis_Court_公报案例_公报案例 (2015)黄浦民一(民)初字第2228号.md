@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 (2015)黄浦民一(民)初字第2228号
 updated: 2026-05-03

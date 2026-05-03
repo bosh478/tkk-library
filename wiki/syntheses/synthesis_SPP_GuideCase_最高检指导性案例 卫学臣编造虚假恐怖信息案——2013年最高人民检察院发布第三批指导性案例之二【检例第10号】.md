@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 卫学臣编造虚假恐怖信息案——2013年最高人民检察院发布第三批指导性案例之二【检例第10号】
 updated: 2026-05-03

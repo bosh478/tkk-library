@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: SPP GuideCase 最高检指导性案例 广州乙置业公司等骗取支付令执行虚假诉讼监督案——最高人民检察院第十四批指导性案例之一【检例第52号】
 updated: 2026-05-03

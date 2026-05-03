@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （北京）股份有限公司、武汉中能燃气有限公司等融资租赁合同纠纷民事再审民事判决书
 updated: 2026-05-03

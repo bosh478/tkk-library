@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （天津）有限公司与正泰集团股份有限公司侵害实用新型专利权纠纷上诉案
 updated: 2026-05-03

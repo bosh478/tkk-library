@@ -1,5 +1,5 @@
 ---
-type: summary
+type: synthesis
 created: 2026-05-03
 title: Court 公报案例 公报案例 （集团）有限公司柴里煤矿与华夏银行股份有限公司青岛分行、青岛保税区华东国际贸易有限公司联营合同纠纷再审案
 updated: 2026-05-03
