@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [故意伤害罪, 直接故意, 间接故意]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[故意杀人罪]]
+related: 故意杀人罪
 ---
 
 ## 裁判要旨

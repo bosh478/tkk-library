@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-16
 updated: 2026-04-16
 tags: [检察解释, 检察委员会]
-source: [[人民检察院检察委员会工作规则.md]]
+source: 人民检察院检察委员会工作规则.md
 ---
 
 ## 解释要点

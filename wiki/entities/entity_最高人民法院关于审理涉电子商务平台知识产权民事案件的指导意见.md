@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院关于审理涉电子商务平台知识产权民事案件的指导意见
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院关于审理涉电子商务平台知识产权民事案件的指导意见
 type: entity
 document_number: 法发〔2020〕32号

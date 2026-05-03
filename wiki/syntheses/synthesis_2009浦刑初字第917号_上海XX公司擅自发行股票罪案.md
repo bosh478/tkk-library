@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [擅自发行股票罪, 单位犯罪, 擅自发行股票公司企业债券罪]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2009)浦刑初字第917号]
 ---
 

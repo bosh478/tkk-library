@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 危害药品安全, 洗钱罪, 指导案例, 妨害安全驾驶罪, 集资诈骗罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第132辑》.md"]
 ---
 
@@ -140,8 +141,8 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第132辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第132辑]]
-- [[concept_洗钱罪]]
-- [[concept_妨害安全驾驶罪]]
-- [[concept_集资诈骗罪]]
-- [[concept_受贿罪]]
+- entity_刑事审判参考_总第132辑
+- concept_洗钱罪
+- concept_妨害安全驾驶罪
+- concept_集资诈骗罪
+- concept_受贿罪

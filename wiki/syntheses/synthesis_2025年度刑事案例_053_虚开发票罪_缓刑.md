@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [虚开发票罪, 缓刑, 认罪悔罪]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [危害税收征管罪]
 ---

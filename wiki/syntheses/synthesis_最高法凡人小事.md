@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [最高法, 凡人小事, 典型案例, 民事]
+source: 〔来源文件不存在〕
 sources: [微信公号资料/最高人民法院/最高法-凡人小事-md/]
 ---
 

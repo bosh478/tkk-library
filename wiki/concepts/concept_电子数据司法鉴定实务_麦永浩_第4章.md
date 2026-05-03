@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 电子数据司法鉴定实务 麦永浩 第4章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 电子数据司法鉴定实务（麦永浩版）_第4章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [现场勘验, 电子数据提取, 电子数据固定, 证据保全, 第4章]
-sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
+sources: "《电子数据司法鉴定实务》麦永浩 法律 2024年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -301,3 +309,6 @@ sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
 
 1. Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal Investigations, Computer Crime and Intellectual Property Section Criminal Division United States Department of Justice, July, 2002
 2. 刘方权、刘祥南、赵庸、滕达：《犯罪侦查中对计算机的搜查扣押与电子证据的获取》，中国检察出版社2006年版
+## 相关
+
+（相关法条和概念待补充）

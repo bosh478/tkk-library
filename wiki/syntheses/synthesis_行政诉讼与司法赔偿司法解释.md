@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [行政诉讼, 行政赔偿, 国家赔偿, 行政协议, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国行政诉讼法》的解释.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理行政协议案件若干问题的规定.md",
@@ -321,8 +322,8 @@ sources: [
 
 ## 七、相关链接
 
-- [[concept_行政诉讼]]
-- [[concept_行政赔偿]]
-- [[concept_国家赔偿]]
-- [[concept_行政协议]]
-- [[concept_司法赔偿]]
+- concept_行政诉讼
+- concept_行政赔偿
+- concept_国家赔偿
+- concept_行政协议
+- concept_司法赔偿

@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 05 知识产权 集成电路布图设计
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_05_知识产权_集成电路布图设计
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 集成电路布图设计, 委托开发合同, 侵权, 权属]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_知识产权法]], [[concept_集成电路布图设计保护条例]], [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+related: concept_知识产权法, concept_集成电路布图设计保护条例, synthesis_裁判要旨精选_下_03_知识产权_专利
 ---
 
 ## 裁判要旨精选_下_05_知识产权_集成电路布图设计
@@ -51,4 +59,4 @@ related: [[concept_知识产权法]], [[concept_集成电路布图设计保护�
 
 ## 相关
 
-[[concept_知识产权法]] | [[concept_集成电路布图设计保护条例]] | [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+concept_知识产权法 | concept_集成电路布图设计保护条例 | synthesis_裁判要旨精选_下_03_知识产权_专利

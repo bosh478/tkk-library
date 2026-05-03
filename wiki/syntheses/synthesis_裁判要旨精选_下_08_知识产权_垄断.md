@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 08 知识产权 垄断
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_08_知识产权_垄断
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 反垄断, 垄断协议, 反向支付协议, 行政处罚]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_知识产权法]], [[concept_反垄断法]], [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+related: concept_知识产权法, concept_反垄断法, synthesis_裁判要旨精选_下_03_知识产权_专利
 ---
 
 ## 裁判要旨精选_下_08_知识产权_垄断
@@ -115,4 +123,4 @@ related: [[concept_知识产权法]], [[concept_反垄断法]], [[synthesis_裁�
 
 ## 相关
 
-[[concept_知识产权法]] | [[concept_反垄断法]] | [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+concept_知识产权法 | concept_反垄断法 | synthesis_裁判要旨精选_下_03_知识产权_专利

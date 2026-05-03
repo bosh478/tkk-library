@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 05 物权
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_05_物权
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 物权, 租赁关系, 探矿权, 按份共有, 采矿权, 建筑物所有权, 抵押权, 占有保护]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_物权]], [[concept_抵押权]], [[concept_租赁权]], [[concept_建设工程价款优先受偿权]]
+related: concept_物权, concept_抵押权, concept_租赁权, concept_建设工程价款优先受偿权
 ---
 
 ## 裁判要旨精选_上_05_物权
@@ -193,4 +201,4 @@ related: [[concept_物权]], [[concept_抵押权]], [[concept_租赁权]], [[con
 
 ## 相关
 
-[[concept_物权]] | [[concept_抵押权]] | [[concept_租赁权]] | [[concept_占有保护]]
+concept_物权 | concept_抵押权 | concept_租赁权 | concept_占有保护

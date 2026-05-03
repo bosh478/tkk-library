@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [检察实务, 指导性案例, 典型案例, 公益诉讼, 刑事检察]
+source: 〔来源文件不存在〕
 source: sources/微信公号资料/最高人民检察院/
 ---
 
@@ -261,10 +262,10 @@ source: sources/微信公号资料/最高人民检察院/
 
 ## 相关链接
 
-- [[synthesis_上海一中法院_微信公号文章汇总]]
-- [[synthesis_上海二中院_微信公号文章汇总]]
-- [[synthesis_上海高院_微信公号文章汇总]]
-- [[synthesis_最高人民法院_微信公号文章汇总]]
+- synthesis_上海一中法院_微信公号文章汇总
+- synthesis_上海二中院_微信公号文章汇总
+- synthesis_上海高院_微信公号文章汇总
+- synthesis_最高人民法院_微信公号文章汇总
 
 ---
 

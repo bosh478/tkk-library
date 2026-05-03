@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 18 土地使用权合同
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_18_土地使用权合同
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 土地使用权, 土地出让合同, 土地转让, 违约金]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_土地使用权]], [[concept_土地出让合同]], [[concept_建设用地使用权]]
+related: concept_土地使用权, concept_土地出让合同, concept_建设用地使用权
 ---
 
 ## 裁判要旨精选_上_18_土地使用权合同
@@ -74,4 +82,4 @@ related: [[concept_土地使用权]], [[concept_土地出让合同]], [[concept_
 
 ## 相关
 
-[[concept_土地使用权]] | [[concept_土地出让合同]] | [[concept_建设用地使用权]]
+concept_土地使用权 | concept_土地出让合同 | concept_建设用地使用权

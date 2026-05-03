@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 06 抵押
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_06_抵押
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 抵押, 担保合同, 抵押登记, 抵押权实现]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_抵押权]], [[concept_担保合同]], [[concept_物权]]
+related: concept_抵押权, concept_担保合同, concept_物权
 ---
 
 ## 裁判要旨精选_上_06_抵押
@@ -98,4 +106,4 @@ related: [[concept_抵押权]], [[concept_担保合同]], [[concept_物权]]
 
 ## 相关
 
-[[concept_抵押权]] | [[concept_担保合同]] | [[concept_物权]]
+concept_抵押权 | concept_担保合同 | concept_物权

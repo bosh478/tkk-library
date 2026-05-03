@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-18
 updated: 2026-04-18
 tags: [司法解释]
-source: [[关于深化和规范检务公开工作的意见.md]]
+source: 关于深化和规范检务公开工作的意见.md
 ---
 
 ## 解释要点

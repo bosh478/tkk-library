@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 合同纠纷, 著作权, 影片发行权, 票房收入, 违约责任]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2001)民三终字第3号.md]
 ---
 

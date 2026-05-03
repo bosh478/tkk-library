@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 指导案例, 故意杀人罪, 非法经营罪, 抢劫罪, 毒品犯罪, 受贿罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第113辑》.md", "sources/《刑事审判参考》/《刑事审判参考 总第114辑》.md"]
 ---
 
@@ -170,9 +171,9 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第113辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第113辑]]
-- [[entity_刑事审判参考_总第114辑]]
-- [[concept_故意杀人罪]]
-- [[concept_非法经营罪]]
-- [[concept_抢劫罪]]
-- [[concept_受贿罪]]
+- entity_刑事审判参考_总第113辑
+- entity_刑事审判参考_总第114辑
+- concept_故意杀人罪
+- concept_非法经营罪
+- concept_抢劫罪
+- concept_受贿罪

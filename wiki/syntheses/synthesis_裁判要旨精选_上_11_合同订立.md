@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 11 合同订立
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_11_合同订立
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同订立, 和解协议, 缔约过失, 合同成立, 行政机关会议纪要, 备忘录]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_合同订立]], [[concept_合同成立]], [[concept_缔约过失责任]]
+related: concept_合同订立, concept_合同成立, concept_缔约过失责任
 ---
 
 ## 裁判要旨精选_上_11_合同订立
@@ -96,4 +104,4 @@ related: [[concept_合同订立]], [[concept_合同成立]], [[concept_缔约过
 
 ## 相关
 
-[[concept_合同订立]] | [[concept_合同成立]] | [[concept_缔约过失责任]] | [[concept_预约合同]]
+concept_合同订立 | concept_合同成立 | concept_缔约过失责任 | concept_预约合同

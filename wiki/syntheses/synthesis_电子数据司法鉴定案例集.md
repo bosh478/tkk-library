@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-19
 updated: 2026-04-19
 tags: [证据法, 司法鉴定案例, 电子数据, 刑事诉讼]
-sources: [[2024《电子数据司法鉴定实务》麦永浩 法律 2024年]]
-related: [[concept_电子数据司法鉴定实务]]
+source: 〔来源文件不存在〕
+sources: 2024《电子数据司法鉴定实务》麦永浩 法律 2024年
+related: concept_电子数据司法鉴定实务
 ---
 
 # 电子数据司法鉴定案例集

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [公报案例, 最高法, 典型案例]
+source: 〔来源文件不存在〕
 sources: [sources/案例库/公报案例/刑事/, sources/案例库/公报案例/民事/, sources/案例库/公报案例/执行/, sources/案例库/公报案例/行政/]
 ---
 
@@ -446,6 +447,6 @@ sources: [sources/案例库/公报案例/刑事/, sources/案例库/公报案例
 
 ## 相关链接
 
-- [[syntheses/]] — 其他案例合集
-- [[entities/entity_司法解释全书_民法编]] — 民法司法解释
-- [[entities/entity_司法解释全书_刑事诉讼法编]] — 刑事诉讼法司法解释
+- syntheses/ — 其他案例合集
+- entities/entity_司法解释全书_民法编 — 民法司法解释
+- entities/entity_司法解释全书_刑事诉讼法编 — 刑事诉讼法司法解释

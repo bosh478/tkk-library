@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-16
 updated: 2026-04-16
 tags: [检察解释, 行政诉讼监督]
-source: [[人民检察院行政诉讼监督规则.md]]
+source: 人民检察院行政诉讼监督规则.md
 ---
 
 ## 解释要点

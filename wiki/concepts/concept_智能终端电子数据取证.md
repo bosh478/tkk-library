@@ -5,8 +5,9 @@ created: 2026-04-19
 quality: 3
 updated: 2026-04-19
 tags: [证据法, 智能终端, 手机取证, iOS, Android, 司法鉴定]
-sources: [[2024《电子数据司法鉴定实务》麦永浩 法律 2024年]]
-related: [[concept_电子数据司法鉴定实务]]
+source: 〔来源文件不存在〕
+sources: 2024《电子数据司法鉴定实务》麦永浩 法律 2024年
+related: concept_电子数据司法鉴定实务
 ---
 
 # 智能终端电子数据取证
@@ -202,4 +203,4 @@ Android设备常用屏幕锁定方式：PIN码、密码保护、图案锁屏、�
 
 ## 相关
 
-- [[concept_电子数据司法鉴定实务]]
+- concept_电子数据司法鉴定实务

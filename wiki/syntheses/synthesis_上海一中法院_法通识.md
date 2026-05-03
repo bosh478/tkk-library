@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [法律通识, 公众教育, 常见法律问题]
+source: 〔来源文件不存在〕
 sources: [sources/微信公号资料/上海一中法院/上海一中法院-法通识-md/]
 ---
 
@@ -409,7 +410,7 @@ sources: [sources/微信公号资料/上海一中法院/上海一中法院-法�
 
 ## 相关
 
-- [[synthesis_上海一中法院_开庭技巧]]
-- [[synthesis_上海一中法院_微课程]]
-- [[synthesis_上海一中法院_类案裁判方法]]
-- [[synthesis_上海一中法院_衡石观点]]
+- synthesis_上海一中法院_开庭技巧
+- synthesis_上海一中法院_微课程
+- synthesis_上海一中法院_类案裁判方法
+- synthesis_上海一中法院_衡石观点

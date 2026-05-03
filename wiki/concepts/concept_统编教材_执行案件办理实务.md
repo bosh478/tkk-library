@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 统编教材 执行案件办理实务
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 统编教材_执行案件办理实务
 type: concept
 created: 2026-04-23
 updated: 2026-04-23
 tags: [执行, 统编教材, 最高人民法院, 民事执行, 刑事财产执行]
-sources: [["《统编教材》执行案件办理实务11.md]]
+sources: "《统编教材》执行案件办理实务11.md
 ---
 
 # 执行案件办理实务

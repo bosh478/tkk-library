@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 物权纠纷, 担保物权, 保证合同, 以贷还贷, 诉讼时效]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2003)民二终字第83号.md]
 ---
 

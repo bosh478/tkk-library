@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 02 民事行为效力
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_02_民事行为效力
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 民事行为效力, 欺诈, 证明责任, 竞业限制]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_合同效力]], [[concept_股权转让]]
+related: concept_合同效力, concept_股权转让
 ---
 
 ## 裁判要旨精选_上_02_民事行为效力
@@ -51,4 +59,4 @@ related: [[concept_合同效力]], [[concept_股权转让]]
 
 ## 相关
 
-[[concept_合同效力]] | [[concept_股权转让]] | [[concept_竞业限制]]
+concept_合同效力 | concept_股权转让 | concept_竞业限制

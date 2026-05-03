@@ -5,8 +5,9 @@ created: 2026-04-19
 quality: 4
 updated: 2026-04-19
 tags: [证据法, 电子证据, 司法鉴定, 刑事诉讼]
-sources: [[2024《电子数据司法鉴定实务》麦永浩 法律 2024年]]
-related: [[concept_电子数据司法鉴定实务]]
+source: 〔来源文件不存在〕
+sources: 2024《电子数据司法鉴定实务》麦永浩 法律 2024年
+related: concept_电子数据司法鉴定实务
 ---
 
 # 电子证据的法律制度
@@ -192,3 +193,7 @@ related: [[concept_电子数据司法鉴定实务]]
 ［4］刘品新：《电子取证的法律规制》，载《法学家》2010年第3期。
 ［5］刘品新：《论电子证据的原件理论》，载《法律科学（西北政法大学学报）》2012年第5期。
 ［6］Pinxin Liu, Trial on the Electronic Evidence: China's Rules on Electronic Evidence, Frontiers of Law in China, Vol.7, March 2012.
+
+## 相关
+
+（相关法条和概念待补充）

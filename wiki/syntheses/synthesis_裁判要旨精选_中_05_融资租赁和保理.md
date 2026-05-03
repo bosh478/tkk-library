@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 中 05 融资租赁和保理
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_中_05_融资租赁和保理
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 融资租赁, 保理合同, 民商事]
 sources: [《最高人民法院裁判要旨精选》中 最高法审管办 202504]
-related: [[synthesis_裁判要旨精选_中_01_合同纠纷总则]], [[concept_融资租赁合同]], [[concept_保理合同]]
+related: synthesis_裁判要旨精选_中_01_合同纠纷总则, concept_融资租赁合同, concept_保理合同
 ---
 
 ## 概述
@@ -155,7 +163,7 @@ related: [[synthesis_裁判要旨精选_中_01_合同纠纷总则]], [[concept_�
 
 ## 相关链接
 
-- [[concept_融资租赁合同]]
-- [[concept_保理合同]]
-- [[synthesis_裁判要旨精选_中_01_合同纠纷总则]]
-- [[entity_民法典合同编]]
+- concept_融资租赁合同
+- concept_保理合同
+- synthesis_裁判要旨精选_中_01_合同纠纷总则
+- entity_民法典合同编

@@ -5,6 +5,7 @@ created: 2026-04-13
 quality: 2
 updated: 2026-04-13
 tags: [财产类, 单位犯罪, 贪污贿赂]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_贪污罪", "concept_巨额财产来源不明罪", "concept_隐瞒境外存款罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -31,7 +32,7 @@ related: ["concept_贪污罪", "concept_巨额财产来源不明罪", "concept_�
 
 > 特定款物：救灾、抢险、防汛、优抚、帮扶、移民、救济、防疫、社会捐助、社会保险基金等
 
-## 与[[concept_贪污罪]]的区分（第十八条）
+## 与concept_贪污罪的区分（第十八条）
 
 | 情形 | 罪名 |
 |------|------|
@@ -46,6 +47,6 @@ related: ["concept_贪污罪", "concept_巨额财产来源不明罪", "concept_�
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_贪污罪]] | [[concept_巨额财产来源不明罪]] | [[concept_隐瞒境外存款罪]]
-- 推理链：[[synthesis_贿赂犯罪体系对比]]
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_贪污罪 | concept_巨额财产来源不明罪 | concept_隐瞒境外存款罪
+- 推理链：synthesis_贿赂犯罪体系对比

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [合同诈骗罪, 伪造公司印章罪, 再审]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2003)刑提字第4号]
 ---
 

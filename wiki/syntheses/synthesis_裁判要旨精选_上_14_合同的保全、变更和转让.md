@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 14 合同的保全、变更和转让
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_14_合同的保全、变更和转让
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同保全, 债权人撤销权, 债务加入, 债权人代位权, 债权转让]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_债权人撤销权]], [[concept_债务加入]], [[concept_债权人代位权]], [[concept_债权转让]]
+related: concept_债权人撤销权, concept_债务加入, concept_债权人代位权, concept_债权转让
 ---
 
 ## 裁判要旨精选_上_14_合同的保全、变更和转让
@@ -118,4 +126,4 @@ related: [[concept_债权人撤销权]], [[concept_债务加入]], [[concept_债
 
 ## 相关
 
-[[concept_债权人撤销权]] | [[concept_债务加入]] | [[concept_债权人代位权]] | [[concept_债权转让]]
+concept_债权人撤销权 | concept_债务加入 | concept_债权人代位权 | concept_债权转让

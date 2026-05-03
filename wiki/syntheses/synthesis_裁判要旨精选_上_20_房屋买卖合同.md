@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 20 房屋买卖合同
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_20_房屋买卖合同
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 房屋买卖合同, 业主委员会, 以房抵债, 合同解除, 包销合同]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_房屋买卖合同]], [[concept_商品房买卖合同]], [[concept_以房抵债]]
+related: concept_房屋买卖合同, concept_商品房买卖合同, concept_以房抵债
 ---
 
 ## 裁判要旨精选_上_20_房屋买卖合同
@@ -162,4 +170,4 @@ related: [[concept_房屋买卖合同]], [[concept_商品房买卖合同]], [[co
 
 ## 相关
 
-[[concept_房屋买卖合同]] | [[concept_商品房买卖合同]] | [[concept_以房抵债]]
+concept_房屋买卖合同 | concept_商品房买卖合同 | concept_以房抵债

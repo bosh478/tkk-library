@@ -5,7 +5,8 @@ created: 2026-04-16
 quality: 2
 updated: 2026-04-16
 tags: [文化, 实体法]
-source: [[中华人民共和国公共文化服务保障法.md]]
+source: 〔来源文件不存在〕
+source: 中华人民共和国公共文化服务保障法.md
 ---
 
 ## 章节结构

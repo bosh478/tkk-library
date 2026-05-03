@@ -6,9 +6,11 @@ issued_date: 2023-05-26
 effective_date: 2023-09-01
 status: 现行有效
 issuing_authority: 最高人民法院
-source: [[最高人民法院印发《最高人民法院关于法律适用问题请示答复的规定》的通知]]
+source: '最高人民法院印发《最高人民法院关于法律适用问题请示答复的规定》的通知'
 tags: [法律适用, 请示答复, 审判监督, 司法解释]
 related_articles: []
+created: 2026-05-03
+updated: 2026-05-03
 ---
 
 ## 核心信息

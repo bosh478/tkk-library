@@ -1,4 +1,12 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 检答网集萃 71 90
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 检答网集萃（第71-90期）
 type: synthesis
 created: 2026-04-24

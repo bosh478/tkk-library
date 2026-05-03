@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [走私贩卖运输制造毒品罪, 死刑缓期执行, 毒品再犯, 累犯]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2012)浙刑三终字第122号]
 ---
 

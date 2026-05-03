@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [民事诉讼, 检察监督, 司法解释, 民事检察]
+source: 〔来源文件不存在〕
 sources: [[人民检察院民事诉讼监督规则]]
 ---
 

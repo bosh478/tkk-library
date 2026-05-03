@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 中 11 公司治理
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_中_11_公司治理
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 公司治理, 减资, 解散, 清算, 对赌协议]
 sources: [《最高人民法院裁判要旨精选》中 最高法审管办 202504]
-related: [[entity_最高人民法院司法解释理解与适用]], [[concept_司法解释全书_刑法编_公司治理]]
+related: entity_最高人民法院司法解释理解与适用, concept_司法解释全书_刑法编_公司治理
 ---
 
 # 裁判要旨精选（中册）公司治理相关案例
@@ -203,7 +211,7 @@ related: [[entity_最高人民法院司法解释理解与适用]], [[concept_司
 
 ## 相关
 
-- [[concept_司法解释全书_刑法编_公司治理]]
-- [[entity_最高人民法院司法解释理解与适用]]
-- [[synthesis_裁判要旨精选_上_公司治理]]
-- [[synthesis_裁判要旨精选_下_公司治理]]
+- concept_司法解释全书_刑法编_公司治理
+- entity_最高人民法院司法解释理解与适用
+- synthesis_裁判要旨精选_上_公司治理
+- synthesis_裁判要旨精选_下_公司治理

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [民事, 综合, 司法解释, 程序, 改革]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国民法典》总则编若干问题的解释.md",
   "sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国民法典》时间效力的若干规定.md",
@@ -292,8 +293,8 @@ sources: [
 
 ## 九、相关链接
 
-- [[concept_民事法律行为]]
-- [[concept_代理]]
-- [[concept_物权]]
-- [[concept_继承]]
-- [[concept_诉讼时效]]
+- concept_民事法律行为
+- concept_代理
+- concept_物权
+- concept_继承
+- concept_诉讼时效

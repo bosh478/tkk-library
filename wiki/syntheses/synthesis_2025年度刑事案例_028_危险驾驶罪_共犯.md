@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [危险驾驶罪, 共同犯罪, 醉酒驾驶]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[交通肇事罪]]
+related: 交通肇事罪
 ---
 
 ## 裁判要旨

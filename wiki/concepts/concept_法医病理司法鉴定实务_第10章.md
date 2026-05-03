@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 法医病理司法鉴定实务 第10章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 法医病理司法鉴定实务_第10章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [法医病理, 司法鉴定, 证据质证, 第10章]
-sources: [["《法医病理司法鉴定实务》官大威 科学出版社 2025年"]]
+sources: "《法医病理司法鉴定实务》官大威 科学出版社 2025年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -2197,3 +2205,7 @@ analysis of sharp force trauma to bone． Forensic Sci Int，2018，283：156 17
 ［30］ Hayes W C，Erickson M S，Power E D． Forensic injury biomechanics． Annu． Rev． Biomed． Eng．，2007，9：55 86．
 
 
+
+## 相关
+
+（相关法条和概念待补充）

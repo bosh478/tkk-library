@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [审判实务, 法律研究, 法官札记, 刑事, 民事, 商事]
+source: 〔来源文件不存在〕
 source: sources/微信公号资料/上海二中院/
 ---
 
@@ -207,10 +208,10 @@ source: sources/微信公号资料/上海二中院/
 
 ## 相关链接
 
-- [[synthesis_上海一中法院_微信公号文章汇总]]
-- [[synthesis_上海高院_微信公号文章汇总]]
-- [[synthesis_最高人民法院_微信公号文章汇总]]
-- [[synthesis_最高人民检察院_微信公号文章汇总]]
+- synthesis_上海一中法院_微信公号文章汇总
+- synthesis_上海高院_微信公号文章汇总
+- synthesis_最高人民法院_微信公号文章汇总
+- synthesis_最高人民检察院_微信公号文章汇总
 
 ---
 

@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 15 合同权利义务终止
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_15_合同权利义务终止
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同解除, 同时履行抗辩权, 抵销, 僵局解除]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_合同解除]], [[concept_同时履行抗辩权]], [[concept_债务抵销]]
+related: concept_合同解除, concept_同时履行抗辩权, concept_债务抵销
 ---
 
 ## 裁判要旨精选_上_15_合同权利义务终止
@@ -107,4 +115,4 @@ related: [[concept_合同解除]], [[concept_同时履行抗辩权]], [[concept_
 
 ## 相关
 
-[[concept_合同解除]] | [[concept_同时履行抗辩权]] | [[concept_债务抵销]] | [[concept_恢复原状]]
+concept_合同解除 | concept_同时履行抗辩权 | concept_债务抵销 | concept_恢复原状

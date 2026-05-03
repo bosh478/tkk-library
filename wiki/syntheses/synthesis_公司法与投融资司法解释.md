@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [公司法, 企业破产, 投资, 融资, 中小企业, 民营经济, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（二）（2020修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（三）（2020修正）.md",
@@ -355,8 +356,8 @@ sources: [
 
 ## 十一、相关链接
 
-- [[concept_公司法]]
-- [[concept_有限责任公司]]
-- [[concept_股份有限公司]]
-- [[concept_公司破产清算]]
-- [[concept_外商投资]]
+- concept_公司法
+- concept_有限责任公司
+- concept_股份有限公司
+- concept_公司破产清算
+- concept_外商投资

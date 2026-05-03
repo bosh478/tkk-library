@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [刑法理论, 司法实务, 刑事审判, 刑事指控, 检察官实务]
+source: 〔来源文件不存在〕
 sources:
   - sources/书籍资料/2024《刑法罪名精释》上 胡云腾 人民法院 2024年.md
   - sources/书籍资料/2024《刑法罪名精释》下 胡云腾 人民法院 2024年.md
@@ -282,9 +283,9 @@ sources:
 ## 四、知识关联
 
 ### 交叉引用
-- [[wiki/concepts/concept_刑事诉讼法.md]] — 刑事程序法基础
-- [[wiki/concepts/concept_受贿罪.md]] — 贪污贿赂罪典型罪名
-- [[wiki/concepts/concept_盗窃罪.md]] — 侵犯财产罪典型罪名
+- wiki/concepts/concept_刑事诉讼法.md — 刑事程序法基础
+- wiki/concepts/concept_受贿罪.md — 贪污贿赂罪典型罪名
+- wiki/concepts/concept_盗窃罪.md — 侵犯财产罪典型罪名
 
 ### 相关法律规范
 - 《刑法》及历次修正案

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [检察制度, 检察官, 公益诉讼, 检察建议, 检察文化]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/中华人民共和国检察官职业道德基本准则.md",
   "sources/现行规范库/司法解释/人民检察院公益诉讼办案规则.md",
@@ -176,5 +177,5 @@ sources: [
 
 ## 八、相关
 
-- [[entity_司法解释全书_综合编]]
-- [[concept_检察制度]]
+- entity_司法解释全书_综合编
+- concept_检察制度

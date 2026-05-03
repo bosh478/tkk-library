@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [巡回检察, 强制医疗, 暂予监外执行, 检察监督]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于印发《人民检察院巡回检察工作规定》的通知.md",
   "sources/现行规范库/司法解释/关于印发《人民检察院强制医疗执行检察办法（试行）》的通知.md",
@@ -132,5 +133,5 @@ sources: [
 
 ## 五、相关
 
-- [[concept_巡回检察]]
-- [[concept_强制医疗]]
+- concept_巡回检察
+- concept_强制医疗

@@ -2,6 +2,7 @@
 title: 终本案件分类管理实践转向
 type: synthesis
 tags: [执行, 理论与争鸣, 终本案件, 执行不能]
+source: 〔来源文件不存在〕
 sources: [《执行工作指导 总第79辑》最高法执行局 人民法院 2022年.md]
 created: 2026-04-22
 updated: 2026-04-22

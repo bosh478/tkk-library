@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 票据, 付款请求权, 追索权, 伪造票据]
+source: 〔来源文件不存在〕
 sources: ["《最高人民法院裁判要旨精选》中 最高法审管办 202504.md"]
 related: [wiki/entities/entity_最高人民法院关于审理票据纠纷案件若干问题的规定2020修正.md, wiki/syntheses/Synthesis_罪名精释_票据诈骗罪.md, wiki/syntheses/Synthesis_罪名精释_对违法票据承兑、付款、保证罪.md]
 ---
@@ -123,7 +124,7 @@ related: [wiki/entities/entity_最高人民法院关于审理票据纠纷案件�
 
 ## 相关
 
-- [[entity_最高人民法院关于审理票据纠纷案件若干问题的规定2020修正]]
+- entity_最高人民法院关于审理票据纠纷案件若干问题的规定2020修正
 - [[Synthesis_罪名精释_票据诈骗罪]]
 - [[Synthesis_罪名精释_对违法票据承兑、付款、保证罪]]
-- [[concept_民法典适用大全_商事卷·票据法_第十四条]]
+- concept_民法典适用大全_商事卷·票据法_第十四条

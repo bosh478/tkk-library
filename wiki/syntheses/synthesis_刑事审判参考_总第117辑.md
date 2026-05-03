@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-25
 tags: [刑事审判参考, 指导案例, 妨害安全驾驶罪, 环境污染罪, 组织卖淫罪, 医疗事故罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第117辑》.md"]
 ---
 
@@ -123,9 +124,9 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第117辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第117辑]]
-- [[concept_妨害安全驾驶罪]]
-- [[concept_以危险方法危害公共安全罪]]
-- [[concept_污染环境罪]]
-- [[concept_组织卖淫罪]]
-- [[concept_医疗事故罪]]
+- entity_刑事审判参考_总第117辑
+- concept_妨害安全驾驶罪
+- concept_以危险方法危害公共安全罪
+- concept_污染环境罪
+- concept_组织卖淫罪
+- concept_医疗事故罪

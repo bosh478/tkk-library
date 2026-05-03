@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 04 行政篇 受案范围
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_04_行政篇_受案范围
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 行政法, 行政诉讼, 受案范围, 内部层级监督, 信访]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_行政诉讼法]], [[synthesis_裁判要旨精选_下_05_行政篇_行政协议]], [[synthesis_裁判要旨精选_下_06_国家赔偿篇]]
+related: concept_行政诉讼法, synthesis_裁判要旨精选_下_05_行政篇_行政协议, synthesis_裁判要旨精选_下_06_国家赔偿篇
 ---
 
 ## 裁判要旨精选_下_04_行政篇_受案范围
@@ -147,4 +155,4 @@ related: [[concept_行政诉讼法]], [[synthesis_裁判要旨精选_下_05_行�
 
 ## 相关
 
-[[concept_行政诉讼法]] | [[synthesis_裁判要旨精选_下_05_行政篇_行政协议]] | [[synthesis_裁判要旨精选_下_06_国家赔偿篇]]
+concept_行政诉讼法 | synthesis_裁判要旨精选_下_05_行政篇_行政协议 | synthesis_裁判要旨精选_下_06_国家赔偿篇

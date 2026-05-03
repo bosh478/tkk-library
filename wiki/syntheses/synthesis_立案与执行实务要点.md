@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [立案, 执行, 法官培训, 统编教材]
+source: 〔来源文件不存在〕
 sources: [
   "sources/《统编教材》法官审判实务/《统编教材》立案工作实务2.md",
   "sources/《统编教材》法官审判实务/《统编教材》执行案件办理实务11.md"

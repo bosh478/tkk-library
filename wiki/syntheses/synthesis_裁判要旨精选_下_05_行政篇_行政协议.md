@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 05 行政篇 行政协议
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_05_行政篇_行政协议
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 行政法, 行政协议, 行政协议效力, 行政协议履行, 行政协议解除]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_行政诉讼法]], [[concept_行政协议]], [[synthesis_裁判要旨精选_下_04_行政篇_受案范围]], [[synthesis_裁判要旨精选_下_06_国家赔偿篇]]
+related: concept_行政诉讼法, concept_行政协议, synthesis_裁判要旨精选_下_04_行政篇_受案范围, synthesis_裁判要旨精选_下_06_国家赔偿篇
 ---
 
 ## 裁判要旨精选_下_05_行政篇_行政协议
@@ -141,4 +149,4 @@ related: [[concept_行政诉讼法]], [[concept_行政协议]], [[synthesis_裁�
 
 ## 相关
 
-[[concept_行政诉讼法]] | [[concept_行政协议]] | [[synthesis_裁判要旨精选_下_04_行政篇_受案范围]] | [[synthesis_裁判要旨精选_下_06_国家赔偿篇]]
+concept_行政诉讼法 | concept_行政协议 | synthesis_裁判要旨精选_下_04_行政篇_受案范围 | synthesis_裁判要旨精选_下_06_国家赔偿篇

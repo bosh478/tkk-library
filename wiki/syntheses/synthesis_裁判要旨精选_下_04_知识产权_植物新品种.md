@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 04 知识产权 植物新品种
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_04_知识产权_植物新品种
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 植物新品种权, 侵权赔偿, 自繁自用, 许可使用费]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_知识产权法]], [[concept_植物新品种保护条例]], [[synthesis_裁判要旨精选_下_01_知识产权_著作权]], [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+related: concept_知识产权法, concept_植物新品种保护条例, synthesis_裁判要旨精选_下_01_知识产权_著作权, synthesis_裁判要旨精选_下_03_知识产权_专利
 ---
 
 ## 裁判要旨精选_下_04_知识产权_植物新品种
@@ -99,4 +107,4 @@ related: [[concept_知识产权法]], [[concept_植物新品种保护条例]], [
 
 ## 相关
 
-[[concept_知识产权法]] | [[concept_植物新品种保护条例]] | [[synthesis_裁判要旨精选_下_01_知识产权_著作权]] | [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+concept_知识产权法 | concept_植物新品种保护条例 | synthesis_裁判要旨精选_下_01_知识产权_著作权 | synthesis_裁判要旨精选_下_03_知识产权_专利

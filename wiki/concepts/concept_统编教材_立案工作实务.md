@@ -4,7 +4,8 @@ type: concept
 created: 2026-04-23
 updated: 2026-04-23
 tags: [立案, 审判实务, 统编教材, 最高人民法院]
-source: [[《统编教材》立案工作实务2.md]]
+source: 〔来源文件不存在〕
+source: 《统编教材》立案工作实务2.md
 ---
 
 # 立案工作实务

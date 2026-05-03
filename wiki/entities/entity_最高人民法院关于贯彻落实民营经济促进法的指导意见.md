@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院关于贯彻落实民营经济促进法的指导意见
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院关于贯彻落实《中华人民共和国民营经济促进法》的指导意见
 type: entity
 document_number: 法发〔2025〕15号

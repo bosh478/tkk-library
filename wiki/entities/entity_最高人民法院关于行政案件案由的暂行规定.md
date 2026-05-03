@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院关于行政案件案由的暂行规定
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院关于行政案件案由的暂行规定
 type: entity
 document_number: 法发〔2020〕44号

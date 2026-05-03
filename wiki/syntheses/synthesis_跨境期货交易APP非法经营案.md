@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-18
 tags: [刑事, 非法经营罪, 2024年度案例]
+source: 〔来源文件不存在〕
 sources: [2024年度法院刑事案例合集（1-4册）]
 ---
 

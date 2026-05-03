@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 16 违约责任
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_16_违约责任
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 违约责任, 违约金, 定金, 损失赔偿, 可预见性原则]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_违约责任]], [[concept_违约金]], [[concept_定金]], [[concept_损失赔偿]]
+related: concept_违约责任, concept_违约金, concept_定金, concept_损失赔偿
 ---
 
 ## 裁判要旨精选_上_16_违约责任
@@ -106,4 +114,4 @@ related: [[concept_违约责任]], [[concept_违约金]], [[concept_定金]], [[
 
 ## 相关
 
-[[concept_违约责任]] | [[concept_违约金]] | [[concept_定金]] | [[concept_损失赔偿]]
+concept_违约责任 | concept_违约金 | concept_定金 | concept_损失赔偿

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 企业纠纷, 中外合资, 合资合同, 违约, 出资义务]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2002)民四终字第3号.md]
 ---
 

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [最高检, 检答网, 法律问答, 检察实务]
+source: 〔来源文件不存在〕
 sources: [sources/微信公号资料/最高人民检察院/最高检-检答网集萃-md/]
 ---
 
@@ -199,6 +200,6 @@ sources: [sources/微信公号资料/最高人民检察院/最高检-检答网�
 
 ## 相关
 
-- [[synthesis_最高人民检察院_典型案例汇总]]
-- [[synthesis_最高人民检察院_指导性案例汇总]]
-- [[entity_最高人民检察院]]
+- synthesis_最高人民检察院_典型案例汇总
+- synthesis_最高人民检察院_指导性案例汇总
+- entity_最高人民检察院

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [审判实务, 办案心法, 民商事, 刑事, 行政, 执行]
+source: 〔来源文件不存在〕
 source: sources/微信公号资料/上海高院/
 ---
 
@@ -257,10 +258,10 @@ source: sources/微信公号资料/上海高院/
 
 ## 相关链接
 
-- [[synthesis_上海一中法院_微信公号文章汇总]]
-- [[synthesis_上海二中院_微信公号文章汇总]]
-- [[synthesis_最高人民法院_微信公号文章汇总]]
-- [[synthesis_最高人民检察院_微信公号文章汇总]]
+- synthesis_上海一中法院_微信公号文章汇总
+- synthesis_上海二中院_微信公号文章汇总
+- synthesis_最高人民法院_微信公号文章汇总
+- synthesis_最高人民检察院_微信公号文章汇总
 
 ---
 

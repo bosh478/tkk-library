@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 产权保护, 顾雏军案, 挪用资金罪, 违规披露重要信息罪, 虚报注册资本罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第116辑》.md"]
 ---
 
@@ -87,7 +88,7 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第116辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第116辑]]
-- [[concept_挪用资金罪]]
-- [[concept_违规披露重要信息罪]]
-- [[concept_虚报注册资本罪]]
+- entity_刑事审判参考_总第116辑
+- concept_挪用资金罪
+- concept_违规披露重要信息罪
+- concept_虚报注册资本罪

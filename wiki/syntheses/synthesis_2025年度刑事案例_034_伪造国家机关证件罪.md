@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [伪造国家机关证件罪, 如实供述, 自首]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
 related: [妨害社会管理秩序罪]
 ---

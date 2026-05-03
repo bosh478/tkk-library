@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-23
 updated: 2026-04-23
 tags: [民法典, 担保制度, 司法解释, 最高人民法院, 保证, 抵押, 质押, 留置权, 非典型担保]
-sources: [[《民法典担保制度司法解释理解与适用》最高院民二庭 人民法院 2021年.md]]
+sources: 《民法典担保制度司法解释理解与适用》最高院民二庭 人民法院 2021年.md
 related_concepts: [concept_民法典担保制度, concept_担保合同, concept_保证合同, concept_抵押权, concept_质权, concept_留置权]
 ---
 
@@ -737,10 +737,10 @@ related_concepts: [concept_民法典担保制度, concept_担保合同, concept_
 
 ## 相关链接
 
-- [[entity_民法典]]
-- [[concept_担保合同]]
-- [[concept_保证合同]]
-- [[concept_抵押权]]
-- [[concept_质权]]
-- [[concept_留置权]]
-- [[concept_非典型担保]]
+- entity_民法典
+- concept_担保合同
+- concept_保证合同
+- concept_抵押权
+- concept_质权
+- concept_留置权
+- concept_非典型担保

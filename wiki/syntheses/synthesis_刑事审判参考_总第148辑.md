@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 指导案例, 危险驾驶罪, 销售伪劣产品罪, 故意杀人罪, 聚众斗殴罪, 非法吸收公众存款罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第148辑》.md"]
 ---
 
@@ -134,9 +135,9 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第148辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第148辑]]
-- [[concept_危险驾驶罪]]
-- [[concept_销售伪劣产品罪]]
-- [[concept_非法吸收公众存款罪]]
-- [[concept_故意杀人罪]]
-- [[concept_聚众斗殴罪]]
+- entity_刑事审判参考_总第148辑
+- concept_危险驾驶罪
+- concept_销售伪劣产品罪
+- concept_非法吸收公众存款罪
+- concept_故意杀人罪
+- concept_聚众斗殴罪

@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [生产销售有毒有害食品罪, 主观明知, 推定]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[生产销售伪劣产品罪]]
+related: 生产销售伪劣产品罪
 ---
 
 ## 裁判要旨

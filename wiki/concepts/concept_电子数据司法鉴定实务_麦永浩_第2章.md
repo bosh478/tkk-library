@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 电子数据司法鉴定实务 麦永浩 第2章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 电子数据司法鉴定实务（麦永浩版）_第2章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [电子证据, 法律制度, 证据采纳, 证据采信, 第2章]
-sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
+sources: "《电子数据司法鉴定实务》麦永浩 法律 2024年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -192,3 +200,6 @@ sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
 4. 刘品新：《电子取证的法律规制》，载《法学家》2010年第3期
 5. 刘品新：《论电子证据的原件理论》，载《法律科学（西北政法大学学报）》
 6. Pinxin Liu, Trial on the Electronic Evidence: China's Rules on Electronic Evidence, Frontiers of Law in China, Vol.7, March 2012
+## 相关
+
+（相关法条和概念待补充）

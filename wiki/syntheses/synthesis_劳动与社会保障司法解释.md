@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [劳动争议, 社会保险, 工伤认定, 人身损害赔偿, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理劳动争议案件适用法律问题的解释（二）.md",
@@ -328,8 +329,8 @@ sources: [
 
 ## 九、相关链接
 
-- [[concept_劳动争议仲裁]]
-- [[concept_工伤保险]]
-- [[concept_人身损害赔偿]]
-- [[concept_精神损害赔偿]]
-- [[concept_医疗损害责任]]
+- concept_劳动争议仲裁
+- concept_工伤保险
+- concept_人身损害赔偿
+- concept_精神损害赔偿
+- concept_医疗损害责任

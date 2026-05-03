@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 法释2026 6号 贪污贿赂解释二
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 《关于办理贪污贿赂刑事案件适用法律若干问题的解释（二）》
 type: entity
 created: 2026-04-10
@@ -12,7 +19,7 @@ amends: "《刑法》第三百八十六条、第三百八十七条、第三百�
 依据: "《刑法》贪污贿赂罪章节（第八章）"
 状态: 〔现行有效〕
 
-related: [[concept_单位受贿罪]] [[concept_对单位行贿罪]] [[concept_介绍贿赂罪]] [[entity_法释2016_9号_贪污贿赂解释]]
+related: concept_单位受贿罪 concept_对单位行贿罪 concept_介绍贿赂罪 entity_法释2016_9号_贪污贿赂解释
 ---
 
 ## 溯源地图
@@ -135,11 +142,11 @@ related: [[concept_单位受贿罪]] [[concept_对单位行贿罪]] [[concept_�
 
 ## 相关
 
-- [[concept_单位受贿罪]]
-- [[concept_对单位行贿罪]]
-- [[concept_介绍贿赂罪]]
-- [[concept_单位行贿罪]]
-- [[concept_巨额财产来源不明罪]]
-- [[concept_非国家工作人员受贿罪]]
-- [[concept_职务侵占罪]]
-- [[concept_挪用资金罪]]
+- concept_单位受贿罪
+- concept_对单位行贿罪
+- concept_介绍贿赂罪
+- concept_单位行贿罪
+- concept_巨额财产来源不明罪
+- concept_非国家工作人员受贿罪
+- concept_职务侵占罪
+- concept_挪用资金罪

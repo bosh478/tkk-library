@@ -5,6 +5,7 @@ created: 2026-04-13
 quality: 2
 updated: 2026-04-13
 tags: [行贿类, 企业犯罪, 贪污贿赂]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_行贿罪", "concept_非国家工作人员受贿罪", "concept_单位行贿罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -22,7 +23,7 @@ related: ["concept_行贿罪", "concept_非国家工作人员受贿罪", "concep
 
 > 2026年取消倍数放大后，实质大幅降低入罪门槛。
 
-## 与[[concept_行贿罪]]的区分
+## 与concept_行贿罪的区分
 
 | 区分点 | 对非国家工作人员行贿罪 | 行贿罪 |
 |--------|----------------------|--------|
@@ -32,7 +33,7 @@ related: ["concept_行贿罪", "concept_非国家工作人员受贿罪", "concep
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_行贿罪]] | [[concept_单位行贿罪]] | [[concept_对单位行贿罪]]
-- 对向犯：[[concept_非国家工作人员受贿罪]]
-- 推理链：[[synthesis_贿赂犯罪体系对比]]
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_行贿罪 | concept_单位行贿罪 | concept_对单位行贿罪
+- 对向犯：concept_非国家工作人员受贿罪
+- 推理链：synthesis_贿赂犯罪体系对比

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [网络犯罪, 电子数据, 网络安全, 跨境司法协作]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于印发《人民检察院办理网络犯罪案件规定》的通知.md",
   "sources/现行规范库/司法解释/关于加强新时代检察机关网络法治工作的意见.md"
@@ -131,6 +132,6 @@ sources: [
 
 ## 四、相关
 
-- [[synthesis_电信网络诈骗与拐卖犯罪意见]]
-- [[concept_网络犯罪]]
-- [[entity_司法解释全书_综合编]]
+- synthesis_电信网络诈骗与拐卖犯罪意见
+- concept_网络犯罪
+- entity_司法解释全书_综合编

@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 电子数据司法鉴定实务 麦永浩 第9章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 电子数据司法鉴定实务（麦永浩版）_第9章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [相似性鉴定, 软件盗版, 哈希校验, 模糊哈希, 代码比对, 司法鉴定, 第9章]
-sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
+sources: "《电子数据司法鉴定实务》麦永浩 法律 2024年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -250,3 +258,7 @@ AFC标准的侵权认定应该遵循如下步骤进行：
 ## 参考文献
 
 ［1］ Verco K L, Wise M J. Plagiarism à la mode: A comparison of automated systems for detecting suspected plagiarism [J]. The Computer Journal, 1996, 39(9): 741-750.
+
+## 相关
+
+（相关法条和概念待补充）

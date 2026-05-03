@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [审判实务, 类案裁判, 裁判要点, 审理思路]
+source: 〔来源文件不存在〕
 sources: [sources/微信公号资料/上海一中法院/上海一中法院-类案裁判方法-md/]
 ---
 
@@ -851,7 +852,7 @@ sources: [sources/微信公号资料/上海一中法院/上海一中法院-类�
 
 ## 相关
 
-- [[synthesis_上海一中法院_开庭技巧]]
-- [[synthesis_上海一中法院_微课程]]
-- [[synthesis_上海一中法院_法通识]]
-- [[synthesis_上海一中法院_衡石观点]]
+- synthesis_上海一中法院_开庭技巧
+- synthesis_上海一中法院_微课程
+- synthesis_上海一中法院_法通识
+- synthesis_上海一中法院_衡石观点

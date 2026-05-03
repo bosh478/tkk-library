@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [证券, 期货, 银行卡, 票据, 金融衍生品, 非法集资, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理证券市场虚假陈述侵权民事赔偿案件的若干规定.md",
   "sources/现行规范库/司法解释/最高人民法院关于证券纠纷代表人诉讼若干问题的规定.md",
@@ -350,9 +351,9 @@ sources: [
 
 ## 十、相关链接
 
-- [[concept_证券虚假陈述]]
-- [[concept_银行卡纠纷]]
-- [[concept_票据纠纷]]
-- [[concept_期货交易]]
-- [[concept_非法吸收公众存款罪]]
-- [[concept_集资诈骗罪]]
+- concept_证券虚假陈述
+- concept_银行卡纠纷
+- concept_票据纠纷
+- concept_期货交易
+- concept_非法吸收公众存款罪
+- concept_集资诈骗罪

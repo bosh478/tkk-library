@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 04 溯及适用
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_04_溯及适用
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 溯及适用, 民法典时间效力]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_民法典时间效力]], [[concept_建设工程价款优先受偿权]]
+related: concept_民法典时间效力, concept_建设工程价款优先受偿权
 ---
 
 ## 裁判要旨精选_上_04_溯及适用
@@ -36,4 +44,4 @@ related: [[concept_民法典时间效力]], [[concept_建设工程价款优先�
 
 ## 相关
 
-[[concept_民法典时间效力]] | [[concept_建设工程价款优先受偿权]]
+concept_民法典时间效力 | concept_建设工程价款优先受偿权

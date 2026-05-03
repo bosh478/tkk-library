@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-16
 updated: 2026-04-16
 tags: [检察解释, 知识产权]
-source: [[人民检察院办理知识产权案件工作指引.md]]
+source: 人民检察院办理知识产权案件工作指引.md
 ---
 
 ## 解释要点

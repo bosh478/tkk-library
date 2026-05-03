@@ -6,7 +6,7 @@ issued_by: 最高人民法院
 issued_date: 2021-06-09
 effective_date: 2021-06-16
 status: 现行有效
-source: [[最高人民法院印发《关于修改〈最高人民法院关于司法解释工作的规定〉的决定》的通知.md]]
+source: 最高人民法院印发《关于修改〈最高人民法院关于司法解释工作的规定〉的决定》的通知.md
 tags: [司法解释, 司法解释工作规定, 司法改革, 最高人民法院]
 related_concepts: []
 related_laws: []

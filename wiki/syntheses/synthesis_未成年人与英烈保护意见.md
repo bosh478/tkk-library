@@ -1,4 +1,12 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 未成年人与英烈保护意见
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 未成年人与英烈保护意见
 type: synthesis
 created: 2026-04-24
@@ -172,7 +180,7 @@ sources: [[关于依法严惩利用未成年人实施黑恶势力犯罪的意见
 
 ## 相关
 
-- [[concept_黑恶势力犯罪]]
-- [[concept_侵害英雄烈士名誉、荣誉罪]]
-- [[concept_人身安全保护令]]
-- [[entity_司法解释全书_刑法编]]
+- concept_黑恶势力犯罪
+- concept_侵害英雄烈士名誉、荣誉罪
+- concept_人身安全保护令
+- entity_司法解释全书_刑法编

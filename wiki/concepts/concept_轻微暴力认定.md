@@ -4,6 +4,7 @@ type: concept
 created: 2026-04-20
 updated: 2026-04-20
 tags: [刑法, 轻微暴力, 故意伤害罪, 暴力行为]
+source: 〔来源文件不存在〕
 related: ["summary_邻里纠纷轻伤害案件罪与非罪的裁判思路"]
 ---
 

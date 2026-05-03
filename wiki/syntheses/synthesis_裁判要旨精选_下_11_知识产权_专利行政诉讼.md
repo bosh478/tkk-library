@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 11 知识产权 专利行政诉讼
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_11_知识产权_专利行政诉讼
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 专利, 行政诉讼, 专利无效, 行政裁决]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_知识产权法]], [[concept_专利法]], [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+related: concept_知识产权法, concept_专利法, synthesis_裁判要旨精选_下_03_知识产权_专利
 ---
 
 ## 裁判要旨精选_下_11_知识产权_专利行政诉讼
@@ -92,4 +100,4 @@ related: [[concept_知识产权法]], [[concept_专利法]], [[synthesis_裁判�
 
 ## 相关
 
-[[concept_知识产权法]] | [[concept_专利法]] | [[synthesis_裁判要旨精选_下_03_知识产权_专利]]
+concept_知识产权法 | concept_专利法 | synthesis_裁判要旨精选_下_03_知识产权_专利

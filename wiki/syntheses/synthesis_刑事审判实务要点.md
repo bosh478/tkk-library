@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判, 法官培训, 统编教材]
+source: 〔来源文件不存在〕
 sources: [
   "sources/《统编教材》法官审判实务/《统编教材》刑事审判实务上册3.md",
   "sources/《统编教材》法官审判实务/《统编教材》刑事审判实务下册3.md",
@@ -127,6 +128,6 @@ sources: [
 - 速裁程序适用
 
 ## 相关
-- [[synthesis_受贿罪体系对比]]
-- [[synthesis_贪污罪vs职务侵占罪对比]]
-- [[synthesis_袭警罪与妨害公务罪对比]]
+- synthesis_受贿罪体系对比
+- synthesis_贪污罪vs职务侵占罪对比
+- synthesis_袭警罪与妨害公务罪对比

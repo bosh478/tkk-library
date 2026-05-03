@@ -2,6 +2,7 @@
 title: 职务犯罪审判指导（第3辑）
 type: synthesis
 tags: [职务犯罪, 审判指导, 最高法, 刑事]
+source: 〔来源文件不存在〕
 created: 2026-04-29
 updated: 2026-04-29
 sources: [2024《职务犯罪审判指导》第3辑 最高法刑二庭 法制 2024年.md]
@@ -158,4 +159,4 @@ confidence: 〔确定〕（原文直接提取）
 
 ## 相关
 
-- [[synthesis_职务犯罪审判指导_第4辑]]
+- synthesis_职务犯罪审判指导_第4辑

@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院关于加强中医药知识产权司法保护的意见
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院关于加强中医药知识产权司法保护的意见
 type: entity
 document_number: 法发〔2022〕34号

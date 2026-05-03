@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [民事诉讼, 证据, 诉讼时效, 执行, 仲裁, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于民事诉讼证据的若干规定（2019修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理民事案件适用诉讼时效制度若干问题的规定（2020修正）.md",
@@ -318,8 +319,8 @@ sources: [
 
 ## 八、相关链接
 
-- [[concept_民事诉讼管辖]]
-- [[concept_举证责任]]
-- [[concept_诉讼时效]]
-- [[concept_执行程序]]
-- [[concept_仲裁]]
+- concept_民事诉讼管辖
+- concept_举证责任
+- concept_诉讼时效
+- concept_执行程序
+- concept_仲裁

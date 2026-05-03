@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [买卖合同, 建设工程合同, 民间借贷, 租赁合同, 技术合同, 融资租赁, 担保制度, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理买卖合同纠纷案件适用法律问题的解释（2020修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）.md",
@@ -338,8 +339,8 @@ sources: [
 
 ## 八、相关链接
 
-- [[concept_买卖合同]]
-- [[concept_建设工程合同]]
-- [[concept_民间借贷]]
-- [[concept_担保物权]]
-- [[concept_保证合同]]
+- concept_买卖合同
+- concept_建设工程合同
+- concept_民间借贷
+- concept_担保物权
+- concept_保证合同

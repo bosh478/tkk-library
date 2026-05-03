@@ -5,7 +5,8 @@ created: 2026-04-16
 quality: 3
 updated: 2026-04-16
 tags: [民法, 实体法]
-source: [[中华人民共和国民法典.md]]
+source: 〔来源文件不存在〕
+source: 中华人民共和国民法典.md
 ---
 
 ## 章节结构

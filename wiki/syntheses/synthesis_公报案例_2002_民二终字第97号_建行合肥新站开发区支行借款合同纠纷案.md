@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 合同纠纷, 借款合同, 港币借贷, 债权债务确认]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2002)民二终字第97号.md]
 ---
 

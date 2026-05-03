@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [走私贩卖运输制造毒品罪, 程序违法, 发回重审]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2005)刑复字第84号]
 ---
 

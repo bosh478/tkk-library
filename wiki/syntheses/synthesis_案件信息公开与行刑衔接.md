@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [案件信息公开, 流程监控, 行刑衔接, 档案管理]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于印发《人民检察院案件信息公开工作规定》的通知.md",
   "sources/现行规范库/司法解释/关于印发《人民检察院案件流程监控工作规定（试行）》的通知.md",
@@ -154,5 +155,5 @@ sources: [
 
 ## 六、相关
 
-- [[concept_案件信息公开]]
-- [[concept_行刑衔接]]
+- concept_案件信息公开
+- concept_行刑衔接

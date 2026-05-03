@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 10 知识产权 商标行政诉讼
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_10_知识产权_商标行政诉讼
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 商标, 行政诉讼, 商标无效, 商标近似, 不正当手段]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_知识产权法]], [[concept_商标法]], [[synthesis_裁判要旨精选_下_02_知识产权_商标]]
+related: concept_知识产权法, concept_商标法, synthesis_裁判要旨精选_下_02_知识产权_商标
 ---
 
 ## 裁判要旨精选_下_10_知识产权_商标行政诉讼
@@ -225,4 +233,4 @@ related: [[concept_知识产权法]], [[concept_商标法]], [[synthesis_裁判�
 
 ## 相关
 
-[[concept_知识产权法]] | [[concept_商标法]] | [[synthesis_裁判要旨精选_下_02_知识产权_商标]]
+concept_知识产权法 | concept_商标法 | synthesis_裁判要旨精选_下_02_知识产权_商标

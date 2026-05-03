@@ -5,6 +5,7 @@ created: 2026-04-10
 quality: 2
 updated: 2026-04-13
 tags: [受贿类, 职务犯罪, 贪污贿赂]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_贪污罪", "concept_挪用公款罪", "concept_行贿罪", "concept_非国家工作人员受贿罪", "concept_利用影响力受贿罪", "concept_单位受贿罪", "concept_巨额财产来源不明罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -75,7 +76,7 @@ related: ["concept_贪污罪", "concept_挪用公款罪", "concept_行贿罪", "
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_贪污罪]] | [[concept_挪用公款罪]] | [[concept_行贿罪]] | [[concept_单位行贿罪]] | [[concept_利用影响力受贿罪]] | [[concept_单位受贿罪]] | [[concept_巨额财产来源不明罪]]
-- 横向对比：[[concept_非国家工作人员受贿罪]]（主体身份差异）
-- 推理链：[[synthesis_贿赂犯罪体系对比]]（罪名选择逻辑）
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_贪污罪 | concept_挪用公款罪 | concept_行贿罪 | concept_单位行贿罪 | concept_利用影响力受贿罪 | concept_单位受贿罪 | concept_巨额财产来源不明罪
+- 横向对比：concept_非国家工作人员受贿罪（主体身份差异）
+- 推理链：synthesis_贿赂犯罪体系对比（罪名选择逻辑）

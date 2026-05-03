@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 17 买卖合同
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_17_买卖合同
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 买卖合同, 合同解释, 实际履行, 检验期间, 拍卖, 虚假买卖]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_买卖合同]], [[concept_合同解释]], [[concept_拍卖]]
+related: concept_买卖合同, concept_合同解释, concept_拍卖
 ---
 
 ## 裁判要旨精选_上_17_买卖合同
@@ -151,4 +159,4 @@ related: [[concept_买卖合同]], [[concept_合同解释]], [[concept_拍卖]]
 
 ## 相关
 
-[[concept_买卖合同]] | [[concept_合同解释]] | [[concept_拍卖]] | [[concept_承揽合同]]
+concept_买卖合同 | concept_合同解释 | concept_拍卖 | concept_承揽合同

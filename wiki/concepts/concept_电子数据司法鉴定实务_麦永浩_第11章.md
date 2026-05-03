@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 电子数据司法鉴定实务 麦永浩 第11章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 电子数据司法鉴定实务（麦永浩版）_第11章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [网络取证, IP地址, 电子邮件, IDS, 蜜罐, 网络安全, 司法鉴定, 第11章]
-sources: [["《电子数据司法鉴定实务》麦永浩 法律 2024年"]]
+sources: "《电子数据司法鉴定实务》麦永浩 法律 2024年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -219,3 +227,7 @@ NetMoniter网络信息监控与取证系统是针对Internet开发的网络内�
 ## 参考文献
 
 ［1］ Edward Wilding, Computer Evidence: A Forensic Investigations Handbook.
+
+## 相关
+
+（相关法条和概念待补充）

@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院关于进一步规范网络司法拍卖工作的指导意见
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院关于进一步规范网络司法拍卖工作的指导意见
 type: entity
 document_number: 法〔2024〕238号

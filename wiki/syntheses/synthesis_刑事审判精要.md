@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判, 刑事诉讼法, 裁判思维, 司法实务]
+source: 〔来源文件不存在〕
 sources: [《刑事审判精要》刘静坤 法律 2025年]
 ---
 
@@ -194,6 +195,6 @@ sources: [《刑事审判精要》刘静坤 法律 2025年]
 
 ## 相关
 
-- [[concept_刑事诉讼法]]
-- [[concept_刑法罪名精释]]
-- [[entity_中华人民共和国刑法]]
+- concept_刑事诉讼法
+- concept_刑法罪名精释
+- entity_中华人民共和国刑法

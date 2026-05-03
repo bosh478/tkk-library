@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [上海高院, 案例参考册, 参考性案例, 典型案例, 司法观点]
+source: 〔来源文件不存在〕
 source: sources/微信公号资料/上海高院/上海高院-案例参考册-md/
 ---
 
@@ -371,12 +372,12 @@ source: sources/微信公号资料/上海高院/上海高院-案例参考册-md/
 
 ## 相关链接
 
-- [[synthesis_上海高院_办案心法]]
-- [[entity_司法解释全书_民法编]]
-- [[entity_司法解释全书_刑法编]]
-- [[concept_证券虚假陈述责任]]
-- [[concept_知识产权侵权责任]]
-- [[concept_合同僵局与违约解除]]
+- synthesis_上海高院_办案心法
+- entity_司法解释全书_民法编
+- entity_司法解释全书_刑法编
+- concept_证券虚假陈述责任
+- concept_知识产权侵权责任
+- concept_合同僵局与违约解除
 
 ---
 

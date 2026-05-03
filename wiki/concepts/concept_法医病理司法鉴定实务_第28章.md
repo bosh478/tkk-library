@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 法医病理司法鉴定实务 第28章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 法医病理司法鉴定实务_第28章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [法医病理, 司法鉴定, 证据质证, 第28章]
-sources: [["《法医病理司法鉴定实务》官大威 科学出版社 2025年"]]
+sources: "《法医病理司法鉴定实务》官大威 科学出版社 2025年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -1815,3 +1823,7 @@ sources: [["《法医病理司法鉴定实务》官大威 科学出版社 2025�
 ［34］ Radaelli D，Zanon M，Concato M，et al． Spine surgery and fat embolism syndrome． Defining theboundaries of medical accountability by hospital autopsy． Front Biosci （Landmark Ed），2021，26（12）：1760 1768．
 
 
+
+## 相关
+
+（相关法条和概念待补充）

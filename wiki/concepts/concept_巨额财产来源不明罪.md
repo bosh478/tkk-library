@@ -5,6 +5,7 @@ created: 2026-04-10
 quality: 2
 updated: 2026-04-13
 tags: [财产类, 贪污贿赂, 廉政类]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_隐瞒境外存款罪", "concept_受贿罪", "concept_贪污罪", "concept_私分国有资产罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -39,6 +40,6 @@ related: ["concept_隐瞒境外存款罪", "concept_受贿罪", "concept_贪污�
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_受贿罪]] | [[concept_贪污罪]] | [[concept_私分国有资产罪]] | [[concept_隐瞒境外存款罪]]
-- 推理链：[[synthesis_贿赂犯罪体系对比]]
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_受贿罪 | concept_贪污罪 | concept_私分国有资产罪 | concept_隐瞒境外存款罪
+- 推理链：synthesis_贿赂犯罪体系对比

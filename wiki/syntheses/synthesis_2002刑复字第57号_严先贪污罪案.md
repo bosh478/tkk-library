@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [贪污罪, 死刑缓期执行]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2002)刑复字第57号]
 ---
 

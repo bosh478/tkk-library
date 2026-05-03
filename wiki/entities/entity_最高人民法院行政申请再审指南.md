@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院行政申请再审指南
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院行政申请再审指南
 type: entity
 document_number: 

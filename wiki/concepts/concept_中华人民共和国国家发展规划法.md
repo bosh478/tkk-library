@@ -5,7 +5,8 @@ created: 2026-04-16
 quality: 2
 updated: 2026-04-16
 tags: [行政监管, 实体法]
-source: [[中华人民共和国国家发展规划法.md]]
+source: 〔来源文件不存在〕
+source: 中华人民共和国国家发展规划法.md
 ---
 
 ## 章节结构

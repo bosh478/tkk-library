@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 01 法人
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_01_法人
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 法人, 公司人格独立, 盖章行为, 法人分支机构]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_公司担保]], [[concept_股东责任]]
+related: concept_公司担保, concept_股东责任
 ---
 
 ## 裁判要旨精选_上_01_法人
@@ -67,4 +75,4 @@ related: [[concept_公司担保]], [[concept_股东责任]]
 
 ## 相关
 
-[[concept_公司担保]] | [[concept_股东责任]] | [[concept_公司法]]
+concept_公司担保 | concept_股东责任 | concept_公司法

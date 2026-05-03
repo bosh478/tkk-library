@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [检察机关, 办案规定, 刑事申诉, 网络犯罪, 认罪认罚, 羁押必要性]
+source: 〔来源文件不存在〕
 sources: [
   [sources/现行规范库/司法解释/关于印发《人民检察院办理刑事申诉案件规定》的通知.md],
   [sources/现行规范库/司法解释/关于印发《人民检察院办理网络犯罪案件规定》的通知.md],
@@ -356,7 +357,7 @@ sources: [
 
 ## 六、相关
 
-- [[entity_最高人民检察院司法解释]]
-- [[concept_刑事申诉程序]]
-- [[concept_认罪认罚从宽制度]]
-- [[wiki/summaries/]]
+- entity_最高人民检察院司法解释
+- concept_刑事申诉程序
+- concept_认罪认罚从宽制度
+- wiki/summaries/

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [专利, 商标, 著作权, 商业秘密, 知识产权, 惩罚性赔偿, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理专利纠纷案件适用法律问题的若干规定（2020修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理专利授权确权行政案件适用法律若干问题的规定（一）.md",
@@ -292,8 +293,8 @@ sources: [
 
 ## 九、相关链接
 
-- [[concept_专利权]]
-- [[concept_商标权]]
-- [[concept_著作权]]
-- [[concept_商业秘密]]
-- [[entity_知识产权法庭裁判要旨摘要]]
+- concept_专利权
+- concept_商标权
+- concept_著作权
+- concept_商业秘密
+- entity_知识产权法庭裁判要旨摘要

@@ -1,11 +1,19 @@
 ---
+type: concept
+created: 2026-05-03
+title: 统编教材 审判监督实务
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 审判监督实务
 type: concept
 created: 2026-04-23
 updated: 2026-04-23
 tags: [审判监督, 统编教材, 最高人民法院, 刑事再审, 民事再审, 刑罚变更执行]
-sources: [[《统编教材》审判监督实务上册9.md]] [[《统编教材》审判监督实务下册9.md]]
-related: [[concept_刑事诉讼法]] [[concept_民事诉讼法]] [[concept_刑法]]
+sources: 《统编教材》审判监督实务上册9.md 《统编教材》审判监督实务下册9.md
+related: concept_刑事诉讼法 concept_民事诉讼法 concept_刑法
 ---
 
 # 审判监督实务
@@ -339,7 +347,7 @@ related: [[concept_刑事诉讼法]] [[concept_民事诉讼法]] [[concept_刑�
 
 ## 相关
 
-- [[concept_刑事诉讼法]] - 刑事审判监督程序的法律依据
-- [[concept_民事诉讼法]] - 民事再审程序的法律依据
-- [[concept_刑法]] - 刑罚执行与变更的法律依据
-- [[entity_最高人民法院司法解释]] - 审判监督相关司法解释
+- concept_刑事诉讼法 - 刑事审判监督程序的法律依据
+- concept_民事诉讼法 - 民事再审程序的法律依据
+- concept_刑法 - 刑罚执行与变更的法律依据
+- entity_最高人民法院司法解释 - 审判监督相关司法解释

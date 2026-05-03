@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 08 公司担保
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_08_公司担保
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 公司担保, 越权担保, 表见代理, 上市公司担保, 关联担保]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_公司担保]], [[concept_越权担保]], [[concept_上市公司担保]]
+related: concept_公司担保, concept_越权担保, concept_上市公司担保
 ---
 
 ## 裁判要旨精选_上_08_公司担保
@@ -221,4 +229,4 @@ related: [[concept_公司担保]], [[concept_越权担保]], [[concept_上市公
 
 ## 相关
 
-[[concept_公司担保]] | [[concept_越权担保]] | [[concept_上市公司担保]] | [[concept_关联担保]]
+concept_公司担保 | concept_越权担保 | concept_上市公司担保 | concept_关联担保

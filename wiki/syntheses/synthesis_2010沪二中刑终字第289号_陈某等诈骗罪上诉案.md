@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [诈骗罪, 二审, 维持原判]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2010)沪二中刑终字第289号]
 ---
 

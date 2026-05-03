@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 国际追逃追赃, 指导案例, 贪污罪, 受贿罪, 违法所得没收]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第131辑》.md"]
 ---
 
@@ -155,7 +156,7 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第131辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第131辑]]
-- [[concept_贪污罪]]
-- [[concept_受贿罪]]
-- [[concept_违法所得没收程序]]
+- entity_刑事审判参考_总第131辑
+- concept_贪污罪
+- concept_受贿罪
+- concept_违法所得没收程序

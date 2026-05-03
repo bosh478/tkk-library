@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-18
 updated: 2026-04-18
 tags: [司法解释]
-source: [[最高人民法院关于人民法院特邀调解的规定.md]]
+source: 最高人民法院关于人民法院特邀调解的规定.md
 ---
 
 ## 解释要点

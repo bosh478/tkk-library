@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [诈骗罪, 电信网络诈骗, 刑事推定]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[帮助信息网络犯罪活动罪]]
+related: 帮助信息网络犯罪活动罪
 ---
 
 ## 裁判要旨

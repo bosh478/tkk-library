@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [非法吸收公众存款罪, 私募基金, 集资诈骗罪]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[集资诈骗罪]]
+related: 集资诈骗罪
 ---
 
 ## 裁判要旨

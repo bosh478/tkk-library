@@ -4,7 +4,8 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 信托, 证券, 保险, 营业信托, 证券虚假陈述, 财产保险, 责任保险]
-sources: [["《最高人民法院裁判要旨精选》中 最高法审管办 202504"]]
+source: 〔来源文件不存在〕
+sources: "《最高人民法院裁判要旨精选》中 最高法审管办 202504"
 related: []
 ---
 
@@ -171,8 +172,8 @@ related: []
 
 ## 相关链接
 
-- [[entity_最高人民法院裁判要旨精选]]
-- [[concept_信托法]]
-- [[concept_证券法]]
-- [[concept_保险法]]
-- [[concept_虚假陈述民事赔偿]]
+- entity_最高人民法院裁判要旨精选
+- concept_信托法
+- concept_证券法
+- concept_保险法
+- concept_虚假陈述民事赔偿

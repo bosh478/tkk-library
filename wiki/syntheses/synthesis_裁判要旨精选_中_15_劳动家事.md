@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 劳动争议, 不当得利, 婚姻家庭]
+source: 〔来源文件不存在〕
 sources: [最高人民法院裁判要旨精选（中册）》最高法审管办 2025年4月]
 related: [synthesis_裁判要旨精选_上_综合与合同, synthesis_裁判要旨精选_下_物权与担保]
 ---
@@ -131,7 +132,7 @@ related: [synthesis_裁判要旨精选_上_综合与合同, synthesis_裁判要�
 
 ## 相关链接
 
-- [[concept_劳动争议]]
-- [[concept_不当得利]]
-- [[concept_夫妻共同债务]]
-- [[concept_家庭共有财产]]
+- concept_劳动争议
+- concept_不当得利
+- concept_夫妻共同债务
+- concept_家庭共有财产

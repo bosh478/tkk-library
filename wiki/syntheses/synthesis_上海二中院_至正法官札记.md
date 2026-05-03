@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [上海二中院, 案例分析, 审判实务, 民事, 刑事]
+source: 〔来源文件不存在〕
 sources: [sources/微信公号资料/上海二中院/上海二中院-至正法官札记-md/]
 ---
 
@@ -217,5 +218,5 @@ sources: [sources/微信公号资料/上海二中院/上海二中院-至正法�
 ---
 
 ## 相关
-- [[synthesis_上海二中院_至正开放麦]]
-- [[synthesis_上海二中院_至正法律研究]]
+- synthesis_上海二中院_至正开放麦
+- synthesis_上海二中院_至正法律研究

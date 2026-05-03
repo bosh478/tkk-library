@@ -1,10 +1,18 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 贪污罪vs职务侵占罪对比
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 贪污罪与职务侵占罪对比
 type: synthesis
 created: 2026-04-15
 updated: 2026-04-15
 tags: [罪名对比, 贪污罪, 职务侵占罪, 财产犯罪]
-related: [[concept_贪污罪]], [concept_职务侵占罪], [entity_法释2016_9号_贪污贿赂解释], [entity_法释2026_6号_贪污贿赂解释二]]
+related: concept_贪污罪, [concept_职务侵占罪], [entity_法释2016_9号_贪污贿赂解释], [entity_法释2026_6号_贪污贿赂解释二]]
 ---
 
 ## 核心区别（对比表格）
@@ -112,6 +120,6 @@ related: [[concept_贪污罪]], [concept_职务侵占罪], [entity_法释2016_9�
 ## 相关
 
 - 刑法条文：《刑法》第271条（职务侵占）、第382条（贪污）
-- 司法解释：[[entity_法释2016_9号_贪污贿赂解释]]、[[entity_法释2026_6号_贪污贿赂解释二]]
-- 概念页：[[concept_贪污罪]]、[[concept_职务侵占罪]]
-- 数额对比：[[synthesis_贪污贿赂罪名数额标准对比]]
+- 司法解释：entity_法释2016_9号_贪污贿赂解释、entity_法释2026_6号_贪污贿赂解释二
+- 概念页：concept_贪污罪、concept_职务侵占罪
+- 数额对比：synthesis_贪污贿赂罪名数额标准对比

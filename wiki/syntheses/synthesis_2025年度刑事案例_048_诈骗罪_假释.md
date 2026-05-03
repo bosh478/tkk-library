@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [诈骗罪, 假释, 撤销假释, 数罪并罚]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[电信诈骗]]
+related: 电信诈骗
 ---
 
 ## 裁判要旨

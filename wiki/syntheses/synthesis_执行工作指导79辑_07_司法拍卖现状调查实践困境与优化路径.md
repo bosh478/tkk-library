@@ -2,6 +2,7 @@
 title: 司法拍卖现状调查实践困境与优化路径
 type: synthesis
 tags: [执行, 调研与实证, 司法拍卖, 现状调查]
+source: 〔来源文件不存在〕
 sources: [《执行工作指导 总第79辑》最高法执行局 人民法院 2022年.md]
 created: 2026-04-22
 updated: 2026-04-22

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 贪污贿赂, 指导案例, 受贿罪, 贪污罪, 挪用公款罪, 非国家工作人员受贿罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第106辑》.md"]
 ---
 
@@ -111,8 +112,8 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第106辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第106辑]]
-- [[concept_受贿罪]]
-- [[concept_贪污罪]]
-- [[concept_挪用公款罪]]
-- [[concept_行贿罪]]
+- entity_刑事审判参考_总第106辑
+- concept_受贿罪
+- concept_贪污罪
+- concept_挪用公款罪
+- concept_行贿罪

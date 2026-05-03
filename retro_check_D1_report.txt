@@ -1,0 +1,25 @@
+=== D1 frontmatter 检查报告 ===
+总计检查: 6547 个文件
+
+--- L1 问题 (6 项) ---
+  synthesis_民法典适用大全_总则物权卷.md: L1-created字段缺失
+  synthesis_民法典适用大全_总则物权卷.md: L1-type字段缺失
+  synthesis_统编教材_刑事审判实务.md: L1-created字段缺失
+  synthesis_统编教材_刑事审判实务.md: L1-type字段缺失
+  synthesis_裁判要旨精选_中_20_涉外民刑交叉.md: L1-created字段缺失
+  synthesis_裁判要旨精选_中_20_涉外民刑交叉.md: L1-type字段缺失
+
+--- L3 问题 (11 项) ---
+  summary_2026-04-20_人民法院知识产权司法保护实施方案_2026_2030年发布.md: L3-source字段缺失
+  summary_2026-04-20_最高人民法院发布知识产权惩罚性赔偿解释.md: L3-source字段缺失
+  synthesis_民法典适用大全_总则物权卷.md: L3-tags字段缺失
+  synthesis_民法典适用大全_总则物权卷.md: L3-title字段缺失
+  synthesis_民法典适用大全_总则物权卷.md: L3-updated字段缺失
+  synthesis_统编教材_刑事审判实务.md: L3-tags字段缺失
+  synthesis_统编教材_刑事审判实务.md: L3-title字段缺失
+  synthesis_统编教材_刑事审判实务.md: L3-updated字段缺失
+  synthesis_裁判要旨精选_中_20_涉外民刑交叉.md: L3-tags字段缺失
+  synthesis_裁判要旨精选_中_20_涉外民刑交叉.md: L3-title字段缺失
+  synthesis_裁判要旨精选_中_20_涉外民刑交叉.md: L3-updated字段缺失
+
+汇总: L1=6, L3=11

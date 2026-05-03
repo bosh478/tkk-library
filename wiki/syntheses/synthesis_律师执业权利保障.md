@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [律师执业权利, 保障, 英雄烈士, 人格权保护]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于依法保障律师执业权利的十条意见.md",
   "sources/现行规范库/司法解释/关于依法惩治侵害英雄烈士名誉、荣誉违法犯罪的意见.md"
@@ -111,5 +112,5 @@ sources: [
 
 ## 四、相关
 
-- [[concept_律师制度]]
-- [[concept_英雄烈士保护]]
+- concept_律师制度
+- concept_英雄烈士保护

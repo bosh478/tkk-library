@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 组织卖淫罪, 协助组织卖淫罪, 指导案例, 介绍卖淫罪]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第115辑》.md"]
 ---
 
@@ -121,7 +122,7 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第115辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第115辑]]
-- [[concept_组织卖淫罪]]
-- [[concept_协助组织卖淫罪]]
-- [[concept_介绍卖淫罪]]
+- entity_刑事审判参考_总第115辑
+- concept_组织卖淫罪
+- concept_协助组织卖淫罪
+- concept_介绍卖淫罪

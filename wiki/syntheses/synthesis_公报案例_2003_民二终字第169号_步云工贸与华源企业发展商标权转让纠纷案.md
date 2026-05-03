@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 知识产权合同纠纷, 商标合同纠纷, 商标权转让合同纠纷]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2003)民二终字第169号.md]
 ---
 

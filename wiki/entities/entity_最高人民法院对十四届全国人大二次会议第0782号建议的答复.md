@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 最高人民法院对十四届全国人大二次会议第0782号建议的答复
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: 最高人民法院对十四届全国人大二次会议第0782号建议的答复
 type: entity
 document_number: 

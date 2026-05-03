@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [强奸罪, 证据审查, 零口供]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[强制猥亵罪]]
+related: 强制猥亵罪
 ---
 
 ## 裁判要旨

@@ -1,3 +1,11 @@
+---
+type: synthesis
+created: 2026-05-03
+title: LLM Wiki 工作流参考
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
 # LLM Wiki 工作流参考卡
 
 ## Ingest（消化新资料）
@@ -28,7 +36,7 @@
 LLM 执行：
 1. 读取 index.md 定位相关页面
 2. 读取相关 wiki 页面
-3. 综合回答，标注来源 [[页面]]
+3. 综合回答，标注来源 页面
 
 提示：好的回答可以存为新页面：
 "把这个分析存入 wiki"

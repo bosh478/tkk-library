@@ -1,10 +1,18 @@
 ---
+type: concept
+created: 2026-05-03
+title: 法医病理司法鉴定实务 第30章
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 法医病理司法鉴定实务_第30章
 type: concept
 created: 2026-04-29
 updated: 2026-04-29
 tags: [法医病理, 司法鉴定, 证据质证, 第30章]
-sources: [["《法医病理司法鉴定实务》官大威 科学出版社 2025年"]]
+sources: "《法医病理司法鉴定实务》官大威 科学出版社 2025年"
 置信度: 〔确定〕意图保留度: 40%
 ---
 
@@ -1003,3 +1011,7 @@ sources: [["《法医病理司法鉴定实务》官大威 科学出版社 2025�
 ［5 ］ Ann Bucholtz． Death investigation：An introduction to forensic pathology for the nonscientist． NewYork：Routledge，2014．
 
 
+
+## 相关
+
+（相关法条和概念待补充）

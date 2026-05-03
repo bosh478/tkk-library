@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-20
 updated: 2026-04-20
 tags: [知识产权, 商标, 显著性, 行政诉讼]
+source: 〔来源文件不存在〕
 related: ["Synthesis_2025年人民法院知识产权典型案例"]
 ---
 

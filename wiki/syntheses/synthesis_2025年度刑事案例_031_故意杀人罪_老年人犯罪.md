@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [故意杀人罪, 量刑, 年龄]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[故意伤害罪]]
+related: 故意伤害罪
 ---
 
 ## 裁判要旨

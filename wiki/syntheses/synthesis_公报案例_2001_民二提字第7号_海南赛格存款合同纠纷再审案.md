@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 合同纠纷, 储蓄存款合同, 存款支付, 协助执行, 违约责任]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2001)民二提字第7号.md]
 ---
 

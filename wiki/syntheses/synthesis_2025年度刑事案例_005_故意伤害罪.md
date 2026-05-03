@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [故意伤害罪, 虐待罪, 未成年保护]
+source: 〔来源文件不存在〕
 sources: [2025年度法院刑事案例合集（1-4册）.md]
-related: [[虐待罪]]
+related: 虐待罪
 ---
 
 ## 裁判要旨

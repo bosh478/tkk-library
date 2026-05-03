@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [生产销售假药罪, 生产销售伪劣产品罪, 竞合]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2011)陕刑二终字第45号]
 ---
 

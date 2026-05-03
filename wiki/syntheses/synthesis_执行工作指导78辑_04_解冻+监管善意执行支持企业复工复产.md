@@ -1,4 +1,12 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 执行工作指导78辑 04 解冻+监管善意执行支持企业复工复产
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: "解冻+监管"善意执行支持企业复工复产
 type: synthesis
 created: 2026-04-22

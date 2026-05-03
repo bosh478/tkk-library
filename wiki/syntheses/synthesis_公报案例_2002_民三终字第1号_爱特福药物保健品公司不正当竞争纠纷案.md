@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 不正当竞争, 知名商品, 特有名称, 通用名称]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2002)民三终字第1号.md]
 ---
 

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [执行, 抵押权, 租金, 保全查封, 最高法案例]
+source: 〔来源文件不存在〕
 sources: [《执行工作指导 总第78辑》最高法执行局 人民法院 2022年.md]
 ---
 

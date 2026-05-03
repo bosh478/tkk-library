@@ -5,6 +5,7 @@ created: 2026-04-13
 quality: 2
 updated: 2026-04-13
 tags: [受贿类, 职务犯罪, 贪污贿赂]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_受贿罪", "concept_单位受贿罪", "concept_巨额财产来源不明罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -15,7 +16,7 @@ related: ["concept_受贿罪", "concept_单位受贿罪", "concept_巨额财产�
 
 ## 定罪量刑标准
 
-**2016年解释（第十条）：** 参照[[concept_受贿罪]]的规定执行。
+**2016年解释（第十条）：** 参照concept_受贿罪的规定执行。
 
 即：3万元以上（数额较大）/ 20万元以上（数额巨大）/ 300万元以上（数额特别巨大）。
 
@@ -23,7 +24,7 @@ related: ["concept_受贿罪", "concept_单位受贿罪", "concept_巨额财产�
 - 个人：参照行贿罪标准
 - 单位：20万元以上
 
-## 与[[concept_受贿罪]]的区别
+## 与concept_受贿罪的区别
 
 | 区分点 | 受贿罪 | 利用影响力受贿罪 |
 |--------|--------|----------------|
@@ -33,6 +34,6 @@ related: ["concept_受贿罪", "concept_单位受贿罪", "concept_巨额财产�
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_受贿罪]] | [[concept_单位受贿罪]] | [[concept_巨额财产来源不明罪]]
-- 推理链：[[synthesis_贿赂犯罪体系对比]]
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_受贿罪 | concept_单位受贿罪 | concept_巨额财产来源不明罪
+- 推理链：synthesis_贿赂犯罪体系对比

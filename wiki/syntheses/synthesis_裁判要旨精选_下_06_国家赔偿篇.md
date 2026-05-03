@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 下 06 国家赔偿篇
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_下_06_国家赔偿篇
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 国家赔偿, 无罪逮捕赔偿, 精神损害赔偿, 刑事赔偿, 赔偿义务机关]
 sources: [《最高人民法院裁判要旨精选》下 最高法审管办 202504.md]
-related: [[concept_国家赔偿法]], [[synthesis_裁判要旨精选_下_07_执行篇]]
+related: concept_国家赔偿法, synthesis_裁判要旨精选_下_07_执行篇
 ---
 
 ## 裁判要旨精选_下_06_国家赔偿篇
@@ -151,4 +159,4 @@ related: [[concept_国家赔偿法]], [[synthesis_裁判要旨精选_下_07_执�
 
 ## 相关
 
-[[concept_国家赔偿法]] | [[synthesis_裁判要旨精选_下_07_执行篇]]
+concept_国家赔偿法 | synthesis_裁判要旨精选_下_07_执行篇

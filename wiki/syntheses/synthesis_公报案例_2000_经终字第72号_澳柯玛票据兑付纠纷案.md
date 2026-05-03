@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 票据纠纷, 银行承兑汇票, 票据抗辩, 债务抵销]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2000)经终字第72号.md]
 ---
 

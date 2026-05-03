@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 10 其他担保纠纷
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_10_其他担保纠纷
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 担保纠纷, 物的担保, 人的担保, 律师费, 合伙企业担保]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_担保合同]], [[concept_物的担保与人的担保]], [[concept_实现债权费用]]
+related: concept_担保合同, concept_物的担保与人的担保, concept_实现债权费用
 ---
 
 ## 裁判要旨精选_上_10_其他担保纠纷
@@ -96,4 +104,4 @@ related: [[concept_担保合同]], [[concept_物的担保与人的担保]], [[co
 
 ## 相关
 
-[[concept_担保合同]] | [[concept_物的担保与人的担保]] | [[concept_实现债权费用]]
+concept_担保合同 | concept_物的担保与人的担保 | concept_实现债权费用

@@ -1,0 +1,40 @@
+---
+title: 检答网集萃—1
+type: summary
+created: 2026-04-15
+updated: 2026-04-15
+tags: [最高检,检答网]
+source: 〔来源文件不存在〕
+category: 诉讼与仲裁
+category: 诉讼与仲裁
+source: 〔来源文件不存在〕
+---
+
+## 关键要点
+
+## ❓ 常见问题
+
+> 问：本页涉及的核心问题是什么？
+> 答：（待补充）
+
+> 问：实践中应注意哪些要点？
+> 答：（待补充）
+将可能作出不起诉决定纳入控辩协商的内容中，更有利于鼓励犯罪嫌疑人认罪认罚。
+** 解答专家李元端：  **
+这个问题在两年试点过程中也出现过。根据《指导意见》的规定和认罪认罚从宽制度的基本精神，对相对不起诉需要签署具结书，需要考虑的是如何签署、具体诉讼程序与司法责任制如何协调的问题。检察实践中，先由犯罪嫌疑人签署具结书或先完成内部审批讨论程序的处理方式都有。在检察机关决定后再签不能充分考虑嫌疑人认罪认罚，可能出现不利于嫌疑人的情形。在具结书中既写具体罪名、量刑建议和适用程序，也写可能对其作出不起诉的决定，签署后交检察长审批，审批通过后再对其作出不起诉决定，这种方式的诸多便利，在问题中已有叙述，但需要注意的是起诉与不起诉处理的结果差距不宜太大。这种处理方式还有一些细节方面的变化，具结书的模板从形式上看并不包括不起诉决定，因而有的承办检察官在将具结书交给嫌疑人签署时，只写起诉有关的情况，待分管检察长审批同意或检委会讨论通过后再作出不起诉决定，这种方式未充分体现对不起诉决定的具结。为避免处理意见过于宽泛，也可由嫌疑人对不起诉具结，再按照内部程序处理。如审批或讨论通过的，依法作出不起诉决定。如不起诉意见被否决的，再根据案件具体情况提出量刑建议签署新的具结书。
+**往期回顾**
+[ 【检答网集萃—1】“抢夺方向盘是否一律入罪”等三问三答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650539575&idx=1&sn=021f8d8869c5b7e490a77c2317bfde04&chksm=878c4c47b0fbc5519c7b005b9cfcfd99cf8e3dfd2e05c20c598b05b834d3fac202e0b003cc6f&scene=21#wechat_redirect)
+[ 【检答网集萃—2】“羁押时间超过判处刑罚时间相关问题”等两问两答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650540083&idx=2&sn=88b619462670a21ce441fabc0db74f4c&chksm=878c4243b0fbcb555004f6bfab791575a904cb16d539ef2a1e5f7441b658e7339aa9e2903453&scene=21#wechat_redirect)
+[ 【检答网集萃—3】“如何理解强制猥亵罪中的‘强制’”等两问两答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650540828&idx=2&sn=6eaef47e03f8ee90e753fe1bdfb3c914&chksm=878c416cb0fbc87a1451a4ca36c3b293c407e6fc38bf5c2a4305f1bc7f86dc7becfbcbba97c3&scene=21#wechat_redirect)
+[ 【检答网集萃—4】“乘客抢夺行驶中公交车方向盘”怎么定罪量刑？等两问两答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650541611&idx=1&sn=8026de7e7b919256de97d283649e7f09&chksm=878c445bb0fbcd4dafd005ec091916def21a714c03f4132c6772b25c10444dec793d447e6825&scene=21#wechat_redirect)
+[ 【检答网集萃—5】沥青能否对照危险废物名录直接认定为危险废物等两问两答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650542433&idx=1&sn=bf5acc3fe4b2deeacba4bd8eb7eceeaa&chksm=878c5b11b0fbd207d05cc13150d10f70e01b3398a3347d1169b7ebbf242ed290f10a48d6ab3e&scene=21#wechat_redirect)
+[ 【检答网集萃—6】关于诉讼规则的日期问题等两问两答
+](https://mp.weixin.qq.com/s?__biz=MzA4MjQ5MzIxNQ==&mid=2650542994&idx=2&sn=098905883264c7565d6755e191e0819a&chksm=878c59e2b0fbd0f455cf0a41abc10e872042f544e28f473b
+
+## 相关链接
+- 原文来源：〔来源文件不存在〕

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-18
 updated: 2026-04-18
 tags: [刑事, 诈骗罪, 2023年度案例]
+source: 〔来源文件不存在〕
 sources: [2023年度中国法院刑事案例（1-4册）]
 ---
 

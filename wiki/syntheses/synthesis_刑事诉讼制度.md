@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事诉讼, 侦查羁押, 社区矫正, 身份审查]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/人民检察院刑事诉讼规则（2019）.md",
   "sources/现行规范库/司法解释/人民检察院办理延长侦查羁押期限案件的规定.md",
@@ -165,5 +166,5 @@ sources: [
 
 ## 六、相关
 
-- [[synthesis_刑事政策与程序重要司法解释]]
-- [[concept_刑事诉讼程序]]
+- synthesis_刑事政策与程序重要司法解释
+- concept_刑事诉讼程序

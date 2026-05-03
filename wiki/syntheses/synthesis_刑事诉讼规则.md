@@ -4,7 +4,8 @@ type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [刑事诉讼, 检察规则, 司法解释, 刑事检察]
-sources: [[人民检察院刑事诉讼规则（2019）.md]]
+source: 〔来源文件不存在〕
+sources: 人民检察院刑事诉讼规则（2019）.md
 ---
 
 ## 概述

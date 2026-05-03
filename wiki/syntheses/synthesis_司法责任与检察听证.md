@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [司法责任, 责任追究, 检察听证, 听证员库]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于印发《人民检察院司法责任追究条例》的通知.md",
   "sources/现行规范库/司法解释/关于印发《人民检察院听证员库建设管理指导意见》的通知.md"
@@ -131,5 +132,5 @@ sources: [
 
 ## 五、相关
 
-- [[concept_司法责任追究]]
-- [[concept_检察听证]]
+- concept_司法责任追究
+- concept_检察听证

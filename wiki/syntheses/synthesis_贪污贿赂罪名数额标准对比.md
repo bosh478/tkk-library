@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-13
 updated: 2026-04-13
 tags: [贪污贿赂, 司法解释, 数额标准, 量刑]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 ---
 
@@ -135,5 +136,5 @@ sources: ["wiki/entities/entity_法释2016_9号_贪污贿赂解释.md", "wiki/en
 
 ## 相关
 
-- [[entity_法释2016_9号_贪污贿赂解释]]
-- [[entity_法释2026_6号_贪污贿赂解释二]]
+- entity_法释2016_9号_贪污贿赂解释
+- entity_法释2026_6号_贪污贿赂解释二

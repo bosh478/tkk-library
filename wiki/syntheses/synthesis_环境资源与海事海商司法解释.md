@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [环境资源, 生态保护, 海事海商, 海洋权益, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释（2020修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理生态环境侵权纠纷案件适用惩罚性赔偿的解释.md",
@@ -309,9 +310,9 @@ sources: [
 
 ## 八、相关链接
 
-- [[concept_环境民事公益诉讼]]
-- [[concept_生态环境损害赔偿]]
-- [[concept_环境污染责任]]
-- [[concept_海上货物运输合同]]
-- [[concept_船舶碰撞]]
-- [[concept_船舶油污损害]]
+- concept_环境民事公益诉讼
+- concept_生态环境损害赔偿
+- concept_环境污染责任
+- concept_海上货物运输合同
+- concept_船舶碰撞
+- concept_船舶油污损害

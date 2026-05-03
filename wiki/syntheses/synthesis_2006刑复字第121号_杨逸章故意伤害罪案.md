@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [故意伤害罪, 法定刑以下量刑, 死刑复核]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2006)刑复字第121号]
 ---
 

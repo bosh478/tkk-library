@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [消费者权益, 公益诉讼, 网络消费, 食品安全, 惩罚性赔偿, 司法解释]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/最高人民法院关于审理消费民事公益诉讼案件适用法律若干问题的解释（2020修正）.md",
   "sources/现行规范库/司法解释/最高人民法院关于审理网络消费纠纷案件适用法律若干问题的规定（一）.md",
@@ -334,8 +335,8 @@ sources: [
 
 ## 九、相关链接
 
-- [[concept_消费者权益保护]]
-- [[concept_惩罚性赔偿]]
-- [[concept_网络购物]]
-- [[concept_食品安全]]
-- [[concept_彩礼返还]]
+- concept_消费者权益保护
+- concept_惩罚性赔偿
+- concept_网络购物
+- concept_食品安全
+- concept_彩礼返还

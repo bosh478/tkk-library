@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 海商纠纷, 海上运输, 无单放货, 实际承运人]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2000)交提字第6号.md]
 ---
 

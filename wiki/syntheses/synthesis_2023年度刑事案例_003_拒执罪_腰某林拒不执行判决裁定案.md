@@ -4,8 +4,9 @@ type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [拒不执行判决裁定罪, 行为执行, 情节严重, 司法认定]
+source: 〔来源文件不存在〕
 sources: [2023年度中国法院刑事案例（1-4册）.md]
-related: [[concept_拒不执行判决裁定罪]]
+related: concept_拒不执行判决裁定罪
 ---
 
 ## 案件基本信息

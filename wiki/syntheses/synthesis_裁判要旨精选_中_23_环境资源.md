@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 中 23 环境资源
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选（中册）环境资源篇
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 环境法, 公益诉讼, 资源开发, 矿业权, 行政诉讼]
 sources: [《最高人民法院裁判要旨精选》中 最高法审管办 202504]
-related: [[synthesis_裁判要旨精选_上_刑事篇]], [[synthesis_裁判要旨精选_上_民事篇]]
+related: synthesis_裁判要旨精选_上_刑事篇, synthesis_裁判要旨精选_上_民事篇
 ---
 
 # 裁判要旨精选（中册）环境资源篇
@@ -181,8 +189,8 @@ related: [[synthesis_裁判要旨精选_上_刑事篇]], [[synthesis_裁判要�
 
 ## 相关
 
-- [[synthesis_裁判要旨精选_上_刑事篇]]
-- [[synthesis_裁判要旨精选_上_民事篇]]
-- [[entity_最高人民法院司法解释理解与适用]]
-- [[concept_环境民事公益诉讼]]
-- [[concept_矿业权压覆补偿]]
+- synthesis_裁判要旨精选_上_刑事篇
+- synthesis_裁判要旨精选_上_民事篇
+- entity_最高人民法院司法解释理解与适用
+- concept_环境民事公益诉讼
+- concept_矿业权压覆补偿

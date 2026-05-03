@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [人身安全保护令, 家庭暴力, 妇女儿童保护, 未成年人保护]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于加强人身安全保护令制度贯彻实施的意见.md",
   "sources/现行规范库/司法解释/关于依法严惩利用未成年人实施黑恶势力犯罪的意见.md"
@@ -141,6 +142,6 @@ sources: [
 
 ## 五、相关
 
-- [[concept_家庭暴力犯罪]]
-- [[concept_未成年人犯罪]]
-- [[synthesis_套路贷软暴力恶势力意见]]
+- concept_家庭暴力犯罪
+- concept_未成年人犯罪
+- synthesis_套路贷软暴力恶势力意见

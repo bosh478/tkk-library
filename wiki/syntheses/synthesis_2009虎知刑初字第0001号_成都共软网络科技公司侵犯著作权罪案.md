@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [侵犯著作权罪, 单位犯罪, 番茄花园]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2009)虎知刑初字第0001号]
 ---
 

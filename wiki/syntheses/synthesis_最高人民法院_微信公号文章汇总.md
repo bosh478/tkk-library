@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [司法解释, 法答网, 入库案例, 凡人小事, 小案大道理, 前沿法评]
+source: 〔来源文件不存在〕
 source: sources/微信公号资料/最高人民法院/
 ---
 
@@ -300,10 +301,10 @@ source: sources/微信公号资料/最高人民法院/
 
 ## 相关链接
 
-- [[synthesis_上海一中法院_微信公号文章汇总]]
-- [[synthesis_上海二中院_微信公号文章汇总]]
-- [[synthesis_上海高院_微信公号文章汇总]]
-- [[synthesis_最高人民检察院_微信公号文章汇总]]
+- synthesis_上海一中法院_微信公号文章汇总
+- synthesis_上海二中院_微信公号文章汇总
+- synthesis_上海高院_微信公号文章汇总
+- synthesis_最高人民检察院_微信公号文章汇总
 
 ---
 

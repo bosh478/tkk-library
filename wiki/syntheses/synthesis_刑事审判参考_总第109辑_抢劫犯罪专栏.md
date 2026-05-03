@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事审判参考, 抢劫罪, 指导案例, 入户抢劫, 转化型抢劫, 电信网络诈骗, 快播案]
+source: 〔来源文件不存在〕
 source: ["sources/《刑事审判参考》/《刑事审判参考 总第109辑》.md"]
 ---
 
@@ -131,9 +132,9 @@ source: ["sources/《刑事审判参考》/《刑事审判参考 总第109辑》
 
 ## 相关
 
-- [[entity_刑事审判参考_总第109辑]]
-- [[concept_抢劫罪]]
-- [[concept_转化型抢劫]]
-- [[concept_入户抢劫]]
-- [[concept_传播淫秽物品牟利罪]]
-- [[concept_非法吸收公众存款罪]]
+- entity_刑事审判参考_总第109辑
+- concept_抢劫罪
+- concept_转化型抢劫
+- concept_入户抢劫
+- concept_传播淫秽物品牟利罪
+- concept_非法吸收公众存款罪

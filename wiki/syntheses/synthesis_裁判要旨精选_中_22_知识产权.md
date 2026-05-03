@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 中 22 知识产权
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选（中册）知识产权篇
 type: synthesis
 created: 2026-04-24
 updated: 2026-04-24
 tags: [裁判要旨, 知识产权, 著作权, 商标权, 专利权, 最高人民法院]
 sources: [《最高人民法院裁判要旨精选》中 最高法审管办 202504]
-related: [[synthesis_裁判要旨精选_上册]], [[synthesis_裁判要旨精选_下册]]
+related: synthesis_裁判要旨精选_上册, synthesis_裁判要旨精选_下册
 ---
 
 ## 知识产权篇 概述
@@ -205,13 +213,13 @@ related: [[synthesis_裁判要旨精选_上册]], [[synthesis_裁判要旨精选
 
 ## 相关链接
 
-- [[synthesis_裁判要旨精选_上册]] — 民商事篇
-- [[synthesis_裁判要旨精选_下册]] — 刑事、行政、执行篇
-- [[entity_最高人民法院司法解释理解与适用]] — 司法解释配套理解
-- [[concept_知识产权法]] — 知识产权基本概念
-- [[concept_著作权法]] — 著作权专题
-- [[concept_商标法]] — 商标权专题
-- [[concept_专利法]] — 专利权专题
+- synthesis_裁判要旨精选_上册 — 民商事篇
+- synthesis_裁判要旨精选_下册 — 刑事、行政、执行篇
+- entity_最高人民法院司法解释理解与适用 — 司法解释配套理解
+- concept_知识产权法 — 知识产权基本概念
+- concept_著作权法 — 著作权专题
+- concept_商标法 — 商标权专题
+- concept_专利法 — 专利权专题
 
 ---
 

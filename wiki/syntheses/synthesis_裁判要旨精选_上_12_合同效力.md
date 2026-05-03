@@ -1,11 +1,19 @@
 ---
+type: synthesis
+created: 2026-05-03
+title: 裁判要旨精选 上 12 合同效力
+updated: 2026-05-03
+tags: [待分类]
+source: 〔来源文件不存在〕
+---
+---
 title: 裁判要旨精选_上_12_合同效力
 type: synthesis
 created: 2026-04-22
 updated: 2026-04-22
 tags: [裁判要旨, 民商事, 合同效力, 违约金调整, 批准登记, 债权转让, 表见代理, 恶意串通, 越权代表]
 sources: [《最高人民法院裁判要旨精选》上 最高法审管办 202504.md]
-related: [[concept_合同效力]], [[concept_无效合同]], [[concept_可撤销合同]]
+related: concept_合同效力, concept_无效合同, concept_可撤销合同
 ---
 
 ## 裁判要旨精选_上_12_合同效力
@@ -268,4 +276,4 @@ related: [[concept_合同效力]], [[concept_无效合同]], [[concept_可撤销
 
 ## 相关
 
-[[concept_合同效力]] | [[concept_无效合同]] | [[concept_可撤销合同]] | [[concept_合同效力审查]]
+concept_合同效力 | concept_无效合同 | concept_可撤销合同 | concept_合同效力审查

@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 合同纠纷, 租赁合同纠纷, 房屋租赁合同纠纷]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2003)民一终字第35号.md]
 ---
 

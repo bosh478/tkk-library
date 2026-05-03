@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-17
 updated: 2026-04-17
 tags: [民事, 知识产权, 著作权, 计算机软件, 侵权, 损害赔偿]
+source: 〔来源文件不存在〕
 sources: [公报案例 (2003)二中民初字第6227号.md]
 ---
 

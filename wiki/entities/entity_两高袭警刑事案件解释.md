@@ -1,4 +1,11 @@
 ---
+type: entity
+created: 2026-05-03
+title: 两高袭警刑事案件解释
+updated: 2026-05-03
+tags: [待分类]
+---
+---
 title: "两高"发布《关于办理袭警刑事案件适用法律若干问题的解释"
 type: entity
 created: 2026-04-15
@@ -6,7 +13,7 @@ updated: 2026-04-15
 tags: [司法解释, 袭警罪, 两高, 最高人民法院, 最高人民检察院]
 category: 刑事
 source: https://www.court.gov.cn/zixun/xiangqing/452851.html
-related: [[concept_妨害公务罪]]
+related: concept_妨害公务罪
 ---
 
 ## 基本信息
@@ -56,4 +63,4 @@ related: [[concept_妨害公务罪]]
 ## 相关链接
 
 - 原文来源：[最高人民法院官网](https://www.court.gov.cn/zixun/xiangqing/452851.html)
-- 相关概念：[[concept_妨害公务罪]]
+- 相关概念：concept_妨害公务罪

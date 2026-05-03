@@ -4,6 +4,7 @@ type: synthesis
 created: 2026-04-25
 updated: 2026-04-25
 tags: [刑事申诉, 异地审查, 人民监督员, 检察监督]
+source: 〔来源文件不存在〕
 sources: [
   "sources/现行规范库/司法解释/关于印发《人民检察院刑事申诉案件异地审查规定（试行）》的通知.md",
   "sources/现行规范库/司法解释/关于印发《人民检察院办理刑事申诉案件规定》的通知.md",
@@ -136,5 +137,5 @@ sources: [
 
 ## 五、相关
 
-- [[concept_刑事申诉]]
-- [[concept_人民监督员]]
+- concept_刑事申诉
+- concept_人民监督员

@@ -5,6 +5,7 @@ created: 2026-04-10
 quality: 2
 updated: 2026-04-13
 tags: [财产类, 廉政类, 贪污贿赂]
+source: 〔来源文件不存在〕
 sources: ["wiki/entities/entity_法释2026_6号_贪污贿赂解释二.md"]
 related: ["concept_巨额财产来源不明罪", "concept_贪污罪", "concept_私分国有资产罪", "entity_法释2016_9号_贪污贿赂解释", "entity_法释2026_6号_贪污贿赂解释二"]
 ---
@@ -28,7 +29,7 @@ related: ["concept_巨额财产来源不明罪", "concept_贪污罪", "concept_�
 
 > 在被追诉前主动交代并积极配合将存款转回境内的，可以认定为"**情节较轻**"。
 
-## 与[[concept_巨额财产来源不明罪]]的关系
+## 与concept_巨额财产来源不明罪的关系
 
 | 罪名 | 客观方面 | 数额标准 |
 |------|----------|----------|
@@ -39,6 +40,6 @@ related: ["concept_巨额财产来源不明罪", "concept_贪污罪", "concept_�
 
 ## 相关
 
-- 法条依据：[[entity_法释2016_9号_贪污贿赂解释]] | [[entity_法释2026_6号_贪污贿赂解释二]]
-- 同章节罪名：[[concept_巨额财产来源不明罪]] | [[concept_贪污罪]] | [[concept_私分国有资产罪]]
-- 推理链：[[synthesis_贿赂犯罪体系对比]]
+- 法条依据：entity_法释2016_9号_贪污贿赂解释 | entity_法释2026_6号_贪污贿赂解释二
+- 同章节罪名：concept_巨额财产来源不明罪 | concept_贪污罪 | concept_私分国有资产罪
+- 推理链：synthesis_贿赂犯罪体系对比
