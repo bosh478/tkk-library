@@ -33,7 +33,7 @@ description: 法律文档 Ingest Skill — 将法律文档编译为 Obsidian wik
 | **ingest** | "整理xxx"、"消化xxx"、"处理xxx目录" | 消化新资料，编译进 wiki | [[references/ingest-workflow.md]] |
 | **query** | "查询xxx"、"请问xxx"、"解释一下xxx" | 基于 wiki 回答，引用原文 | [[references/query-workflow.md]] |
 | **purge** | "删除根据xxx整理的资料" | 删除 wiki 页面，保留源文件 | [[references/purge-workflow.md]] |
-| **lint** | "lint检查"、"健康检查" | 断链/矛盾/过时/空白/源文件完整性 | [[references/lint-workflow.md]] |
+| **lint** | "lint检查"、"健康检查" | 断链/矛盾/过时/空白/源文件完整性 | [[references/query-workflow.md]] |
 
 ---
 
@@ -50,11 +50,9 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 
 ---
 
-## @法律效力层级 + 文件分类
+## @法律效力层级（依据《立法法》2023修正）
 
-> 详细内容见 [[references/file-types.md]]
-
-**法律效力层级**（层级越高，约束力越弱）：
+> ⚠️ **新增：所有 entity 类型页面必须标注 hierarchyLevel**
 
 | 层级 | 类型 | 制定机关 | effectiveness.type |
 |------|------|----------|---------------------|
@@ -63,22 +61,52 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 | 3 | 行政法规 | 国务院 | administrative_regulation |
 | 4 | 地方性法规 | 省级人大及其常委会 | local_regulation |
 | 5 | 部门规章 / 地方政府规章 | 国务院部委 / 省/设区的市政府 | departmental_regulation |
-| 6 | **行政程序规范** | **下级行政机关（司/处/科/县区级）** | **internal_norm** |
+| 6 | **行政程序规范（行政规范性文件）** | **下级行政机关（司/处/科/县区级）** | **internal_norm** |
 
-**文件类型与目标目录速查**：
+**关键约束**：
+- 下位法与上位法冲突时，冲突条款**自始无效**
+- 行政机关适用"**法无授权不可为**"
+- 公民/法人适用"**法无禁止皆可为**"
 
-| 文件类型 | 目标目录 | type | 保留度 |
-|----------|----------|------|--------|
-| 律师业务指引 | `wiki/summaries/` | `summary` | 摘录要点 |
-| 法律法规 | `wiki/concepts/` | `concept` | 摘录要点 |
-| 司法解释原文 | `wiki/entities/` | `entity` | **100%** |
-| 行政法规原文 | `wiki/entities/` | `entity` | **100%** |
-| 部门规章 / 地方政府规章 | `wiki/entities/` | `entity` | **100%** |
-| **行政程序规范** | `wiki/entities/` | `entity` | **100%** |
-| 理解与适用 | `wiki/entities/`或`concepts/` | `entity`或`concept` | 摘录要点 |
-| 案例分析 | `wiki/syntheses/` | `synthesis` | 摘录要点 |
+---
 
-**判断规则**：文件名含"指引"/"指南"/"规程"→summaries；含"解释"/"规定"→entities；含"案例"/"指导案例"→syntheses；**其他→读前20行确认**
+## @文件类型与目标目录
+
+| 文件类型 | 目标目录 | type | 必需字段 | 保留度 | hierarchyLevel |
+|----------|----------|------|----------|--------|----------------|
+| 律师业务指引 | `wiki/summaries/` | `summary` | `category` | 摘录要点 | — |
+| 法律法规 | `wiki/concepts/` | `concept` | `tags`含法律部门 | 摘录要点 | — |
+| 司法解释原文 | `wiki/entities/` | `entity` | `tags`含解释文号 | **100%** | 2 |
+| 行政法规原文 | `wiki/entities/` | `entity` | `tags`含法规名称 | **100%** | 3 |
+| 部门规章 / 地方政府规章 | `wiki/entities/` | `entity` | `tags`含制定机关 | **100%** | 5 |
+| **行政程序规范（新增）** | **`wiki/entities/`** | **`entity`** | **`tags`含行政程序** | **100%** | **6** |
+| 理解与适用 | `wiki/entities/`或`concepts/` | `entity`或`concept` | `tags`含解释文号 | 摘录要点 | — |
+| 案例分析 | `wiki/syntheses/` | `synthesis` | `tags`含罪名 | 摘录要点 | — |
+
+**判断**：文件名含"指引"/"指南"/"规程"→summaries；含"解释"/"规定"→entities；含"案例"/"指导案例"→syntheses；**其他→读前20行确认**
+
+### 行政程序规范识别规则（新增）
+
+以下特征符合时，归入本类型：
+
+- 文件名含"程序规定"、"实施细则"、"操作规程"、"办理规范"、"工作规定"等
+- 由司/处/科/县区级行政机关发布（非部委、非省级政府）
+- 内容为业务办理的流程性、程序性规则
+- 具有"构成要件 + 法律效果"结构（符合即认可，不符合即驳回）
+
+**典型文件**：《XX市公安局办理行政案件程序规定》、《XX市监局行政处罚操作细则》
+
+### entity 类型 hierarchyLevel 速查
+
+| 类型 | hierarchyLevel | effectiveness.type |
+|------|----------------|---------------------|
+| 司法解释 | 2 | legislation_interpretation |
+| 行政法规 | 3 | administrative_regulation |
+| 地方性法规 | 4 | local_regulation |
+| 部门规章 / 地方政府规章 | 5 | departmental_regulation |
+| **行政程序规范** | **6** | **internal_norm** |
+
+**理解与适用类**：文件名含"理解与适用" + 作者为最高人民法院/最高人民检察院/全国人大/全国人大常委会法律工作委员会 → entity；其他 → 按普通律师指引处理
 
 **案例分析五级分类**：
 
@@ -96,7 +124,8 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 
 > 详细流程见 [[references/ingest-workflow.md]]
 
-**执行流程（7步 + verify 检查点）**：
+### 执行流程（7步 + verify 检查点）
+
 ```
 首次扫描 → 阶段一 → 阶段二 → 阶段三 → 阶段四 → 阶段五 → 末次扫描
 ```
@@ -113,7 +142,24 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 
 **⚠️ qmd embed 不等于整合入库！** 整合入库 = 6步骤（交叉链接→index→INDEX→log→演化字段→qmd embed）
 
-**ingest 铁律（必须执行）**：
+### 行政程序规范 ingest 特殊要求（新增）
+
+1. **识别 hierarchyLevel**：根据制定机关判断是否为层级6
+2. **标注 superiorLaw**：在 frontmatter 中列出所有上位法
+3. **冲突检测**：如识别到与上位法冲突的条款，在正文中标注并在底部"法律效力说明"区域汇总
+4. **完整保留**：100%保留原文，不摘要
+
+### 批量处理策略
+
+| 规模 | 策略 |
+|------|------|
+| < 20个 | 单 Agent 串行 |
+| 20-100个 | 按法律部门分组，≤30个/组 |
+| > 100个 | 分层处理，每组≤30个且≤6000行 |
+| 超大文件（>5000行） | **单独处理**，按 `# 标题` 拆分，每批≤20章节 |
+
+### ingest 铁律（必须执行）
+
 1. **首次扫描必须记录**：log.md 写入 `## [YYYY-MM-DD] 首次扫描 | sources/xxx/`
 2. **定锚 checklist 强制**：阶段二前口述结论（核心定义/常见误解/文档类型），无口述不得进入阶段二
 3. **Phase 2 门控检查**：输出 >500 字符 + 置信度标注存在 + 无占位符 + 法条引用有三色断言
@@ -142,6 +188,11 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 2. 基于 wiki 回答：所有结论必须来自 wiki 资料
 3. 引用规范：答案列出原文 + 来源（`[[页面名]]`格式）
 4. 外部信息标注：若使用 vault 外资料，须特别说明
+
+**刑事研究补充规范**：
+- 必须展示"思维路径"（为什么这样分析）
+- 每条结论必须追溯到 sources 源文件原文
+- 发现 wiki 资料不足时，主动联网检索或告知用户补足方向
 
 **写回 wiki 触发条件**：
 - 发现两个概念对比 → 创建 synthesis 对比页
@@ -175,11 +226,9 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 
 ---
 
-## @frontmatter 模板
+## @frontmatter 模板（entity 类型）
 
-### entity 类型
-
-#### 司法解释 / 行政法规 / 部门规章
+### 司法解释 / 行政法规 / 部门规章
 
 ```yaml
 ---
@@ -198,7 +247,7 @@ superiorLaw:  # 上位法列表（如有）
 ---
 ```
 
-#### 行政程序规范专用模板（层级6）
+### 行政程序规范专用模板（层级6，新增）
 
 ```yaml
 ---
@@ -221,7 +270,7 @@ documentNumber: [文号]  # 如：X规〔2024〕X号
 ---
 ```
 
-### 冲突条款标注机制
+### 冲突条款标注机制（新增）
 
 在页面正文中，如识别到与上位法冲突的条款：
 
@@ -247,20 +296,46 @@ documentNumber: [文号]  # 如：X规〔2024〕X号
 | 引用 | 内容 |
 |------|------|
 | [[references/ingest-workflow.md]] | ingest 五阶段详细流程（含首次/末次扫描铁律、Phase 2 门控、批量策略） |
-| [[references/query-workflow.md]] | query 操作详细流程（含快速回答框架 + 刑事研究专用8步流程） |
+| [[references/query-workflow.md]] | query 操作详细流程（含快速回答框架） |
 | [[references/purge-workflow.md]] | purge 操作详细流程 |
-| [[references/lint-workflow.md]] | lint 健康检查详细流程（含8项检查项） |
+| [[references/lint-workflow.md]] | lint 健康检查详细流程（含7项检查项） |
 | [[references/command-ref.md]] | 常用命令速查 |
-| [[references/templates.md]] | 模板库（guide/book/lecture/minimal/理解与适用/案例分析） |
-| [[references/file-types.md]] | 法律效力层级表 + 文件类型与目标目录 + 行政程序规范识别规则 |
-| [[references/key-paths.md]] | 关键文件路径 + 版本历史精华版 |
+| [[references/templates.md]] | 模板库（guide/book/lecture/minimal） |
 | [[references/VERSION-full.md]] | 完整版本历史 |
 
 ---
 
-## 关键文件路径 + 版本历史
+## 关键文件路径
 
-> 详细内容见 [[references/key-paths.md]]
+| 路径 | 说明 |
+|------|------|
+| `D:\AI agent\tkk-library\` | Vault 根目录 |
+| `sources/` | 原始文件目录（只读不删） |
+| `sources/INDEX.md` | 源文件索引 |
+| `wiki/summaries/` | 律师业务指引摘要 |
+| `wiki/concepts/` | 法律法规、概念、制度 |
+| `wiki/entities/` | 司法解释原文、法条全文、行政程序规范 |
+| `wiki/syntheses/` | 案例分析、综合研究 |
+| `log.md` | 活动时间日志 |
+| `index.md` | Wiki 目录索引 |
+| `scripts/phase2_gate.py` | Phase 2 门控检查脚本 |
+| `scripts/phase3_spot_check.py` | Phase 3 内容抽检脚本 |
+
+---
+
+## 版本历史（精华版）
+
+| 版本 | 日期 | 核心变化 |
+|------|------|----------|
+| v50 | 2026-05-05 | **新增：刑事法律研究专用 query 流程**，8步研究框架引导，思维路径展示，知识缺口主动发现机制 |
+| v49 | 2026-05-05 | **新增：行政程序规范类型（层级6，internal_norm）**，法律效力层级表，冲突条款标注机制 |
+| v48 | 2026-05-03 | 审计修复：20处缺口全部修复，Phase 2/3 门控脚本 |
+| v42 | 2026-05-01 | 理解与适用类资料整理规范 |
+| v40 | 2026-05-01 | 案例分析五级分类+法教义学七种解释方法 |
+| v38 | 2026-04-28 | Anti-Hallucination Mandate三色断言 |
+| v37 | 2026-04-28 | 定锚checklist+第4层内观视角 |
+| v31 | 2026-04-27 | 首次扫描+末次扫描铁律 |
+| v28 | 2026-04-26 | Clippings自动检测触发功能 |
 
 <details>
 <summary>📜 完整版本历史（v1-v48）</summary>
