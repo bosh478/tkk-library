@@ -5,7 +5,7 @@
 
 ---
 
-## @基础检查项
+## @基础检查项（8项）
 
 1. **断链检查**：`grep -r "\[\[" wiki/ | grep -v "\[\[.*\]\]"`
 2. **矛盾检查**：同一数额标准在不同页面是否一致（如3万/20万/300万是否出现在所有相关罪名页）
@@ -14,6 +14,7 @@
 5. **交叉链接检查**：重要 concept 是否链接相关 entity/synthesis
 6. **分类统计验证**：各目录文件数与预期一致
 7. **源文件完整性验证**：wiki 页面的 source 字段指向的源文件是否存在
+8. **网络文章质量分级检查**：wiki/summaries/ 下 summary 类型页面是否有 qualityGrade、sourceCredibility、contentCompleteness、url 字段
 
 ## @源文件完整性验证脚本
 

@@ -254,3 +254,56 @@ related: [[entity_法释〔2026〕6号]]
 | 法教义学分析（七种方法） | `④ 法教义学分析（文义/体系/目的...）` |
 
 > ⚠️ **严格区分**：有权威解读时不得用AI分析替代；无法判断时主动向用户核验
+
+---
+
+## 网络文章质量分级模板（v50 新增）
+
+网络文章（summary 类型）新增质量分级字段：
+
+```yaml
+---
+# 质量分级（新增，必填）
+qualityGrade: B  # A/B/C/D 四级
+# A：权威来源（两高/国务院/全国人大等官方发布的指导意见、典型案例）
+# B：专业来源（省级高院/省级检察院/中央部委业务庭室发布的指引）
+# C：一般来源（律师协会、市级法院、知名法律公众号）
+# D：普通来源（一般公众号、自媒体文章）
+
+sourceCredibility: professional  # official/professional/general/unknown
+# official：最高人民法院、最高人民检察院等官方发布
+# professional：省级以上司法机关、专业法律机构
+# general：律师个人公众号、普通法律自媒体
+# unknown：无法确定来源
+
+contentCompleteness: high  # high/medium/low
+# high：案例分析完整含案情+裁判要旨+法律适用
+# medium：案例要点摘录，结构基本完整
+# low：单纯新闻报道，无深度法律分析
+
+url: https://example.com/article  # 必填，注明原始来源
+---
+```
+
+### 质量分级对应表
+
+| 等级 | 来源 | 说明 | 示例 |
+|------|------|------|------|
+| A | 官方 | 两高/国务院/全国人大等官方发布 | 最高法指导案例、最高检典型案例 |
+| B | 专业 | 省级以上司法机关、专业法律机构 | 省高院审理指南、法学会研究文章 |
+| C | 一般 | 律师协会、市级法院、知名法律公众号 | 律师协会培训资料、法律公众号深度文章 |
+| D | 普通 | 一般公众号、自媒体转载 | 自媒体转载、来源不明文章 |
+
+### frontmatter 字段速查
+
+| 字段 | 必填 | 值 | 说明 |
+|------|------|-----|------|
+| qualityGrade | 是 | A/B/C/D | 质量等级 |
+| sourceCredibility | 是 | official/professional/general/unknown | 来源可信度 |
+| contentCompleteness | 是 | high/medium/low | 内容完整性 |
+| url | 是 | https://... | 原始来源 URL |
+| type | 是 | summary | 页面类型 |
+| category | 是 | 诉讼与仲裁等 | 法律业务分类 |
+| tags | 是 | [标签1, 标签2] | 标签 |
+| source | 是 | [[源文件名]] | 源文件 |
+

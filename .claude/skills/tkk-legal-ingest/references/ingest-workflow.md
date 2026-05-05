@@ -10,8 +10,14 @@
 **问题根因**：第一次只扫描了"当时存在的文件"，后来新增的文件永远发现不了。
 
 **铁律**：ingest 操作分两个时间点必须扫描源目录：
-1. **首次扫描**（处理前）：`ls sources/xxx/*.md | wc -l` → 记录为基准数量
-2. **末次扫描**（处理后）：`ls sources/xxx/*.md | wc -l` → 再次执行，对比是否一致
+1. **首次扫描**（处理前）：
+   - 源目录为 `sources/` 时：`ls sources/xxx/*.md | wc -l`
+   - 源目录为 `Clippings/` 时：`ls D:/AI\ agent/tkk-library/Clippings/*.md | wc -l`
+   → 记录为基准数量
+2. **末次扫描**（处理后）：
+   - 源目录为 `sources/` 时：`ls sources/xxx/*.md | wc -l`
+   - 源目录为 `Clippings/` 时：`ls D:/AI\ agent/tkk-library/Clippings/*.md | wc -l`
+   → 再次执行，对比是否一致
 
 **末次扫描的作用**：
 - 如果两次数量一致 → 处理期间无新增文件，验证通过
@@ -176,18 +182,49 @@ ls sources/xxx/*.md | grep -E '\ \([0-9]+\)$'
 | 谋取利益要件 | 兜底条款 | 明确三种具体情形 |
 ```
 
-### @相关主题自动发现（NotebookLM 风格）
+### @相关主题自动发现（深度链接增强 v50）
 
-```
-内容提取完成后，自动扫描其他 wiki 页面的 tags 和 related 字段
-→ 匹配相同/相似 tags 的页面
-→ 在当前页面的 ## 相关 中添加建议链接
+内容提取完成后，执行以下深度链接流程：
+
+#### 步骤1：标签匹配
+```bash
+# 扫描当前页面的 tags
+grep "^tags:" wiki/xxx.md | sed 's/tags: \[//' | sed 's/\]//' | tr ',' '\n'
+# 匹配相同 tags 的其他页面
+for tag in <当前页面tags>; do
+  grep -r "tags:.*$tag" wiki/ --include="*.md" | grep -v "当前页面" | head -5
+done
 ```
 
-自动发现规则：
-- 匹配当前页面 `tags` 中任意 tag 的其他 wiki 页面
-- 匹配同 category 的其他 summary 页面
-- 匹配同罪名/同程序类型的相关概念页
+#### 步骤2：层级链接（hierarchyLevel）
+- 当前页面的 hierarchyLevel 对应的上位法链接（层级-1）
+- 当前页面的 hierarchyLevel 对应的下位法链接（层级+1）
+- entity 类型必须链接上位法（如有）
+
+#### 步骤3：差异驱动链接
+```markdown
+## 相比同类旧资料的核心差异
+```
+- 司法解释：对照旧解释提取具体变更点（数额标准/适用范围/构成要件）
+- 案例分析：提取裁判要旨相比同类案件的差异化要点
+- **触发条件**：发现"差异"时才写入，无差异则标注"无显著差异"
+
+#### 步骤4：related 字段更新
+更新 frontmatter 的 related 字段，包含：
+1. 同标签页面（≥1个）
+2. 上位法/下位法链接（如有）
+3. 差异对比结论（无差异则标注"无显著差异"）
+
+**验证命令**：
+```bash
+grep "^related:" wiki/xxx.md  # 必须非空
+```
+
+**回溯修复脚本**：
+```bash
+python retro_fix_related.py wiki/summaries/  # 扫描并建议
+python retro_fix_related.py --apply wiki/summaries/  # 应用修改
+```
 
 ### @主会话协调模式
 
@@ -323,11 +360,50 @@ qmd update && qmd embed
 HF_ENDPOINT=https://hf-mirror.com qmd embed
 ```
 
-### 阶段四补充：Clippings 文件处理（自动归档）
+### 阶段四补充：Clippings 文件处理（自动归档 + 去重检测）
+
+#### 去重检测（Clippings 前置处理）
+
+当 Clippings/ 目录存在 .md 文件时，**在执行 ingest 前**先进行去重检测：
+
+```bash
+# 执行去重检测脚本
+python D:/AI\ agent/tkk-library/.claude/skills/tkk-legal-ingest/content_dedup.py D:/AI\ agent/tkk-library/Clippings/*.md
+```
+
+**去重检测流程**：
+```
+Clippings/ 有文件
+    ↓
+content_dedup.py 检测
+    ↓
+【同一篇文章，已存在于 wiki】
+  ├─ Clippings 来源更早/更权威 → 删除 wiki 旧页面，保留 Clippings，正常 ingest
+  └─ wiki 来源更早/更权威 → 删除 Clippings 转载版，跳过 ingest
+    ↓
+【内容全新，无重复】→ 正常执行 ingest 流程
+```
+
+#### 自动归档
 
 当 ingest 的源文件来自 vault 根目录下的 `Clippings/` 文件夹时，**阶段四整合入库完成后自动执行归档**：
 
 ```bash
+# 归档前执行首次/末次扫描对比验证
+CLIPPINGS_COUNT=$(ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l)
+echo "首次扫描: Clippings/ 目录存在 $CLIPPINGS_COUNT 个文件"
+
+# 执行 ingest 处理（阶段一至四）...
+
+# 末次扫描
+CLIPPINGS_COUNT_AFTER=$(ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l)
+if [ "$CLIPPINGS_COUNT" -eq "$CLIPPINGS_COUNT_AFTER" ]; then
+  echo "验证通过: 首次$CLIPPINGS_COUNT 个，末次$CLIPPINGS_COUNT_AFTER 个"
+else
+  echo "⚠️ 数量不一致: 首次$CLIPPINGS_COUNT 个，末次$CLIPPINGS_COUNT_AFTER 个"
+fi
+
+# 执行归档
 for f in D:/AI\ agent/tkk-library/Clippings/*.md; do
   target_dir="D:/AI agent/tkk-library/sources/网络文章/"
   [ -d "$target_dir" ] && mv "$f" "$target_dir" 2>/dev/null
