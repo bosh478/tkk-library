@@ -316,7 +316,14 @@
       "Bash(git -C \"D:/AI agent/tkk-library\" ls-tree -r HEAD -- .claude/skills/)",
       "Bash(git -C \"D:/AI agent/tkk-library\" show HEAD:.claude/skills/tkk-legal-ingest/SKILL.md)",
       "Bash(git -C \"D:/AI agent/tkk-library\" log --all --oneline -S \"三段论\")",
-      "Bash(git -C \"D:/AI agent/tkk-library\" show d2b23c37:8输出/tkk-case/李志萍律师拒执罪案法律分析.md)"
+      "Bash(git -C \"D:/AI agent/tkk-library\" show d2b23c37:8输出/tkk-case/李志萍律师拒执罪案法律分析.md)",
+      "Bash(git -c core.quotepath=false grep -r \"\\\\[\\\\[\" wiki/)",
+      "Bash(awk -F: '{print $1}')",
+      "Bash(git -c core.quotepath=false log --oneline --all -- \"sources/最高检-检答网集萃-md/\")",
+      "Bash(git -c core.quotepath=false ls-tree -r HEAD -- \"sources/\")",
+      "Bash(git -c core.quotepath=false log --oneline --all -- \"sources/\")",
+      "Bash(cp \"/d/AI agent/tkk-library/.claude/skills/tkk-legal-ingest/SKILL.md\" \"/tmp/tkk-skills-push/SKILL.md\")",
+      "Bash(cp -r \"/d/AI agent/tkk-library/.claude/skills/tkk-legal-ingest/references/\" \"/tmp/tkk-skills-push/\")"
     ]
   },
   "hooks": {

@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +191,15 @@
   },
   "active": "fa958266aca4b871",
   "lastOpenFiles": [
+    "wiki/syntheses/synthesis_法官办公室猥亵案分析.md",
+    "CLAUDE.md.tmp.23164.1777813585981",
+    "CLAUDE.md.tmp.23164.1777813499436",
+    "scripts/phase2_gate.py.tmp.23164.1777812474899",
+    "scripts/phase3_spot_check.py.tmp.23164.1777812424051",
+    "scripts/phase3_spot_check.py",
+    "scripts/phase3_spot_check.py.tmp.23164.1777812391027",
+    "scripts/phase2_gate.py",
+    "scripts/phase2_gate.py.tmp.23164.1777812347147",
     "wiki/syntheses/synthesis_李志萍律师拒执罪案_2025.md",
     "8输出/tkk-case/李志萍律师拒执罪案法律分析.md",
     "8输出/tkk-case",
@@ -201,19 +211,14 @@
     "wiki/summaries/Summary_新公司法热点问题解释论_王毓莹_2026.md",
     "wiki/summaries/Summary_反不正当竞争法数据保护专款_徐俊_2026.md",
     "wiki/summaries/Summary_认罪认罚从宽制度若干问题探讨_马渊杰_2026.md",
-    "wiki/courts",
     "Clippings/专题研究：认罪认罚从宽制度的若干问题探讨丨最高人民法院刑一庭马渊杰：认罪认罚从宽制度适用的若干争议问题及回应.md",
     "Clippings/专题研究：关注反不正当竞争法前沿问题丨上海市高级人民法院徐俊：反不正当竞争法数据保护专款的司法适用研究.md",
     "Clippings/特别策划：系统思维下的商事法律适用问题研究丨王毓莹：新公司法热点问题的解释论展开与适用调适.md",
     "Clippings/用AI生成内容，版权到底算谁的？.md",
     "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md",
-    "wiki/summaries/Summary_民事审判实务问答_分类_程序法_当事人与管辖_155-189.md.tmp.18320.1777260386384",
     "wiki/summaries/Summary_民事审判实务问答_分类_劳动争议与人身损害_114-154.md",
     "wiki/summaries/Summary_民事审判实务问答_分类_婚姻家庭与继承_079-113.md",
-    "wiki/summaries/Summary_民事审判实务问答_分类_婚姻家庭与继承_079-113.md.tmp.18320.1777260223517",
     "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md",
-    "wiki/summaries/Summary_民事审判实务问答_分类_合同与物权_001-033.md.tmp.18320.1777260147004",
-    "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md.tmp.18320.1777260057259",
     "wiki/summaries/summary_民事审判实务问答_最高院民一庭_2021.md"
   ]
 }
