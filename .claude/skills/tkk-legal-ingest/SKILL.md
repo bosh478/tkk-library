@@ -1,9 +1,9 @@
 ---
 name: tkk-legal-ingest
-description: 法律文档 Ingest Skill — 将法律文档编译为 Obsidian wiki 持久化知识网络。触发场景：用户说"整理xxx"、"消化xxx"、"处理xxx目录"、"ingest 这些文件"、"提取文档要点"、"整理法律资料"、"处理 xxx 目录下的法律文档"。支持5层整理级别（第3层详细级为默认）。当 Clippings/ 目录存在 .md 文件时自动检测并处理。执行时无需用户逐阶段确认，全程自动直到完成。功能：ingest/query/purge/lint/知识复合增长增强
+description: 法律文档 Ingest Skill — 将法律文档编译为 Obsidian wiki 持久化知识网络。支持5层整理级别（第3层详细级为默认）。知识驱动型（Zettelkasten）：知识节点原子化提取、行号脚注机制（①来源：行XXX）、wikilink 双向链接网络、知识缺口主动暴露。当 Clippings/ 目录存在 .md 文件时自动检测并处理。功能：ingest/query/purge/lint/知识复合增长增强
 ---
 
-# Legal Ingest Skill (v50)
+# Legal Ingest Skill (v52)
 
 > 📌 **快速导航**：[核心原则](#核心原则) | [四大操作](#四大操作) | [ingest流程](#ingest消化新资料) | [references](#references索引)
 
@@ -168,10 +168,15 @@ ls D:/AI\ agent/tkk-library/Clippings/*.md 2>/dev/null | wc -l
 
 | type | 最低要求 | 优秀标准 |
 |------|----------|----------|
-| `summary` | 关键要点 ≥ 5 条，每条原文提取 | ≥ 10 条，含程序步骤/风险点/合规要求，有 wikilink |
+| `summary` | 关键要点 ≥ 5 条，每条原文提取 | ≥ 10 条，含程序步骤/风险点/合规要求，**有行号脚注** `①来源：行XXX[^fnN]`，有 wikilink 关联 |
 | `concept` | 章节结构完整，每条编号+简要释义 | 原文引用+释义+关联规定，量刑档次完整 |
 | `entity` | 解释要点 ≥ 3 条，涉及法条列表 | 每条原文+适用要点，有案例 wikilink |
 | `synthesis` | 裁判要旨 ≥ 100 字，基本信息完整（案号/法院/日期），案例分级+问题意识必填 | 裁判理由+适用要点详细，有类案 wikilink |
+
+**知识驱动型（Zettelkasten）额外要求**：
+- `line-refs` 字段：记录每个知识点对应的源文件行号
+- `related` 字段：wikilink 格式，双向链接到相关概念/法条
+- `> [!gap]+` callout：标注知识缺口或孤立节点
 
 ---
 
@@ -251,7 +256,7 @@ documentNumber: [文号]  # 如：X规〔2024〕X号
 | [[references/purge-workflow.md]] | purge 操作详细流程 |
 | [[references/lint-workflow.md]] | lint 健康检查详细流程（含8项检查项） |
 | [[references/command-ref.md]] | 常用命令速查 |
-| [[references/templates.md]] | 模板库（guide/book/lecture/minimal/理解与适用/案例分析） |
+| [[references/templates.md]] | 模板库（guide/book/lecture/minimal/knowledge/理解与适用/案例分析） |
 | [[references/file-types.md]] | 法律效力层级表 + 文件类型与目标目录 + 行政程序规范识别规则 |
 | [[references/key-paths.md]] | 关键文件路径 + 版本历史精华版 |
 | [[references/VERSION-full.md]] | 完整版本历史 |
