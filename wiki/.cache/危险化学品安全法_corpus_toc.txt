@@ -1,0 +1,12 @@
+- [1] 前言 | paragraphs=1 | lines=8-8
+- [2] 中华人民共和国危险化学品安全法 | paragraphs=2 | lines=9-18
+  - [3] 第一章　总　　则 | paragraphs=15 | lines=30-75
+  - [4] 第二章　规划布局 | paragraphs=7 | lines=76-102
+  - [5] 第三章　生产和储存安全 | paragraphs=23 | lines=103-153
+  - [6] 第四章　使用安全 | paragraphs=7 | lines=154-169
+  - [7] 第五章　经营安全 | paragraphs=11 | lines=170-202
+  - [8] 第六章　运输安全 | paragraphs=21 | lines=203-254
+  - [9] 第七章　危险化学品登记 | paragraphs=5 | lines=255-269
+  - [10] 第八章　事故应急救援 | paragraphs=8 | lines=270-287
+  - [11] 第九章　法律责任 | paragraphs=23 | lines=288-401
+  - [12] 第十章　附　　则 | paragraphs=7 | lines=402-413

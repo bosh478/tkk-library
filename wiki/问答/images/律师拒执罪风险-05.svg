@@ -1,0 +1,34 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="450" fill="#1a1a2e"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="22" fill="#ffffff" text-anchor="middle" font-weight="bold">风险防范策略清单</text>
+  <rect x="40" y="65" width="170" height="130" rx="10" fill="#2d5a87"/>
+  <text x="125" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">① 接收代理时</text>
+  <text x="55" y="120" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">核实案件执行状态</text>
+  <text x="55" y="138" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">评估执业风险</text>
+  <text x="55" y="156" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">书面记录风险评估</text>
+  <text x="55" y="174" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">留存委托关系证据</text>
+  <rect x="225" y="65" width="170" height="130" rx="10" fill="#2d5a87"/>
+  <text x="310" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">② 代理期间</text>
+  <text x="240" y="120" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">对转移财产要求警惕</text>
+  <text x="240" y="138" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">拒绝违法操作建议</text>
+  <text x="240" y="156" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">仅提供合法程序建议</text>
+  <text x="240" y="174" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">书面沟通保留记录</text>
+  <rect x="410" y="65" width="170" height="130" rx="10" fill="#2d5a87"/>
+  <text x="495" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">③ 发现风险时</text>
+  <text x="425" y="120" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">及时退出代理</text>
+  <text x="425" y="138" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">保留执业完整记录</text>
+  <text x="425" y="156" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">书面说明退出手续</text>
+  <text x="425" y="174" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">不遗留法律空档</text>
+  <rect x="595" y="65" width="170" height="130" rx="10" fill="#2d5a87"/>
+  <text x="680" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">④ 遇到压力时</text>
+  <text x="610" y="120" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">优先选择书面沟通</text>
+  <text x="610" y="138" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">保留全部证据材料</text>
+  <text x="610" y="156" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">坚守法律执业底线</text>
+  <text x="610" y="174" font-family="Arial, sans-serif" font-size="11" fill="#cccccc">宁丢客户不触刑法</text>
+  <rect x="40" y="220" width="720" height="150" rx="12" fill="none" stroke="#4a90d9" stroke-width="2"/>
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="16" fill="#4a90d9" text-anchor="middle" font-weight="bold">核心原则</text>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="13" fill="#cccccc" text-anchor="middle">不做假——不伪造、不虚假陈述</text>
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="13" fill="#cccccc" text-anchor="middle">不帮凶——不帮助当事人违法</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="13" fill="#cccccc" text-anchor="middle">不共谋——不与当事人通谋逃避执行</text>
+  <text x="400" y="365" font-family="Arial, sans-serif" font-size="14" fill="#ffd700" text-anchor="middle" font-weight="bold">法律的尊严 = 执业的安全</text>
+</svg>

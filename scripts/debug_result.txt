@@ -1,0 +1,7 @@
+Content length: 19262
+'检例第158号' position: 1106
+Segment around position:
+'2022年7月21日\n**陈某某刑事申诉公开听证案\n** （检例第158号）\n**【关键词】**\n刑事申诉 大检察官主持听证 刑民交叉'
+Character at pos-1: '（'
+Character at pos-2: ' '
+Character at pos-3: '*'

@@ -1,0 +1,40 @@
+Clean: 0
+With Issues: 1254
+
+1234 | bad_source_fmt | entity_2025_规范涉企案件审判执行工作的通知.md, entity_《关于建立涉案企业合规第三方监督评估机制的指导意见（试行）》实施细则.md
+ 891 | missing:related | entity_2025_规范涉企案件审判执行工作的通知.md, entity_《关于建立涉案企业合规第三方监督评估机制的指导意见（试行）》实施细则.md
+ 860 | missing:hierarchyLevel | entity_2025_规范涉企案件审判执行工作的通知.md, entity_《关于建立涉案企业合规第三方监督评估机制的指导意见（试行）》实施细则.md
+ 860 | missing:effectiveness | entity_2025_规范涉企案件审判执行工作的通知.md, entity_《关于建立涉案企业合规第三方监督评估机制的指导意见（试行）》实施细则.md
+  61 | related_empty | summary_SPP_GuideCase_05第五批指导性案例-中华人民共和国最高人民检察院.md, summary_SPP_GuideCase_06第六批指导性案例-中华人民共和国最高人民检察院.md
+  39 | missing:case_level | HubeiCourt_Labor_Dispute_2025_Top10.md, ShanghaiCourt_Admin_001.md
+  39 | missing:problem意识 | HubeiCourt_Labor_Dispute_2025_Top10.md, ShanghaiCourt_Admin_001.md
+  27 | short_content:90 | entity_中华人民共和国最高人民法院与新加坡共和国最高法院关于法律查明问题的合作谅解备忘录.md, entity_关于印发《关于加强军地检察机关公益诉讼协作工作的意见》的通知.md
+  20 | missing:source | entity_两高袭警刑事案件解释.md, entity_最高人民法院关于加强中医药知识产权司法保护的意见.md
+  20 | short_content:82 | entity_全国检察机关、市场监管部门、药品监管部门落实食品药品安全“四个最严”要求专项行动工作方案.md, entity_关于印发《关于在检察公益诉讼中加强协作配合依法保障食品药品安全的意见》的通知.md
+  16 | short_content:92 | entity_关于印发《最高人民检察院关于加强检察法律文书说理工作的意见》的通知.md, entity_关于印发《法律援助值班律师工作办法》的通知.md
+  15 | short_content:93 | entity_关于印发《最高人民法院 最高人民检察院 公安部关于办理跨境电信网络诈骗等刑事案件适用法律若干问题的意见》的通知.md, entity_最高人民法院 最高人民检察院关于办理掩饰、隐瞒犯罪所得、犯罪所得收益刑事案件适用法律若干问题的解释.md
+  12 | short_content:98 | entity_关于依法办理“碰瓷”违法犯罪案件的指导意见.md, entity_最高人民检察院关于全面加强新时代知识产权检察工作的意见.md
+  12 | short_content:84 | entity_关于印发《关于建立涉案企业合规第三方监督评估机制的指导意见（试行）》的通知.md, entity_关于印发《最高人民检察院关于支持和服务保障浙江高质量发展建设共同富裕示范区的意见》的通知.md
+  10 | short_content:97 | entity_关于印发《最高人民检察院 公安部关于公安机关管辖的刑事案件立案追诉标准的规定（二）》的通知（2022）.md, entity_关于印发《检察人员配偶、子女及其配偶禁业清单》的通知.md
+   9 | short_content:95 | entity_关于《认定成年人为无民事行为能力人，经法院特别程序宣告是否为必要程序》来信的回复.md, entity_最高人民检察院、国土资源部关于加强协作推进行政公益诉讼促进法治国土建设的意见.md
+   9 | short_content:94 | entity_关于办理“套路贷”刑事案件若干问题的意见.md, entity_关于印发《最高人民检察院关于实行检察官以案释法制度的规定》的通知.md
+   9 | short_content:83 | entity_关于跨省异地执行刑罚的黑恶势力罪犯坦白检举构成自首立功若干问题的意见.md, entity_关于进一步规范人民法院冻结上市公司质押股票工作的意见.md
+   7 | short_content:81 | entity_关于印发《人民检察院办理伤害类案件技术性证据实质审查工作规定》和《伤害类案件人体损伤程度鉴定意见专门审查指引》的通知.md, entity_最高人民检察院关于印发《最高人民检察院关于上级人民检察院统一调用辖区的检察人员办理案件若干问题的规定》的通知.md
+   7 | short_content:86 | entity_关于印发《最高人民检察院关于支持和服务保障贵州在新时代西部大开发上闯新路的意见》的通知.md, entity_最高人民检察院关于新型冠状病毒疫情防控期间以来信、网络和电话方式接待群众来访工作的公告.md
+   6 | short_content:96 | entity_最高人民检察院关于印发《人民检察院审查案件听证工作规定》的通知.md, entity_最高人民法院 最高人民检察院关于办理妨害国(边)境管理刑事案件应用法律若干问题的解释.md
+   6 | short_content:91 | entity_最高人民法院 最高人民检察院关于完善对海事法院法律监督机制的通知.md, entity_最高人民法院 最高人民检察院关于印发《关于办理民事支持起诉案件若干问题的指导意见》的通知.md
+   5 | placeholder:待补充 | ShanghaiCourt_Admin_001.md, ShanghaiCourt_Civil_001.md
+   4 | placeholder:（略） | entity_全国人民代表大会常务委员会关于修改中华人民共和国个人所得税法的决定2007第二次.md, entity_全国人民代表大会常务委员会法制工作委员会关于行政复议机关能否加重对申请人处罚问题的答复意见.md
+   3 | short_content:89 | entity_两高执行刑法确定罪名补充规定(八).md, entity_最高人民检察院关于充分发挥检察职能为打好“三大攻坚战”提供司法保障的意见.md
+   2 | short_content:88 | entity_最高人民法院 最高人民检察院关于办理行贿刑事案件具体应用法律若干问题的解释.md, entity_最高人民法院关于完整准确全面贯彻新发展理念 为积极稳妥推进碳达峰碳中和提供司法服务的意见.md
+   1 | short_content:99 | entity_关于深化和规范检务公开工作的意见.md
+   1 | short_content:85 | entity_最高人民法院 最高人民检察院 公安部 司法部关于印发《法律援助法实施工作办法》的通知.md
+   1 | bad_category | 上海一中法院：楼梯间与样板房展示不一致，开发商要赔偿损失吗？.md
+   1 | missing:created | synthesis_法官办公室猥亵案分析.md
+   1 | missing:updated | synthesis_法官办公室猥亵案分析.md
+
+
+=== Files by Type ===
+entities: 861 files
+summaries: 354 files
+syntheses: 39 files

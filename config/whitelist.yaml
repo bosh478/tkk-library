@@ -1,0 +1,39 @@
+# ============================================================================
+# 权威信源白名单 (T1/T2/T3 域名分类)
+# ============================================================================
+# 用途：
+#   tkk-legal-ingest 自动捕获 + ttk-discover 环节 3 web-access 命中后的
+#   真实性过滤。仅 T1/T2 域名的资料进入 sources/discovered-in-research/
+#   自动捕获流程；T3 需用户手动指定；T4 默认拒绝。
+
+# 维护规则：
+#   - 仅追加，不要删除已生效的域名（避免误伤历史资料）
+#   - 每条域名后用 # 注释说明：何时加入、来源依据
+#   - 用户后续发资料时由 markdown_converter.py 自动学习并提示补充
+
+# 当前状态：所有 tier 均为空列表（待用户发资料后逐条填充）
+# ============================================================================
+
+tier_1_government_court_procuratorate:        # T1：政府 / 法院 / 检察院 一手来源
+  domains: []
+  examples_intended:                          # 期望收录的域名示例（待补）
+    - gov.cn                                  # 政府通用
+    - court.gov.cn                             # 裁判文书网
+    - npc.gov.cn                              # 全国人大
+    - spp.gov.cn                              # 最高检
+    - chinacourt.org                           # 中国法院网
+
+tier_2_industry_legal_media:                  # T2：行业协会 + 知名法律媒体
+  domains: []
+  examples_intended:                          # 期望收录的域名示例（待补）
+    - bjnews.com.cn                           # 新京报
+    - caixin.com                              # 财新
+    - legalweekly.cn                          # 法治日报
+
+tier_3_general_media:                         # T3：一般媒体
+  domains: []
+  note: 不进入自动捕获流程；用户手动调用 ingest 时可单独指定
+
+tier_4_self_media:                            # T4：自媒体
+  domains: []
+  note: 默认拒绝；如需收录必须在 frontmatter 中显式标注 tier=4 并附理由

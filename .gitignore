@@ -1,0 +1,27 @@
+desktop.ini
+__pycache__/
+*.pyc
+
+# Obsidian vault 工作区状态（高频变动，不入库但保留插件代码）
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/.obsidian-sync-helper-backup/
+.obsidian/plugins/*/data.json
+
+# 临时/草稿目录与文件
+_drafts/
+models/
+
+# 工具运行产物
+scripts/logs/
+scripts/*.log
+scripts/spp_remaining_batches.json
+
+# Wiki 内部中间目录
+wiki/.drafts/
+wiki/.checkpoints/
+
+# 备份目录（不进 git）
+_backups/
+.scripts_backup_*/
+

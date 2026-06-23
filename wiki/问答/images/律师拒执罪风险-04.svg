@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="450" fill="#f5f5f5"/>
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="20" fill="#1a1a2e" text-anchor="middle" font-weight="bold">律师执业行为红线</text>
+  <rect x="40" y="60" width="350" height="80" rx="10" fill="#ffffff" stroke="#d32f2f" stroke-width="2"/>
+  <text x="55" y="85" font-family="Arial, sans-serif" font-size="14" fill="#d32f2f" font-weight="bold">🚫 绝对禁止</text>
+  <text x="55" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">教唆、指使当事人转移/隐匿财产</text>
+  <text x="55" y="128" font-family="Arial, sans-serif" font-size="12" fill="#333">为转移财产提供法律方案/操作指引</text>
+  <rect x="410" y="60" width="350" height="80" rx="10" fill="#ffffff" stroke="#d32f2f" stroke-width="2"/>
+  <text x="425" y="85" font-family="Arial, sans-serif" font-size="14" fill="#d32f2f" font-weight="bold">🚫 绝对禁止</text>
+  <text x="425" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">代理提起无正当理由的虚假执行异议</text>
+  <text x="425" y="128" font-family="Arial, sans-serif" font-size="12" fill="#333">隐匿、销毁涉及财产的证据材料</text>
+  <rect x="40" y="160" width="350" height="80" rx="10" fill="#ffffff" stroke="#ff9800" stroke-width="2"/>
+  <text x="55" y="185" font-family="Arial, sans-serif" font-size="14" fill="#ff9800" font-weight="bold">⚠️ 高度警示</text>
+  <text x="55" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">与当事人通谋逃避执行</text>
+  <text x="55" y="228" font-family="Arial, sans-serif" font-size="12" fill="#333">伪造/虚假申报财产状况</text>
+  <rect x="410" y="160" width="350" height="80" rx="10" fill="#ffffff" stroke="#ff9800" stroke-width="2"/>
+  <text x="425" y="185" font-family="Arial, sans-serif" font-size="14" fill="#ff9800" font-weight="bold">⚠️ 高度警示</text>
+  <text x="425" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">虚构债务关系转移资产</text>
+  <text x="425" y="228" font-family="Arial, sans-serif" font-size="12" fill="#333">炮制虚假诉讼/调解拖延执行</text>
+  <rect x="40" y="260" width="720" height="80" rx="10" fill="#ffffff" stroke="#4caf50" stroke-width="2"/>
+  <text x="55" y="285" font-family="Arial, sans-serif" font-size="14" fill="#4caf50" font-weight="bold">✅ 合法执业行为</text>
+  <text x="55" y="310" font-family="Arial, sans-serif" font-size="12" fill="#333">代理提出合法执行异议 | 代理申请执行和解 | 提供程序性法律咨询</text>
+  <text x="55" y="328" font-family="Arial, sans-serif" font-size="12" fill="#333">代理核实/说明财产状况 | 书面沟通保留记录 | 发现风险及时退出代理</text>
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">执业底线：不做假、不帮凶、不共谋</text>
+</svg>
