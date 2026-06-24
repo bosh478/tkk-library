@@ -18722,6 +18722,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20150302_最高人民法院、最高人民检察院、公安部、司法部印发《关于依法办理家庭暴力犯罪案件的意见》的通知.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -18739,7 +18743,7 @@
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md",
         "wiki\\syntheses\\synthesis_被害人过错责任提取与界定_梁爽_王蓉_2023.md"
       ],
-      "source_count": 133
+      "source_count": 134
     },
     "紧急避险": {
       "source_files": [
@@ -19042,6 +19046,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20200228_最高人民检察院关于印发最高人民检察院第十九批指导性案例的通知.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -19049,7 +19057,7 @@
         "wiki\\entities\\entity_民法典总则编若干问题的解释.md",
         "wiki\\entities\\entity_民法典总则编解释.md"
       ],
-      "source_count": 75
+      "source_count": 76
     },
     "见义勇为": {
       "source_files": [
@@ -24582,6 +24590,14 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_合同法总论_韩世远_2025.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -24605,7 +24621,7 @@
         "wiki\\summaries\\summary_Court_RukuAnli_2025-06-19_[2025-06-19]入库参考案例南京旭某餐饮管理有限公司诉刘某亮竞业限制纠纷案.md",
         "wiki\\summaries\\上海一中法院：楼梯间与样板房展示不一致，开发商要赔偿损失吗？.md"
       ],
-      "source_count": 691
+      "source_count": 693
     },
     "缔约过失": {
       "source_files": [
@@ -25512,13 +25528,17 @@
         {
           "path": "sources/2-案例库/入库案例/民事/入库案例 2025-10-2-484-001.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_最高人民法院民法典合同编通则司法解释理解与适用.md",
         "wiki\\entities\\entity_民事案件案由规定_2020修正.md"
       ],
-      "source_count": 141
+      "source_count": 140
     },
     "无因管理": {
       "source_files": [
@@ -25745,12 +25765,16 @@
         {
           "path": "sources\\微信公号资料\\最高人民法院\\最高法-前沿法评-md\\[2025-06-30]中国法学会副会长中国人民大学一级教授王利明民法典合同编发挥债法总则功能能够有.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_民事案件案由规定_2020修正.md"
       ],
-      "source_count": 56
+      "source_count": 57
     },
     "侵权责任": {
       "source_files": [
@@ -28965,6 +28989,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第96辑_最高法民一庭_2024.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -29001,7 +29029,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_005.md",
         "wiki\\syntheses\\Synthesis_道路交通事故损害赔偿典型案例.md"
       ],
-      "source_count": 803
+      "source_count": 804
     },
     "精神损害赔偿": {
       "source_files": [
@@ -29500,6 +29528,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第86辑_最高法民一庭_2021.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -29512,7 +29544,7 @@
         "wiki\\summaries\\summary_Court_FaDaWang_36法答网精选答问第三十六批国家赔偿专题.md",
         "wiki\\summaries\\summary_检答网集萃84_刑事赔偿案件中，精神损害抚慰金计算的法律依据是什么？.md"
       ],
-      "source_count": 124
+      "source_count": 125
     },
     "惩罚性赔偿": {
       "source_files": [
@@ -30643,6 +30675,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第96辑_最高法民一庭_2024.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -30671,7 +30707,7 @@
         "wiki\\summaries\\summary_Court_RukuAnli_2025-07-24_[2025-07-24]入库参考案例解读全国首例职业闭店人承担民事赔偿案的法理分析.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_011.md"
       ],
-      "source_count": 282
+      "source_count": 283
     },
     "产品责任": {
       "source_files": [
@@ -30930,6 +30966,10 @@
         {
           "path": "sources/2-案例库/最高法-指导性案例/指导案例56号：韩凤彬诉内蒙古九郡药业有限责任公司等产品责任纠纷管辖权异议案.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -30938,7 +30978,7 @@
         "wiki\\entities\\entity_民法典侵权责任编解释（一）.md",
         "wiki\\entities\\entity_法释2021_17号_修改食品药品纠纷案件规定决定.md"
       ],
-      "source_count": 64
+      "source_count": 65
     },
     "医疗损害责任": {
       "source_files": [
@@ -31113,6 +31153,10 @@
         {
           "path": "sources\\证据质证\\《法医病理司法鉴定实务》官大威 科学出版社 2025年.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -31122,7 +31166,7 @@
         "wiki\\entities\\entity_民事案件案由规定_2025修正.md",
         "wiki\\summaries\\summary_20181210_律师办理医疗纠纷案件操作指引2018.md"
       ],
-      "source_count": 43
+      "source_count": 44
     },
     "环境污染责任": {
       "source_files": [
@@ -32058,12 +32102,16 @@
         {
           "path": "sources/2-案例库/公报案例/民事/公报案例 (2019)最高法民终370号.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_合同法总论_韩世远_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_最高人民法院关于适用《中华人民共和国行政诉讼法》的解释.md"
       ],
-      "source_count": 100
+      "source_count": 99
     },
     "抵押权": {
       "source_files": [
@@ -54391,6 +54439,10 @@
         {
           "path": "sources/1-专题研究/监外执行/关于进一步加强社区矫正工作衔接配合管理的意见.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_纪检监察办案程序一本通_高建_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -54517,7 +54569,7 @@
         "wiki\\syntheses\\ShanghaiCourt_Finance_2025_Top10.md",
         "wiki\\syntheses\\synthesis_洗钱罪司法认定_普通案例分析.md"
       ],
-      "source_count": 1266
+      "source_count": 1267
     },
     "回避": {
       "source_files": [
@@ -102975,6 +103027,14 @@
         {
           "path": "sources/1-专题研究/监外执行/20260101_中华人民共和国治安管理处罚法（2025年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_合同法总论_韩世远_2025.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -103085,7 +103145,7 @@
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md",
         "wiki\\syntheses\\ShanghaiCourt_Admin_001.md"
       ],
-      "source_count": 865
+      "source_count": 867
     },
     "政府信息公开": {
       "source_files": [
@@ -104378,6 +104438,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20261101_中华人民共和国监狱法（2026年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -104426,7 +104490,7 @@
         "wiki\\summaries\\summary_检答网集萃84_刑事赔偿案件中，精神损害抚慰金计算的法律依据是什么？.md",
         "wiki\\summaries\\summary_检答网集萃95_办理刑事赔偿案件终止审查时如何适用法律.md"
       ],
-      "source_count": 241
+      "source_count": 242
     },
     "刑法": {
       "source_files": [
@@ -115486,6 +115550,14 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_合同法总论_韩世远_2025.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -115661,7 +115733,7 @@
         "wiki\\syntheses\\Synthesis_道路交通事故损害赔偿典型案例.md",
         "wiki\\syntheses\\Synthesis_长投短退保险套利行为定性.md"
       ],
-      "source_count": 1355
+      "source_count": 1357
     },
     "刑事诉讼法": {
       "source_files": [
@@ -128424,6 +128496,14 @@
         {
           "path": "sources/1-专题研究/监外执行/20100726_最高人民法院、最高人民检察院、公安部等关于印发《关于对司法工作人员在诉讼活动中的渎职行为加强法律监督的若干规定(试行)》的通知.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_合同法总论_韩世远_2025.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -128493,7 +128573,7 @@
         "wiki\\summaries\\summary_检答网集萃63_行政拘留的时间能否在行政诉讼起诉期限内扣除.md",
         "wiki\\summaries\\summary_检答网集萃78_行政拘留的时间能否在行政诉讼起诉期限内扣除.md"
       ],
-      "source_count": 482
+      "source_count": 484
     },
     "公司法": {
       "source_files": [
@@ -134678,6 +134758,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第84辑_最高法民一庭_2021.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -134687,7 +134771,7 @@
         "wiki\\summaries\\summary_张寅旭_互联网平台价格行为规则要点解读_2026.md",
         "wiki\\summaries\\上海一中法院：楼梯间与样板房展示不一致，开发商要赔偿损失吗？.md"
       ],
-      "source_count": 151
+      "source_count": 152
     },
     "反不正当竞争法": {
       "source_files": [
@@ -136902,6 +136986,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/62第六十二批指导性案例-中华人民共和国最高人民检察院.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -136916,7 +137004,7 @@
         "wiki\\summaries\\summary_Court_FaDaWang_05法答网精选答问第五批.md",
         "wiki\\summaries\\summary_Court_FaDaWang_32法答网精选答问第三十二批环境资源专题.md"
       ],
-      "source_count": 221
+      "source_count": 222
     },
     "食品安全法": {
       "source_files": [
@@ -137467,6 +137555,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第84辑_最高法民一庭_2021.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -137491,7 +137583,7 @@
         "wiki\\summaries\\summary_检答网集萃82_犯罪嫌疑人不在案的，案管部门可否受理案件.md",
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md"
       ],
-      "source_count": 137
+      "source_count": 138
     },
     "药品管理法": {
       "source_files": [
@@ -138349,6 +138441,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第95辑_最高法民一庭_2024.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -138363,7 +138459,7 @@
         "wiki\\summaries\\summary_Court_RukuAnli_2025-07-17_[2025-07-17]入库参考案例解读已公开的个人信息能随便用吗.md",
         "wiki\\summaries\\summary_Court_RukuAnli_2025-07-17_[2025-07-17]入库参考案例麦某波诉北京法某科技有限公司北京律某信息技术有限公司网络侵权责任.md"
       ],
-      "source_count": 97
+      "source_count": 98
     },
     "商标法": {
       "source_files": [
@@ -147849,6 +147945,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20261101_中华人民共和国监狱法（2026年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -147896,7 +147996,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_012.md",
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md"
       ],
-      "source_count": 520
+      "source_count": 521
     },
     "不正当竞争": {
       "source_files": [
@@ -159684,13 +159784,17 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第96辑_最高法民一庭_2024.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_最高人民检察院司法解释工作规定（2019修订）.md",
         "wiki\\entities\\entity_最高人民法院关于司法解释工作的规定（2021修正）.md"
       ],
-      "source_count": 151
+      "source_count": 152
     },
     "司法解释": {
       "source_files": [
@@ -166065,6 +166169,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -166852,7 +166960,7 @@
         "wiki\\syntheses\\Synthesis_道交纠纷实质化解答记者问.md",
         "wiki\\syntheses\\Synthesis_道交解释二发布会新闻稿.md"
       ],
-      "source_count": 1593
+      "source_count": 1594
     },
     "指导性案例": {
       "source_files": [
@@ -169451,6 +169559,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -169528,7 +169640,7 @@
         "wiki\\summaries\\沈雯：下班后仍线上处理工作，算加班吗？.md",
         "wiki\\syntheses\\synthesis_检例第97号_水上交通肇事vs重大责任事故.md"
       ],
-      "source_count": 649
+      "source_count": 650
     },
     "法律援助": {
       "source_files": [
