@@ -27,6 +27,7 @@ discovered-in-research/
 | source_id | task_id | action | wiki_paths | processed_at | tier | authenticity |
 |---|---|---|---|---|---|---|
 | （暂无记录，待 tkk-discover 流程首次运行后填充） | | | | | | |
+| SRC-001..005 | 2026-06-23-诈骗罪虚构事实隐瞒真相与民事界分 | pending | 待 tkk-legal-ingest 消化 | pending | T1-T3 | pending |
 
 ## 待核验积压清单（authenticity_status = pending）
 

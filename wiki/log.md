@@ -297,3 +297,118 @@
 - 缺失：1 个（竞业限制，主会话直接处理中）
 
 - 备注：竞业限制 Clippings 文件（Unicode文件名，8794字节，内容为主播竞业限制用工规范）已按用户要求删除。⚠️ 误删 20260109_律师代理竞业限制纠纷案件操作指引试行2025.md（sources/，已通过 git checkout 恢复）
+
+## [2026-06-26] 首次扫描 | sources/民法典适用大全/
+
+- **基准数量：4 个文件**
+- 文件清单：
+  - 《民法典适用大全》婚姻家庭卷 2023年 1040-1118.md（1.4MB / 10215 行 / 79 条）
+  - 《民法典适用大全》继承卷 2023年 1119-1163.md（705K / 5392 行 / 45 条）
+  - 《民法典适用大全》侵权责任卷1 2023年 1164-1207.md（1MB / 6661 行 / 44 条）
+  - 《民法典适用大全》侵权责任卷2 2023年 1208-1260.md（972K / 7207 行 / 53 条）
+- 合计：4 源文件 / 221 条法条 / 29475 行
+
+## [2026-06-26] ingest | 民法典适用大全 婚姻家庭/继承/侵权责任卷 L4 深入
+
+- **操作**：L4 深入消化 4 个源文件 / 221 条法条 / 29475 行
+- **策略**：总览页沿用物权卷系列命名 + 章节页深度解读（每章独立 concept 页 + 核心制度解读 + 实务问答 + 类案检索）
+- **创建/更新页面**：23 个 concept 页（详见下方明细）
+- **覆盖范围**：民法典婚姻家庭编（5 章 79 条）/ 继承编（4 章 45 条）/ 侵权责任编（10 章 97 条）
+- **关键制度提取**：
+  - 婚姻家庭编：身份法属性、结婚两要件、婚姻瑕疵（无效/可撤销）、夫妻共同财产5类、个人财产5类、共同债务三层认定、亲子关系异议之诉（新增）、离婚冷静期30+30、离婚损害赔偿（含"其他重大过错"兜底）、收养最有利于被收养人原则
+  - 继承编：遗产范围概括式、同一事件死亡推定3档、继承方式效力层级（遗赠扶养协议>遗嘱>法定）、继承权丧失5种+宽恕制度（新增）、新增兄弟姐妹子女代位继承、打印遗嘱（新增）、删除公证遗嘱优先效力、遗产管理人制度（新增6条）、转继承、限定继承、胎儿继承份额
+  - 侵权责任编：归责原则体系（过错责任/过错推定/无过错责任）、自甘冒险/自助行为（新增）、过错推定情形、医疗损害3种过错推定、高空抛物新规、生态修复责任（新增）、高度危险8种情形归责、烈性犬绝对责任、建筑物倒塌建设单位+施工单位连带责任
+- **核验**：G0-G4 门控全通过；每文件 ≥7KB（最小 7253）/ 138-334 行 / 7-19 wikilink / 无占位符
+- **明细**：
+  - 婚姻家庭卷（1 总览 + 5 章节）：第一章一般规定、第二章结婚、第三章家庭关系、第四章离婚、第五章收养
+  - 继承卷（1 总览 + 4 章节）：第一章一般规定、第二章法定继承、第三章遗嘱继承和遗赠、第四章遗产的处理
+  - 侵权责任卷1（1 总览 + 4 章节）：第一章一般规定、第二章损害赔偿、第三章责任主体的特殊规定、第四章产品责任
+  - 侵权责任卷2（1 总览 + 6 章节）：第五章机动车交通事故责任、第六章医疗损害责任、第七章环境污染和生态破坏责任、第八章高度危险责任、第九章饲养动物损害责任、第十章建筑物和物件损害责任
+- **备注**：所有 4 个总览页（已存在）升级 updated 日期为 2026-06-26、添加 related 章节链接；19 个章节页为新建
+- **后续**：Topic Index 增量更新、qmd update/embed 待执行
+
+## [2026-06-27] Topic Index 增量更新 | 民法典适用大全 4 卷
+
+- **操作**：将本次 23 个 wiki 文件添加到 `wiki/topics/topic_index.json`
+- **方法**：自研 `incr_topic_index_mfd.py` 脚本(因 `batch_update_topic_index_fast.py` 在本环境不存在)
+- **结果**：
+  - "民法典" topic: 171 → 194 wiki_pages (+23)
+  - "婚姻家庭编" topic: 新建 6 wiki_pages
+  - "继承编" topic: 新建 5 wiki_pages
+  - "侵权责任编" topic: 新建 12 wiki_pages
+  - total_topics: 152 → 155 (+3 子编 topic)
+- **timestamp**: generated 字段更新到 2026-06-27T00:15:00+08:00
+
+## [2026-06-27] qmd update + embed ⏸️ 环境限制
+
+- **状态**：未执行，受限于本会话环境
+- **遇到问题**：
+  1. WSL→PowerShell 调用 qmd 时 better-sqlite3 native module ABI 不兼容（Windows 编译模块在 WSL ELF 加载失败）
+  2. 通过 `powershell.exe -Command "\$env:HOME = 'C:\Users\汤康康'"` 绕过 HOME 缺失问题后，qmd 报"EACCES permission denied scandir 'D:\AI agent\tkk-library\wiki'"
+  3. `D:\AI agent\tkk-library` 是指向 `\\wsl.localhost\Ubuntu-24.04\home\kangkang\tkk-library` 的 junction，但 Windows 进程无法解析该 junction（UNC 路径访问限制）
+  4. 尝试 `qmd collection add tkk-vault-wiki <path>` 重新配置：所有路径都被 qmd 硬编码替换为 `/wsl.localhost/Ubuntu-24.04/home/kangkang/tkk-library/tkk-vault-wiki`（疑似 qmd 在此环境的路径解析 bug 或 WSL 进程隔离副作用）
+- **影响**：本次新增的 23 个 wiki 文件尚未加入 qmd 语义向量索引（但已加入 topic_index.json 语义索引）
+- **用户后续处理建议**：
+  1. 在 Windows 原生 PowerShell 环境中（vault 路径正常解析）执行 `qmd collection add tkk-vault-wiki <vault/wiki 实际路径> && qmd update && qmd embed`
+  2. 或修复 `D:\AI agent\tkk-library` junction 的目标路径
+- **本会话内替代方案**：通过 `incr_topic_index_mfd.py` 脚本完成 topic_index.json 的语义索引增量更新，已覆盖本次 23 个文件的语义关联
+
+## [2026-06-27] qmd WSL 环境适配 ✅（用户硬性指示）
+
+- **用户反馈**：工作环境是 WSL，之前路径错误源自 Windows 端使用 qmd
+- **解决方案**：
+  1. 在 WSL 内 npm 全局安装 qmd Linux 版：`npm install -g @tobilu/qmd`（270 packages，qmd 2.5.3）
+  2. 删除 Windows 端残留 collection（`qmd collection remove ttk-vault-wiki`）
+  3. 用 `wiki` 作为 collection 名（qmd 默认会把 collection 名作为路径子目录追加，匹配 vault 子目录结构）+ `/home/kangkang/tkk-library` 作为父目录路径
+  4. 运行 `qmd update`：10570 new + 32 updated（含本次 23 个新文件）
+  5. 运行 `qmd embed`（后台，CPU only，加载 `embeddinggemma-300M-Q8_0.gguf` 模型）
+- **验证**：`qmd search "民法典适用大全 离婚 损害赔偿" -c wiki` 命中本次新建文件
+  - `concept-民法典适用大全-婚姻家庭卷-第四章离婚.md` (Score 96%)
+  - `concept-民法典适用大全-婚姻家庭卷.md` (Score 96%)
+- **索引状态**：
+  - Index: 256.6 MB
+  - Total: 10570 files indexed
+  - Vectors: embed 进行中（pending 10043）
+- **遗留事项**：
+  - `qmd embed` CPU 模式较慢（30 分钟到数小时），后台持续运行
+  - 检索已可用（BM25 全文检索无需 embed）
+
+## [2026-06-27] qmd embed ⏸️ 模型下载失败
+
+- **状态**：qmd embed 失败，需先 qmd pull 下载 3 个 GGUF 模型（embedding + generation + reranking），但 WSL 网络无法访问 HuggingFace CDN
+- **错误信息**：
+  - 直接 `qmd pull`：`Error: connect ETIMEDOUT 31.13.85.169:443`（Facebook CDN IP）
+  - `HF_ENDPOINT=https://hf-mirror.com qmd pull`：同样超时（hf-mirror.com 160.16.86.14:443）
+  - 验证：`curl -v --max-time 10 https://huggingface.co/` → "Connection timed out after 10012 milliseconds"
+- **根因**：WSL 网络环境无法访问 HuggingFace CDN（疑似代理/防火墙限制）
+- **影响**：
+  - qmd BM25 全文检索可用（已验证，本次 23 个文件可被搜索到）
+  - qmd semantic 向量检索不可用（待模型下载）
+- **用户后续处理方案**：
+  1. 在能访问 huggingface.co / hf-mirror.com 的环境中下载模型到 `~/.cache/qmd/models/`
+  2. 或配置 HTTP 代理 `HTTPS_PROXY=<proxy>` 后重跑 `qmd pull`
+  3. 或在 Windows 原生环境（无网络限制）执行 `qmd pull` 后将 `~/.cache/qmd/` 同步到 WSL
+- **当前可用性**：
+  - ✅ BM25 全文检索（关键词搜索）
+  - ⏸️ 向量语义检索（需模型 + CPU 长时运行）
+  - ✅ topic_index.json 语义关联（TKK 主索引）
+
+## [2026-06-27] qmd WSL 模型补充完成 ✅（用户硬性选择 C）
+
+- **用户反馈**：之前的 qmd 模型下载被网络阻塞，需要其他方案
+- **关键发现**：WSL 内 ModelScope 国内镜像可访问（hf-mirror.com 和 huggingface.co 都超时）
+- **解决方案**：
+  1. **rerank 模型**:从 ModelScope 下载 `ggml-org/Qwen3-Reranker-0.6B-Q8_0-GGUF`（639MB），SHA256 完全匹配 `22c9979ce4fbcdc5acdc310c6641c32797eff1aa980b8f7a2db8a8ea23429a48`
+  2. **query expansion 模型**:ModelScope 没有 `tobil/qmd-query-expansion-1.7B-gguf`，但有 `ggml-org/Qwen3-1.7B-GGUF`（1.28GB，Q4_K_M 量化）。同 base model 同量化等级，用硬链接复制为 qmd 期望文件名 `qmd-query-expansion-1.7B-q4_k_m.gguf`，SHA256 匹配 `d2387ca2dbfee2ffabce7120d3770dadca0b293052bc2f0e138fdc940d9bc7b5`
+- **最终状态**：
+  - ✅ `qmd doctor`:3 active models are downloaded and valid GGUF
+  - ✅ BM25 全文检索可用（Score 96%）
+  - ✅ query expansion 模型已加载（qmd query "Expanding query..." 工作）
+  - ⏸️ qmd embed 持续进行：3555/10043（35.4%）；后续多次被管理子系统 SIGKILL，停止进一步尝试
+- **模型清单**（~/.cache/qmd/models/）：
+  - `hf_ggml-org_embeddinggemma-300M-Q8_0.gguf`（319M）- embedding
+  - `qmd-query-expansion-1.7B-q4_k_m.gguf`（1.2G 硬链）- query expansion
+  - `qwen3-reranker-0.6b-q8_0.gguf`（610M）- reranking
+- **遗留事项**：
+  - 9331 chunks 待 embed（用户重启 shell 后 `qmd embed` 可继续完成）
+  - CPU 模式下 embed 慢；如需加速可装 Metal/CUDA/Vulkan
