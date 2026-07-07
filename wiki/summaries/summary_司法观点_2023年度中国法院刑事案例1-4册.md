@@ -11,6 +11,9 @@ tags:
 - 刑事程序
 source: sources/司法观点、案例/2023年度中国法院刑事案例（1-4册）.md
 category: 诉讼与仲裁
+related:
+  - "[[synthesis_2023年度中国法院刑事案例1-4册]]"
+  - "[[concept_2023年度中国法院刑事案例1-4册]]"
 line-refs: []
 ---
 

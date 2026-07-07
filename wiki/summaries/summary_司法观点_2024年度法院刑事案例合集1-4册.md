@@ -11,6 +11,9 @@ tags:
 - 量刑
 source: sources/司法观点、案例/2024年度法院刑事案例合集（1-4册）.md
 category: 诉讼与仲裁
+related:
+  - "[[synthesis_2024年度法院刑事案例合集1-4册]]"
+  - "[[concept_2024年度法院刑事案例合集1-4册]]"
 line-refs: []
 ---
 

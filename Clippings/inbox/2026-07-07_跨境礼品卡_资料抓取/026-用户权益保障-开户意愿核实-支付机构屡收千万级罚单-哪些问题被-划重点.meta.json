@@ -1,0 +1,21 @@
+{
+  "source_url": "https://news.qq.com/rain/a/20260315A0380B00",
+  "fetched_at": "2026-07-07T16:30:20+08:00",
+  "title": "用户权益保障、开户意愿核实......支付机构屡收千万级罚单，哪些问题被“划重点”？｜界面金融315_腾讯新闻",
+  "author": "腾讯网",
+  "publish_date": "2026-03-15",
+  "language": "zh-CN",
+  "raw_html_path": "_raw/026-raw.html",
+  "raw_html_size": 107818,
+  "raw_html_sha256": "\\356641b",
+  "dedup_hash": "045234f4",
+  "source_page_links": [
+    {
+      "text": "界面新闻",
+      "href": "https://news.qq.com/omn/author/8QMc3HhU640dvD%2Fd"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "ok"
+}

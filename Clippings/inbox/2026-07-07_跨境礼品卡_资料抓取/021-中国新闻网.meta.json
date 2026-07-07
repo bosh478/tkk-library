@@ -1,0 +1,16 @@
+{
+  "source_url": "https://m.chinanews.com.cn/wap/detail/chs/zw/10258066.shtml",
+  "fetched_at": "2026-07-07T16:28:07+08:00",
+  "title": "中国新闻网",
+  "author": null,
+  "publish_date": null,
+  "language": null,
+  "raw_html_path": "_raw/021-raw.html",
+  "raw_html_size": 10845,
+  "raw_html_sha256": "\\e4ffe18",
+  "dedup_hash": "9520ee19",
+  "source_page_links": [],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "ok"
+}

@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-07-07_v031_pdftotext_e2e_real3",
+  "description": "",
+  "workdir": null,
+  "started_at": "2026-07-07T10:55:13+08:00",
+  "finished_at": null,
+  "skill_chain": "tkk-source-fetch v0.2.0 → tkk-denoise → LLM-score → tkk-legal-ingest",
+  "total_candidates": 0,
+  "after_dedup": 0,
+  "after_verify": 0,
+  "fetched_success": 0,
+  "fetched_failed": 0,
+  "scoring": {
+    "scored_at": null,
+    "KEEP": 0,
+    "NEEDS_REVIEW": 0,
+    "DELETE_CANDIDATE": 0,
+    "pending_user_review": 0
+  },
+  "items": []
+}

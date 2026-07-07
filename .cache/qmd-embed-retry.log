@@ -1,0 +1,23 @@
+[2026-07-03 08:50:14] qmd-embed-retry 启动,delay=30s
+[2026-07-03 08:50:15] 延迟开始,PID=148094,等待 30s
+[2026-07-03 08:50:45] 延迟结束,开始执行
+[2026-07-03 08:50:45] 命令: qmd embed
+Model: embeddinggemma-300M-Q8_0.gguf
+
+[?25lQMD Warning: no GPU acceleration, running on CPU (slow). Run 'qmd doctor' for device diagnostics.
+⚠ Session expired — skipping 48 remaining chunks
+⚠ Session expired — skipping remaining document batches
+[?25h██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 2511 chunks from 9572 documents in 31m 21s
+⚠ 48 chunks still failed after retries
+  summaries/summary-20240924-上海二中院-至正法官札记-捡漏的瑕疵债权.md#4 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240925-最高检-典型案例-两高-联合发布依法严惩危害食用农产品安全犯罪典型案例.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240925-最高检-典型案例-两高-联合发布依法严惩危害食用农产品安全犯罪典型案例.md#1 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240925-最高检-典型案例-两高-联合发布依法严惩危害食用农产品安全犯罪典型案例.md#2 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240925-最高检-答记者问-两高-相关部门负责人就联合发布依法严惩危害食用农产品安全犯罪典型案例答记者问.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240925-最高检-高质效办案在基层-爱拼才会赢拼出晋江经验新传奇.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240926-上海一中法院-微课程-乔林-程俊杰-重复起诉纠纷案件的认定与处理.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20240926-上海一中法院-微课程-乔林-程俊杰-重复起诉纠纷案件的认定与处理.md#1 (1 attempts): LLM session expired before embedding chunk
+  ...and 40 more
+[2026-07-03 09:22:08] 成功完成 (rc=0)

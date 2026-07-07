@@ -1,0 +1,36 @@
+{
+  "run_id": "2026-07-07_v031_REAL_FINAL",
+  "description": "",
+  "workdir": null,
+  "started_at": "2026-07-07T10:57:08+08:00",
+  "finished_at": "2026-07-07T10:57:08+08:00",
+  "skill_chain": "tkk-source-fetch v0.2.0 → tkk-denoise → LLM-score → tkk-legal-ingest",
+  "total_candidates": 0,
+  "after_dedup": 0,
+  "after_verify": 0,
+  "fetched_success": 1,
+  "fetched_failed": 0,
+  "scoring": {
+    "scored_at": null,
+    "KEEP": 0,
+    "NEEDS_REVIEW": 0,
+    "DELETE_CANDIDATE": 0,
+    "pending_user_review": 0
+  },
+  "items": [
+    {
+      "seq": "001",
+      "url": "http://localhost:18888/local-test.pdf",
+      "tier": "T2",
+      "verify_status": "已核实",
+      "fetch_status": "ok",
+      "md_file": "001-untitled.md",
+      "denoise_status": "pdftotext_ok",
+      "meta_file": "001-untitled.meta.json",
+      "raw_html_file": "_raw/001-raw.pdf",
+      "title": "untitled",
+      "fetched_at": "2026-07-07T10:57:08+08:00",
+      "dedup_hash": "87a1a215"
+    }
+  ]
+}

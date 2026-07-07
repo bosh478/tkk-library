@@ -1,0 +1,41 @@
+{
+  "source_url": "http://paper.people.com.cn/rmlt/html/2020-08/01/content_2005525.htm",
+  "fetched_at": "2026-07-07T16:18:41+08:00",
+  "title": "人民论坛",
+  "author": null,
+  "publish_date": null,
+  "language": "utf-",
+  "raw_html_path": "_raw/002-raw.html",
+  "raw_html_size": 43752,
+  "raw_html_sha256": "\\d6404a6",
+  "dedup_hash": "142d06d4",
+  "source_page_links": [
+    {
+      "text": "(no-text)",
+      "href": "http://www.people.com.cn"
+    },
+    {
+      "text": "分类检索",
+      "href": "http://search.people.com.cn/rmw/GB/bkzzsearch/index.jsp"
+    },
+    {
+      "text": "(no-text)",
+      "href": "http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000101300040"
+    },
+    {
+      "text": "环球时报",
+      "href": "http://www.huanqiu.com/"
+    },
+    {
+      "text": "证券时报",
+      "href": "http://epaper.stcn.com/"
+    },
+    {
+      "text": "国家人文历史",
+      "href": "http://history.people.com.cn/GB/198819/index.html"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "ok"
+}

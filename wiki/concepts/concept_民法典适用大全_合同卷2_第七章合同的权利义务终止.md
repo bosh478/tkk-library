@@ -15,6 +15,7 @@ line-refs: 民法典适用大全合同卷2 2023年 557-656.md L173-L2848
 effective_status: 现行有效
 effective_date: 2021-01-01
 chapter_articles: [557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576]
+extraction_status: complete
 ---
 
 # 民法典合同编第七章【合同的权利义务终止】综合

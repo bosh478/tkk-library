@@ -1,0 +1,21 @@
+[2026-07-03 00:24:57] qmd_embed_delayed 启动,PID=57473,延迟 16800s (4h40m)
+[2026-07-03 05:04:57] 延迟结束,开始执行 qmd embed
+Model: embeddinggemma-300M-Q8_0.gguf
+
+[?25lQMD Warning: no GPU acceleration, running on CPU (slow). Run 'qmd doctor' for device diagnostics.
+⚠ Session expired — skipping 58 remaining chunks
+⚠ Session expired — skipping remaining document batches
+[?25h██████████████████████████████ 100%                                    
+
+✓ Done! Embedded 2373 chunks from 9976 documents in 30m 8s
+⚠ 58 chunks still failed after retries
+  summaries/summary-20200426-最高检-答记者问-案件质量-检察司法办案的生命线-最高检案管办主任董桂文答记者问.md#2 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200427-上海一中法院-类案裁判方法-类案裁判方法-有限责任公司清算清偿责任纠纷案件审理思路和裁判要点.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200427-上海一中法院-类案裁判方法-类案裁判方法-有限责任公司清算清偿责任纠纷案件审理思路和裁判要点.md#1 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200429-最高检-答记者问-海洋公益诉讼检察业务框架基本搭建完成-最高检第八检察厅厅长胡卫列答记者问.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200429-最高检-答记者问-海洋公益诉讼检察业务框架基本搭建完成-最高检第八检察厅厅长胡卫列答记者问.md#1 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200429-最高检-答记者问-海洋公益诉讼检察业务框架基本搭建完成-最高检第八检察厅厅长胡卫列答记者问.md#2 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200511-上海一中法院-类案裁判方法-类案裁判方法-变更-追加执行当事人案件的审理思路和裁判要点.md#0 (1 attempts): LLM session expired before embedding chunk
+  summaries/summary-20200511-上海一中法院-类案裁判方法-类案裁判方法-变更-追加执行当事人案件的审理思路和裁判要点.md#1 (1 attempts): LLM session expired before embedding chunk
+  ...and 50 more
+[2026-07-03 05:35:07] qmd embed 成功完成 (rc=0)

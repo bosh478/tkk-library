@@ -1,0 +1,137 @@
+{
+  "source_url": "https://www.spp.gov.cn/llyj/201705/t20170522_191151.shtml",
+  "fetched_at": "2026-07-07T09:37:17+08:00",
+  "title": "多元监管保障单用途预付卡资金安全_中华人民共和国最高人民检察院",
+  "author": "刘淑娟",
+  "publish_date": null,
+  "language": null,
+  "raw_html_path": "_raw/001-raw.html",
+  "raw_html_size": 35262,
+  "raw_html_sha256": "550833f8",
+  "dedup_hash": "ac79a65b",
+  "source_page_links": [
+    {
+      "text": "(no-text)",
+      "href": "https://mail.spp.gov.cn/"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://weibo.com/sppcn?topnav=1&wvr=6&topsug=1&is_all=1"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://3g.k.sohu.com/t/pf5826250648924368959"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://view.inews.qq.com/media/5086837"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://c.m.163.com/news/sub/T1447659102268.html?spss=newsapp"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://wap.peopleapp.com/rmh/3"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://profile.zjurl.cn/rogue/ugc/profile/?version_code=769&version_name=70609&user_id=3640241275&media_id=3670315556&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://www.zhihu.com/people/3003be65a8f608007d4aaaab1a8b55da"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://www.thepaper.cn/gov_89605"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://mr.baidu.com/r/czkk5y5?f=cp&u=12e3fd1c6dfe8953"
+    },
+    {
+      "text": "(no-text)",
+      "href": "https://v.douyin.com/3UwwR3/"
+    },
+    {
+      "text": "[ 中文版 ]",
+      "href": "https://www.spp.gov.cn/"
+    },
+    {
+      "text": "[ English ]",
+      "href": "https://en.spp.gov.cn/"
+    },
+    {
+      "text": "内部邮箱",
+      "href": "https://mail.spp.gov.cn/"
+    },
+    {
+      "text": "首页",
+      "href": "https://www.spp.gov.cn"
+    },
+    {
+      "text": "机构设置",
+      "href": "https://www.spp.gov.cn/spp/jgsz/index.shtml"
+    },
+    {
+      "text": "最高人民检察院简介",
+      "href": "https://www.spp.gov.cn/spp/rmjcyjj/index.shtml"
+    },
+    {
+      "text": "机构设置",
+      "href": "https://www.spp.gov.cn/spp/jgsz/index.shtml"
+    },
+    {
+      "text": "最高检机构",
+      "href": "https://www.spp.gov.cn/spp/gjyjg/index.shtml"
+    },
+    {
+      "text": "检察新闻",
+      "href": "https://www.spp.gov.cn/spp/jcxw/index.shtml"
+    },
+    {
+      "text": "最高检新闻",
+      "href": "https://www.spp.gov.cn/spp/gjybs/index.shtml"
+    },
+    {
+      "text": "权威发布",
+      "href": "https://www.spp.gov.cn/spp/qwfb/index.shtml"
+    },
+    {
+      "text": "新闻发布会",
+      "href": "https://www.spp.gov.cn/spp/xwfbh/index.shtml"
+    },
+    {
+      "text": "网上发布厅",
+      "href": "https://www.spp.gov.cn/spp/wsfbt/index.shtml"
+    },
+    {
+      "text": "直播访谈",
+      "href": "https://www.spp.gov.cn/spp/zbft/index.shtml"
+    },
+    {
+      "text": "视频",
+      "href": "https://www.spp.gov.cn/spp/sp/index.shtml"
+    },
+    {
+      "text": "法治文化",
+      "href": "https://www.spp.gov.cn/fzwh/index.shtml"
+    },
+    {
+      "text": "工作信息",
+      "href": "https://www.spp.gov.cn/spp/gzxx/index.shtml"
+    },
+    {
+      "text": "工作报告",
+      "href": "https://www.spp.gov.cn/spp/gzbg/index.shtml"
+    },
+    {
+      "text": "专项报告",
+      "href": "https://www.spp.gov.cn/spp/zxbg/index.shtml"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 100.0,
+  "denoise_status": "ok"
+}

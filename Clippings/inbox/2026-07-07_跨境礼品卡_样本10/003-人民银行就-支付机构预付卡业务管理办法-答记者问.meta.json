@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.pbc.gov.cn/zhifujiesuansi/128525/128527/2873001/index.html",
+  "fetched_at": "2026-07-07T09:37:30+08:00",
+  "title": "人民银行就《支付机构预付卡业务管理办法》答记者问",
+  "author": "白力",
+  "publish_date": "2012-09-27",
+  "language": null,
+  "raw_html_path": "_raw/003-raw.html",
+  "raw_html_size": 48083,
+  "raw_html_sha256": "57607599",
+  "dedup_hash": "092b4c4f",
+  "source_page_links": [
+    {
+      "text": "RSS订阅",
+      "href": "https://www.pbc.gov.cn/goutongjiaoliu/113456/2986536/index.html"
+    },
+    {
+      "text": "手机用户",
+      "href": "http://"
+    },
+    {
+      "text": "English Version",
+      "href": "https://www.pbc.gov.cn/en/3688006/index.html"
+    },
+    {
+      "text": "图文直播",
+      "href": "https://wzdt.pbc.gov.cn/eportal/ui?pageId=bde29aa120e34c788e51f3f83400b91d"
+    },
+    {
+      "text": "网上调查",
+      "href": "https://wzdt.pbc.gov.cn/eportal/ui?pageId=fb1f1bed342546daac452890e16b5059"
+    },
+    {
+      "text": "京ICP备05073439号",
+      "href": "https://beian.miit.gov.cn/"
+    },
+    {
+      "text": "京公网安备 11010202000016号",
+      "href": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000016"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 100.0,
+  "denoise_status": "ok"
+}

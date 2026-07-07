@@ -1,0 +1,21 @@
+{
+  "source_url": "https://news.qq.com/rain/a/20251010A061ZL00",
+  "fetched_at": "2026-07-07T09:37:42+08:00",
+  "title": "预付卡与跨境支付成雷区，拉卡拉等五家支付公司遭监管重拳_腾讯新闻",
+  "author": "腾讯网",
+  "publish_date": "2025-10-10",
+  "language": "zh-CN",
+  "raw_html_path": "_raw/006-raw.html",
+  "raw_html_size": 65205,
+  "raw_html_sha256": "f10fe87a",
+  "dedup_hash": "e9cb22d7",
+  "source_page_links": [
+    {
+      "text": "WEMONEY研究室",
+      "href": "https://news.qq.com/omn/author/8QMc13ld6YMUuzk%3D"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 100.0,
+  "denoise_status": "ok"
+}

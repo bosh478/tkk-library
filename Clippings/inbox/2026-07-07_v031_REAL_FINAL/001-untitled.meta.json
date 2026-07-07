@@ -1,0 +1,16 @@
+{
+  "source_url": "http://localhost:18888/local-test.pdf",
+  "fetched_at": "2026-07-07T10:57:08+08:00",
+  "title": "untitled",
+  "author": null,
+  "publish_date": null,
+  "language": null,
+  "raw_html_path": "_raw/001-raw.pdf",
+  "raw_html_size": 1864,
+  "raw_html_sha256": "8ac6c4bf",
+  "dedup_hash": "87a1a215",
+  "source_page_links": [],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "pdftotext_ok"
+}

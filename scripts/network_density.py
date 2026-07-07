@@ -10,7 +10,16 @@ import re
 from pathlib import Path
 from collections import defaultdict
 
-VAULT_PATH = Path("D:/AI agent/tkk-library/wiki")
+def _resolve_vault_path():
+    """默认 ~/tkk-library/wiki；否则脚本相对 ./wiki；支持环境变量 TKK_VAULT。"""
+    import os
+    env = os.environ.get("TKK_VAULT")
+    if env:
+        return Path(env)
+    p = Path.home() / "tkk-library" / "wiki"
+    if p.is_dir():
+        return p
+    return Path(__file__).parent.parent / "wiki"
 
 def count_links_and_refs():
     stats = {
@@ -131,4 +140,5 @@ def main():
     return stats
 
 if __name__ == '__main__':
+    VAULT_PATH = _resolve_vault_path()
     main()

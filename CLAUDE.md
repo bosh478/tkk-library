@@ -492,3 +492,31 @@ Phase 2 不合格 → 返回 Phase 1 返工，不得跳过。
 - 未核实新解释条文就声称旧解释被"替代"或"失效"
 
 **硬性规定**：不确定时主动向用户核验，**严禁编造法律条文内容**
+
+---
+
+## 🗄️ 远端备份说明(2026-07-02 落地)
+
+> **本仓库( `tkk-library` )的角色**:
+> - 完整 Obsidian vault 仓库
+> - 远端:`git@github.com:bosh478/tkk-library.git`(Private)
+> - 本地 `wiki/` 目录 = wiki 知识资产的 **source-of-truth**
+
+> **wiki 知识资产另有独立远端备份**:
+> - 仓库:`https://github.com/bosh478/tkk-wiki`(Private)
+> - 路径:`/home/kangkang/tkk-library/wiki/`
+> - 首次 commit:`2b888cb`(12,205 文件 / 8.65 MB)
+> - 排除 `.cache/` `.drafts/` `.checkpoints/`
+
+> **平时怎么 push**:
+> ```bash
+> wiki-push.sh                       # 弹窗输入 message
+> wiki-push.sh -m "vault: <改动描述>"  # 自动化
+> ```
+> 脚本位置:`~/.codex-staging/bin/wiki-push.sh`(2026-07-02 添加到 `$PATH`)
+
+> **两个仓库的关系**:
+> - `tkk-library` = vault 整盘(包括 Clippings 原始素材、scripts、.obsidian/ 配置)
+> - `tkk-wiki` = **只备份 wiki/**(只包含法条 / 概念 / 制度 / 司法解释 / 业务指引,agent 高频使用)
+> - **两库互不嵌套,各 commit 各 push**
+> - 灾难恢复命令(任一仓库):`git clone git@github.com:bosh478/tkk-wiki.git`

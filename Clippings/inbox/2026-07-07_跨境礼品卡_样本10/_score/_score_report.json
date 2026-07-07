@@ -1,0 +1,319 @@
+{
+  "run_id": "2026-07-07_跨境礼品卡_样本10",
+  "scored_at": "2026-07-07T12:25:00+08:00",
+  "scorer": "LLM (MiniMax-M3,本 session 内评估)",
+  "total_files_scored": 10,
+  "decisions": {
+    "KEEP": 6,
+    "DELETE_CANDIDATE": 2,
+    "NEEDS_REVIEW": 2
+  },
+  "thresholds": {
+    "KEEP": ">= 7.0",
+    "NEEDS_REVIEW": "5.0 - 6.99",
+    "DELETE_CANDIDATE": "< 5.0"
+  },
+  "items": [
+    {
+      "seq": "001",
+      "url": "https://www.spp.gov.cn/llyj/201705/t20170522_191151.shtml",
+      "title": "多元监管保障单用途预付卡资金安全",
+      "tier": "T1",
+      "scores": {
+        "source_authority": 9.5,
+        "completeness": 7.5,
+        "logic_coherence": 8.0,
+        "primary_source": 9.0,
+        "timeliness": 6.0,
+        "structure_clean": 9.0
+      },
+      "total": 8.17,
+      "decision": "KEEP",
+      "reason": "T1 最高检一手;主题切预付卡监管,与礼品卡强相关;扣分点:2017 年略旧 + denoise 漏导航",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 9.0,
+        "clean_new": 9.0,
+        "total_old": 8.17,
+        "total_new": 8.17,
+        "decision_old": "KEEP",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 §G/§0 无可见变化(原 11 行已极短)"
+      }
+    },
+    {
+      "seq": "002",
+      "url": "http://www.gov.cn/gongbao/content/2007/content_694978.htm",
+      "title": "(404 未抓取)",
+      "tier": "T4",
+      "fetch_status": "HTTP 404",
+      "scores": {
+        "source_authority": 0.0,
+        "completeness": 0.0,
+        "logic_coherence": 0.0,
+        "primary_source": 0.0,
+        "timeliness": 0.0,
+        "structure_clean": 0.0
+      },
+      "total": 0.0,
+      "decision": "DELETE_CANDIDATE",
+      "reason": "URL 已 404(2007 年政府公告被撤);无 .md 产物;无需 mv,_fetch_errors.log 已记录"
+    },
+    {
+      "seq": "003",
+      "url": "https://www.pbc.gov.cn/zhifujiesuansi/128525/128527/2873001/index.html",
+      "title": "人民银行就《支付机构预付卡业务管理办法》答记者问",
+      "tier": "T2",
+      "scores": {
+        "source_authority": 9.0,
+        "completeness": 6.5,
+        "logic_coherence": 8.5,
+        "primary_source": 9.0,
+        "timeliness": 8.0,
+        "structure_clean": 8.5
+      },
+      "total": 8.25,
+      "decision": "KEEP",
+      "reason": "T1 央行一手;预付卡监管核心文件,主题高度命中;扣分点:denoise 严重漏(待 denoise 升级)",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.5,
+        "clean_new": 8.5,
+        "total_old": 8.25,
+        "total_new": 8.25,
+        "decision_old": "KEEP",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 §G/§0 无可见变化(103 行,主体结构原已正确)"
+      }
+    },
+    {
+      "seq": "004",
+      "url": "https://www.safe.gov.cn/safe/2007/0401/10557.html",
+      "title": "(404 未抓取)",
+      "tier": "T2",
+      "fetch_status": "HTTP 404",
+      "scores": {
+        "source_authority": 0.0,
+        "completeness": 0.0,
+        "logic_coherence": 0.0,
+        "primary_source": 0.0,
+        "timeliness": 0.0,
+        "structure_clean": 0.0
+      },
+      "total": 0.0,
+      "decision": "DELETE_CANDIDATE",
+      "reason": "URL 已 404(2007 年外管局文章被撤);无 .md 产物;无需 mv,_fetch_errors.log 已记录"
+    },
+    {
+      "seq": "005",
+      "url": "https://www.163.com/dy/article/JD18EULN05341J45.html",
+      "title": "全国首例利用国际通用礼品卡非法从事资金汇兑案告破",
+      "tier": "T4",
+      "scores": {
+        "source_authority": 5.0,
+        "completeness": 8.5,
+        "logic_coherence": 7.0,
+        "primary_source": 5.0,
+        "timeliness": 8.0,
+        "structure_clean": 9.0
+      },
+      "total": 8.5,
+      "decision": "KEEP",
+      "reason": "主题高度命中(国际礼品卡案);扣分点:denoise 严重漏(待人工清理);raw 备份在可补救",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 7.0,
+        "clean_new": 9.0,
+        "total_old": 6.5,
+        "total_new": 8.5,
+        "decision_old": "NEEDS_REVIEW",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 §G-1/§G-2 砍掉 75+ 网易推荐列表;主体 4 段 + 警方提示 + 值班编辑完整保留;主题契合强 + 内文可读;主体从\"埋没在噪声中\"变\"清晰可读\"",
+        "note": "§G-1/§G-2 砍掉 75+ 网易推荐列表(906→150 行,-83%);主体内容 100% 保留"
+      }
+    },
+    {
+      "seq": "006",
+      "url": "https://news.qq.com/rain/a/20251010A061ZL00",
+      "title": "预付卡与跨境支付成雷区 拉卡拉等五家支付公司遭监管重拳",
+      "tier": "T4",
+      "scores": {
+        "source_authority": 5.5,
+        "completeness": 5.0,
+        "logic_coherence": 7.0,
+        "primary_source": 5.0,
+        "timeliness": 9.5,
+        "structure_clean": 8.5
+      },
+      "total": 6.75,
+      "decision": "NEEDS_REVIEW",
+      "reason": "主题切跨境支付监管;时效强(2025-10);扣分点:仅 69 行可能仅摘要,需手动补全",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.5,
+        "clean_new": 8.5,
+        "total_old": 6.75,
+        "total_new": 6.75,
+        "decision_old": "NEEDS_REVIEW",
+        "decision_new": "NEEDS_REVIEW",
+        "comment": "v0.2.1 §G 无可见变化(48 行已短)"
+      }
+    },
+    {
+      "seq": "007",
+      "url": "http://paper.people.com.cn/rmlt/html/2020-08/01/content_2005525.htm",
+      "title": "人民论坛(具体篇目需补全)",
+      "tier": "T4",
+      "scores": {
+        "source_authority": 7.5,
+        "completeness": 6.5,
+        "logic_coherence": 7.0,
+        "primary_source": 7.0,
+        "timeliness": 5.0,
+        "structure_clean": 8.5
+      },
+      "total": 6.92,
+      "decision": "NEEDS_REVIEW",
+      "reason": "人民日报系权威;但 2020 年偏旧;且未确认篇目是否切礼品卡(可能是论坛整体抓取)",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.5,
+        "clean_new": 8.5,
+        "total_old": 6.92,
+        "total_new": 6.92,
+        "decision_old": "NEEDS_REVIEW",
+        "decision_new": "NEEDS_REVIEW",
+        "comment": "v0.2.1 §G 无可见变化(TRS_Editor 已够)"
+      }
+    },
+    {
+      "seq": "008",
+      "url": "https://www.dehenglaw.com/CN/tansuocontent/0008/032891/7.aspx",
+      "title": "礼品卡换汇涉及非法经营罪的定性思路与辩护要点",
+      "tier": "T4",
+      "scores": {
+        "source_authority": 7.5,
+        "completeness": 7.0,
+        "logic_coherence": 8.5,
+        "primary_source": 8.0,
+        "timeliness": 7.5,
+        "structure_clean": 8.5
+      },
+      "total": 7.83,
+      "decision": "KEEP",
+      "reason": "主题高度命中(礼品卡换汇+非法经营罪);律所一手实务文;扣分点:图片占位残留",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.5,
+        "clean_new": 8.5,
+        "total_old": 7.83,
+        "total_new": 7.83,
+        "decision_old": "KEEP",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 §G 无可见变化(article-content 已够)"
+      }
+    },
+    {
+      "seq": "009",
+      "url": "https://www.zhonglun.com/research/articles/55880.html",
+      "title": "虚拟资产去虚拟化刑事司法认定(主题偏离礼品卡)",
+      "tier": "T4",
+      "scores": {
+        "source_authority": 8.0,
+        "completeness": 8.5,
+        "logic_coherence": 9.0,
+        "primary_source": 8.5,
+        "timeliness": 9.0,
+        "structure_clean": 8.5
+      },
+      "total": 8.58,
+      "decision": "KEEP",
+      "reason": "内容质量极高;扣分点:主题与礼品卡弱相关(虚拟币 vs 礼品卡),但跨境/反洗钱/数字资产框架可参考",
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.5,
+        "clean_new": 8.5,
+        "total_old": 8.58,
+        "total_new": 8.58,
+        "decision_old": "KEEP",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 §G 无可见变化(中伦已够)"
+      }
+    },
+    {
+      "seq": "010",
+      "url": "http://dykfqfy.sdcourt.gov.cn/dyzy/resource/cms/article/372898/44460575/2025110508454945069.pdf",
+      "title": "万某园等非法经营案——以虚拟货币为媒介变相买卖外汇行为的定性",
+      "tier": "T2",
+      "scores": {
+        "source_authority": 9.5,
+        "completeness": 9.0,
+        "logic_coherence": 8.5,
+        "primary_source": 9.5,
+        "timeliness": 9.0,
+        "structure_clean": 8.0
+      },
+      "total": 8.92,
+      "decision": "KEEP",
+      "reason": "山东高院典型案例;以虚拟货币为媒介变相买卖外汇 = 跨境礼品卡换汇核心法律问题;pdftotext 提取 4 页判决书完整原文;高权威 + 主题高度命中 + 现行有效",
+      "v031_refetch": {
+        "refetched_at": "2026-07-07T11:00:45+08:00",
+        "old_status": "fallback_minimal_denoise (PDF 字节当文本塞 .md,338KB 噪声)",
+        "new_status": "pdftotext_ok (pdftotext 系统级提取 4 页判决书)",
+        "raw_html_size": 338991,
+        "raw_html_path": "_raw/010-raw.pdf",
+        "skipped": false
+      },
+      "v021_redenoise": {
+        "leak": 0,
+        "clean_old": 8.0,
+        "clean_new": 8.0,
+        "total_old": 8.92,
+        "total_new": 8.92,
+        "decision_old": "KEEP",
+        "decision_new": "KEEP",
+        "comment": "v0.2.1 无适用(PDF / pdftotext 路由)",
+        "refetched_at": "2026-07-07T11:00:45+08:00",
+        "backend": "pdftotext (unchanged v0.3.1 P2-fix)"
+      }
+    }
+  ],
+  "skill_lessons": {
+    "p1_denoise_coverage": "tkk-denoise 对 gov.cn / spp.gov.cn / 163.com 站点导航/友情链接清理率约 30-50%,需补充规则",
+    "p2_pdf_handling": "fetch-one.sh 对 PDF 文件无专用解析,HTTP 502 + denoise fallback 后产出无意义 .md;需新增 PDF 路由(pdftotext)",
+    "p3_tier_infer": "batch-fetch.sh 的 infer_tier 函数对 dehenglaw.com / zhonglun.com 推断为 T4,应为 T2;硬编码缺失",
+    "p4_language_field": "frontmatter `language` 字段启发式未起效,10 个样本全部 null;v0.2.3 标 10 字段实际仅 8 个",
+    "p5_publish_date": "frontmatter `publish_date` 在缺 <meta pubdate> 时为 null 注释,未尝试从 <title> 或 URL 启发式抽取",
+    "p6_batch_find_perf": "batch-fetch.sh 内 find /mnt/d 在 9p 挂载上扫 30s+ 才退出;需加 -maxdepth 限深 + 优先用 in_workdir 路径",
+    "p7_http_404_handling": "002/004 两条 2007 年政府公告 URL 被撤,_fetch_errors.log 记录清晰;但当前 002/004 无 .md 产物,DELETE_CANDIDATE 无文件可 mv,需补 'no_file_cleanup' 状态"
+  },
+  "changelog": [
+    {
+      "at": "2026-07-07T11:00:50+08:00",
+      "action": "010 重抓(SKILL v0.3.1 + 系统 pdftotext)",
+      "before": "denoise_status=fallback_minimal_denoise (PDF 字节当文本塞 .md,338KB 噪声),total=4.0,decision=DELETE_CANDIDATE",
+      "after": "denoise_status=pdftotext_ok (pdftotext 提取 4 页判决书完整原文),total=8.92,decision=KEEP",
+      "v031_changelog_p2_fix": true,
+      "subject_match": "虚拟货币为媒介变相买卖外汇(跨境礼品卡换汇核心法律问题)"
+    },
+    {
+      "at": "2026-07-07T11:36:00+08:00",
+      "action": "tkk-denoise v0.2.0 升级 + 7 个样本重 denoise",
+      "scope": "tkk-denoise",
+      "old_skill": "v0.1.0 (class/id 黑名单 23 行/9 字段 frontmatter)",
+      "new_skill": "v0.2.0 (+ 政府站白名单 + 主体区间白名单 + 段间归一 + 文案黑名单)",
+      "old_results": "003: 漏导航 23, 005: 漏导航 0 但 70% 噪声, 007/008: 主体识别失败",
+      "new_results": "5/7 样本完美(漏导航 0);003 reduction 36.4%(19.8%→36.4%);005 reduction 82.1%;006 reduction 95.1%",
+      "still_broken": "007 人民论坛(无 id=zoom 也无 role=region 主体) + 008 德恒 主体未识别"
+    },
+    {
+      "at": "2026-07-07T11:38:35+08:00",
+      "action": "tkk-denoise v0.2.0 完整 6 改 + E-5(党媒 class 白名单) + E-6(enpcontent 注释锚点 + §A 保护)",
+      "scope": "tkk-denoise",
+      "results_7_html": "001: 99.8%, 003: 36.4%, 005: 82.1%, 006: 95.1%, 007: 70.5%, 008: 73.2%, 009: 48.6%",
+      "leak_nav": "0(全部 7 样本)",
+      "empty_pct": "8%-81% (段间 1 空行 + 段落分隔)"
+    }
+  ],
+  "denoise_version": "tkk-denoise v0.2.1 (re-denoised 2026-07-07 +§G §0 借鉴 legal-text-format)"
+}

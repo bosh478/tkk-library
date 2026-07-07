@@ -1,0 +1,61 @@
+{
+  "source_url": "http://www.hunan.gov.cn/zqt/zcsd/202601/t20260104_33885864.html",
+  "fetched_at": "2026-07-07T16:21:29+08:00",
+  "title": "中国人民银行关于印发《非银行支付机构分类评级管理办法》的通知 -政企通-湖南省人民政府门户网站",
+  "author": null,
+  "publish_date": "2026-01-04",
+  "language": "en",
+  "raw_html_path": "_raw/007-raw.html",
+  "raw_html_size": 49048,
+  "raw_html_sha256": "\\185b7eb",
+  "dedup_hash": "8287013b",
+  "source_page_links": [
+    {
+      "text": "(no-text)",
+      "href": "http://www.hunan.gov.cn/"
+    },
+    {
+      "text": "国家部委网站",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/wzdh/gjbw/dhlj.html"
+    },
+    {
+      "text": "省直政府网站",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/wzdh/gsszf/ssdh.html"
+    },
+    {
+      "text": "省直单位网站",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/wzdh/szdw/szdh.html"
+    },
+    {
+      "text": "市州县区网站",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/wzdh/szxq/sxdh.html"
+    },
+    {
+      "text": "站点地图",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/zddt/index.html"
+    },
+    {
+      "text": "其他",
+      "href": "http://hunan.gov.cn/hnszf/fzlm/wzdh/qt/fzlm_tygl.html"
+    },
+    {
+      "text": "<img\n                    src=\"/zqt/xhtml/images/gv",
+      "href": "http://bszs.conac.cn/sitename?method=show&id=09AF00C813CD41A0E053022819ACB59D"
+    },
+    {
+      "text": "备案号：湘ICP备05000618号",
+      "href": "http://beian.miit.gov.cn"
+    },
+    {
+      "text": "公安机关备案号：43010302000524",
+      "href": "http://www.beian.gov.cn/portal/registerSystemInfo"
+    },
+    {
+      "text": "<img\n                                src=\"http://w",
+      "href": "http://www.hunan.gov.cn/hnszf/fzlm/wap/index.html"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "ok"
+}

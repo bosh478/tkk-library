@@ -1,0 +1,16 @@
+# === tkk-wiki 备份排除规则(2026-07-02) ===
+#
+# .cache/         RAG 检索 corpus 派生缓存,可由 wiki/concepts/ 的 markdown 重建
+# .drafts/        未完成草稿(ingest 中间产物)
+# .checkpoints/   lint 运行期缓存(每次 lint 都会重写,污染 commit 历史)
+
+.cache/
+.drafts/
+.checkpoints/
+
+# === 通用兜底 ===
+*.swp
+.DS_Store
+Thumbs.db
+*~
+*.tmp

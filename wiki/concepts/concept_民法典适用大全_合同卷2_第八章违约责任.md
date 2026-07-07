@@ -14,6 +14,7 @@ line-refs: 民法典适用大全合同卷2 2023年 557-656.md L2849-L5210
 effective_status: 现行有效
 effective_date: 2021-01-01
 chapter_articles: [577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594]
+extraction_status: complete
 ---
 
 # 民法典合同编第八章【违约责任】综合

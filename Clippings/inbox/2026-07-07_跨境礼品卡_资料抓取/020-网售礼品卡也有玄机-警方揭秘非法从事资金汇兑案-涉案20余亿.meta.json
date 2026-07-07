@@ -1,0 +1,25 @@
+{
+  "source_url": "https://m.bjnews.com.cn/detail/1727320413129864.html",
+  "fetched_at": "2026-07-07T16:27:40+08:00",
+  "title": "网售礼品卡也有玄机！警方揭秘非法从事资金汇兑案，涉案20余亿",
+  "author": null,
+  "publish_date": null,
+  "language": null,
+  "raw_html_path": "_raw/020-raw.html",
+  "raw_html_size": 50725,
+  "raw_html_sha256": "\\88ee0c6",
+  "dedup_hash": "f9ffe1b9",
+  "source_page_links": [
+    {
+      "text": "(no-text)",
+      "href": "https://m.bjnews.com.cn/homepage/index?user_id=633"
+    },
+    {
+      "text": "记者主页",
+      "href": "https://m.bjnews.com.cn/homepage/index?user_id=633"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "ok"
+}

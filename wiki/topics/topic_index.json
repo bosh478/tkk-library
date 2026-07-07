@@ -1,6 +1,6 @@
 {
   "version": "1.0 +2026-06-27-mfd-incr",
-  "generated": "2026-06-27T00:15:00+08:00",
+  "generated": "2026-07-03",
   "total_topics": 155,
   "topics": {
     "受贿罪": {
@@ -15236,6 +15236,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/50 关于印发最高人民检察院第五十批指导性案例的通知.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -15243,7 +15247,7 @@
         "wiki\\syntheses\\synthesis_帮信罪司法认定_普通案例分析.md",
         "wiki\\syntheses\\synthesis_洗钱罪司法认定_普通案例分析.md"
       ],
-      "source_count": 70
+      "source_count": 71
     },
     "走私罪": {
       "source_files": [
@@ -18726,6 +18730,10 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -18743,7 +18751,7 @@
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md",
         "wiki\\syntheses\\synthesis_被害人过错责任提取与界定_梁爽_王蓉_2023.md"
       ],
-      "source_count": 134
+      "source_count": 135
     },
     "紧急避险": {
       "source_files": [
@@ -19050,6 +19058,10 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -19057,7 +19069,7 @@
         "wiki\\entities\\entity_民法典总则编若干问题的解释.md",
         "wiki\\entities\\entity_民法典总则编解释.md"
       ],
-      "source_count": 76
+      "source_count": 77
     },
     "见义勇为": {
       "source_files": [
@@ -28993,6 +29005,14 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -29029,7 +29049,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_005.md",
         "wiki\\syntheses\\Synthesis_道路交通事故损害赔偿典型案例.md"
       ],
-      "source_count": 804
+      "source_count": 806
     },
     "精神损害赔偿": {
       "source_files": [
@@ -29532,6 +29552,10 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -29544,7 +29568,7 @@
         "wiki\\summaries\\summary_Court_FaDaWang_36法答网精选答问第三十六批国家赔偿专题.md",
         "wiki\\summaries\\summary_检答网集萃84_刑事赔偿案件中，精神损害抚慰金计算的法律依据是什么？.md"
       ],
-      "source_count": 125
+      "source_count": 126
     },
     "惩罚性赔偿": {
       "source_files": [
@@ -30679,6 +30703,10 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -30707,7 +30735,7 @@
         "wiki\\summaries\\summary_Court_RukuAnli_2025-07-24_[2025-07-24]入库参考案例解读全国首例职业闭店人承担民事赔偿案的法理分析.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_011.md"
       ],
-      "source_count": 283
+      "source_count": 284
     },
     "产品责任": {
       "source_files": [
@@ -34049,6 +34077,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/28第二十八批指导性案例-中华人民共和国最高人民检察院.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -34056,7 +34088,7 @@
         "wiki\\entities\\entity_法发2023_5号_碳达峰碳中和司法服务的意见.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_005.md"
       ],
-      "source_count": 178
+      "source_count": 177
     },
     "留置权": {
       "source_files": [
@@ -40769,6 +40801,14 @@
         {
           "path": "sources/1-专题研究/监外执行/20191230_人民检察院刑事诉讼规则（2019）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -40797,7 +40837,7 @@
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md",
         "wiki\\summaries\\summary_检答网集萃96_被告人认罪不认罚是否可以建议法院适用简易程序.md"
       ],
-      "source_count": 256
+      "source_count": 258
     },
     "刑事和解": {
       "source_files": [
@@ -43739,6 +43779,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20240701_国家安全机关办理刑事案件程序规定.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -43802,7 +43846,7 @@
         "wiki\\summaries\\summary_检答网集萃98_犯罪时为限制行为能力人，审查起诉时无行为能力如何处理.md",
         "wiki\\syntheses\\synthesis_危害生产安全犯罪典型案例_最高检最高法_2022.md"
       ],
-      "source_count": 557
+      "source_count": 558
     },
     "取保候审": {
       "source_files": [
@@ -54443,6 +54487,26 @@
         {
           "path": "wiki/concepts/concept_纪检监察办案程序一本通_高建_2023.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -54569,7 +54633,7 @@
         "wiki\\syntheses\\ShanghaiCourt_Finance_2025_Top10.md",
         "wiki\\syntheses\\synthesis_洗钱罪司法认定_普通案例分析.md"
       ],
-      "source_count": 1267
+      "source_count": 1272
     },
     "回避": {
       "source_files": [
@@ -56176,6 +56240,34 @@
         {
           "path": "sources/1-专题研究/监外执行/20260101_中华人民共和国治安管理处罚法（2025年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何讨论_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -56204,7 +56296,7 @@
         "wiki\\summaries\\summary_检答网集萃3_如何理解强制猥亵罪中的强制等两问两答.md",
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md"
       ],
-      "source_count": 401
+      "source_count": 408
     },
     "证据规则": {
       "source_files": [
@@ -57035,6 +57127,18 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第86辑_最高法民一庭_2021.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -57047,7 +57151,7 @@
         "wiki\\summaries\\summary_Summary_建设工程施工合同纠纷事实查明的思路与方法.md",
         "wiki\\syntheses\\synthesis_被害人过错责任提取与界定_梁爽_王蓉_2023.md"
       ],
-      "source_count": 207
+      "source_count": 210
     },
     "非法证据排除": {
       "source_files": [
@@ -57386,13 +57490,29 @@
         {
           "path": "sources/1-专题研究/监外执行/20210301_最高人民法院关于适用《中华人民共和国刑事诉讼法》的解释（2021年）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何庭审_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_关于办理刑事案件严格排除非法证据若干问题的规定.md",
         "wiki\\entities\\entity_法发2024_12号_办理刑事案件庭前会议规程和排除非法证据规程.md"
       ],
-      "source_count": 84
+      "source_count": 88
     },
     "上诉不加刑": {
       "source_files": [
@@ -57801,6 +57921,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20210301_最高人民法院关于适用《中华人民共和国刑事诉讼法》的解释（2021年）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -57808,7 +57932,7 @@
         "wiki\\entities\\entity_最高人民法院、司法部印发《关于为死刑复核案件被告人依法提供法律援助的规定（试行）》的通知.md",
         "wiki\\entities\\entity_法2021_348号_死刑复核法律援助规定.md"
       ],
-      "source_count": 58
+      "source_count": 59
     },
     "审判监督": {
       "source_files": [
@@ -72026,6 +72150,26 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -72699,7 +72843,7 @@
         "wiki\\syntheses\\SPP_GuideCase_检例第2号.md",
         "wiki\\syntheses\\SPP_GuideCase_检例第32号.md"
       ],
-      "source_count": 2237
+      "source_count": 2242
     },
     "管辖权异议": {
       "source_files": [
@@ -81622,6 +81766,30 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -81916,7 +82084,7 @@
         "wiki\\syntheses\\ShanghaiCourt_Labor_003.md",
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md"
       ],
-      "source_count": 903
+      "source_count": 909
     },
     "调解": {
       "source_files": [
@@ -87139,6 +87307,18 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -87235,7 +87415,7 @@
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md",
         "wiki\\syntheses\\Synthesis_道交纠纷实质化解答记者问.md"
       ],
-      "source_count": 1305
+      "source_count": 1308
     },
     "人民调解": {
       "source_files": [
@@ -88479,6 +88659,10 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -88495,7 +88679,7 @@
         "wiki\\summaries\\summary_20210624_律师从事调解业务操作指引2021.md",
         "wiki\\summaries\\summary_20240327_律师从事劳动争议调解业务操作指引2024.md"
       ],
-      "source_count": 142
+      "source_count": 143
     },
     "公益诉讼": {
       "source_files": [
@@ -96459,6 +96643,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20260101_中华人民共和国治安管理处罚法（2025年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_商标审查审理指南_国家知识产权局_2021_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -96529,7 +96717,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_006.md",
         "wiki\\syntheses\\ShanghaiCourt_Labor_003.md"
       ],
-      "source_count": 1047
+      "source_count": 1048
     },
     "行政许可": {
       "source_files": [
@@ -98306,6 +98494,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20260101_中华人民共和国治安管理处罚法（2025年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -98315,7 +98507,7 @@
         "wiki\\summaries\\summary_宁博_非典型行政处罚识别与认定_2026.md",
         "wiki\\summaries\\summary_检答网集萃110_行政处罚类案件催告时间如何认定.md"
       ],
-      "source_count": 170
+      "source_count": 171
     },
     "行政复议": {
       "source_files": [
@@ -103035,6 +103227,14 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -103145,7 +103345,7 @@
         "wiki\\summaries\\summary_检答网集萃83_如何理解社区矫正取消“两个八小时”的规定.md",
         "wiki\\syntheses\\ShanghaiCourt_Admin_001.md"
       ],
-      "source_count": 867
+      "source_count": 869
     },
     "政府信息公开": {
       "source_files": [
@@ -109929,6 +110129,22 @@
         {
           "path": "sources/1-专题研究/监外执行/关于进一步加强社区矫正工作衔接配合管理的意见.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何庭审_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -110127,7 +110343,7 @@
         "wiki\\syntheses\\synthesis_赵雨蝶虐待故意伤害案_典型案例.md",
         "wiki\\syntheses\\Synthesis_长投短退保险套利行为定性.md"
       ],
-      "source_count": 1359
+      "source_count": 1363
     },
     "民法典": {
       "source_files": [
@@ -115558,6 +115774,14 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -115756,7 +115980,7 @@
         "wiki\\concepts\\concept_民法典适用大全_侵权责任卷（二）_第九章饲养动物损害责任.md",
         "wiki\\concepts\\concept_民法典适用大全_侵权责任卷（二）_第十章建筑物和物件损害责任.md"
       ],
-      "source_count": 1357
+      "source_count": 1359
     },
     "刑事诉讼法": {
       "source_files": [
@@ -118603,6 +118827,42 @@
         {
           "path": "sources/1-专题研究/监外执行/附件：罪犯生活不能自理鉴别标准.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何庭审_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -118689,7 +118949,7 @@
         "wiki\\summaries\\summary_检答网集萃99_对暂予监外执行中的哺乳期作何理解.md",
         "wiki\\syntheses\\synthesis_被害人过错责任提取与界定_梁爽_王蓉_2023.md"
       ],
-      "source_count": 711
+      "source_count": 720
     },
     "民事诉讼法": {
       "source_files": [
@@ -125972,6 +126232,22 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -126588,7 +126864,7 @@
         "wiki\\syntheses\\SPP_GuideCase_检例第29号.md",
         "wiki\\syntheses\\SPP_GuideCase_检例第32号.md"
       ],
-      "source_count": 1820
+      "source_count": 1824
     },
     "行政诉讼法": {
       "source_files": [
@@ -128527,6 +128803,14 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -128596,7 +128880,7 @@
         "wiki\\summaries\\summary_检答网集萃63_行政拘留的时间能否在行政诉讼起诉期限内扣除.md",
         "wiki\\summaries\\summary_检答网集萃78_行政拘留的时间能否在行政诉讼起诉期限内扣除.md"
       ],
-      "source_count": 484
+      "source_count": 486
     },
     "公司法": {
       "source_files": [
@@ -134156,6 +134440,10 @@
         {
           "path": "sources/1-专题研究/监外执行/20220107_就业服务与就业管理规定（2022年修订）.txt",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -134174,7 +134462,7 @@
         "wiki\\syntheses\\ShanghaiCourt_Labor_003.md",
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md"
       ],
-      "source_count": 193
+      "source_count": 194
     },
     "消费者权益保护法": {
       "source_files": [
@@ -139317,6 +139605,14 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/48 关于印发最高人民检察院第四十八批指导性案例的通知.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_商标审查审理指南_国家知识产权局_2021_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -139338,7 +139634,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_005.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_006.md"
       ],
-      "source_count": 208
+      "source_count": 210
     },
     "专利法": {
       "source_files": [
@@ -143053,6 +143349,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/48 关于印发最高人民检察院第四十八批指导性案例的通知.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -143089,7 +143389,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_007.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_009.md"
       ],
-      "source_count": 413
+      "source_count": 402
     },
     "专利权": {
       "source_files": [
@@ -144716,6 +145016,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/24最高检发布4件涉非公经济立案监督指导性案例-中华人民共和国最高人民检察.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -144863,7 +145167,7 @@
         "wiki\\syntheses\\SPC_GuideCase_指导案例85号.md",
         "wiki\\syntheses\\SPC_GuideCase_指导案例85号_高仪股份公司诉浙江健龙卫浴有限公司侵害外观设计专利权纠纷案.md"
       ],
-      "source_count": 408
+      "source_count": 407
     },
     "商标权": {
       "source_files": [
@@ -145870,6 +146174,10 @@
         {
           "path": "sources/2-案例库/最高检-指导性案例/48 关于印发最高人民检察院第四十八批指导性案例的通知.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -145885,7 +146193,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_006.md",
         "wiki\\syntheses\\ShanghaiCourt_IP_007.md"
       ],
-      "source_count": 253
+      "source_count": 252
     },
     "商业秘密": {
       "source_files": [
@@ -147972,6 +148280,14 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何庭审_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -148019,7 +148335,7 @@
         "wiki\\syntheses\\ShanghaiCourt_IP_012.md",
         "wiki\\syntheses\\Synthesis_劳动者配偶在竞争企业任职劳动合同解除.md"
       ],
-      "source_count": 521
+      "source_count": 523
     },
     "不正当竞争": {
       "source_files": [
@@ -154339,6 +154655,14 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第87辑_最高法民一庭_2022.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_商标审查审理指南_国家知识产权局_2021_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -154557,7 +154881,7 @@
         "wiki\\syntheses\\SPC_GuideCase_指导案例83号_威海嘉易烤生活家电有限公司诉永康市金仕德工贸有限公司、浙江天猫网络有限公司侵害发明专利权纠纷案.md",
         "wiki\\syntheses\\SPC_GuideCase_指导案例86号_天津天隆种业科技有限公司与江苏徐农种业科技有限公司侵害植物新品种权纠纷案.md"
       ],
-      "source_count": 1130
+      "source_count": 1132
     },
     "法律适用": {
       "source_files": [
@@ -159148,6 +159472,34 @@
         {
           "path": "wiki/syntheses/synthesis_民事审判指导与参考_总第98辑_最高法民一庭_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何讨论_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_开庭_上海一中院_2024_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_国家公诉人出庭指南_最高检三厅_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -159200,7 +159552,7 @@
         "wiki\\syntheses\\synthesis_法官办公室猥亵案分析.md",
         "wiki\\syntheses\\Synthesis_道交纠纷实质化解答记者问.md"
       ],
-      "source_count": 1147
+      "source_count": 1154
     },
     "法律解释": {
       "source_files": [
@@ -159811,13 +160163,21 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何讨论_陈增宝_2023_段级.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
         "wiki\\entities\\entity_最高人民检察院司法解释工作规定（2019修订）.md",
         "wiki\\entities\\entity_最高人民法院关于司法解释工作的规定（2021修正）.md"
       ],
-      "source_count": 152
+      "source_count": 154
     },
     "司法解释": {
       "source_files": [
@@ -166196,6 +166556,34 @@
         {
           "path": "wiki/concepts/concept_侵权责任法教程_程啸_2025.md",
           "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何庭审_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何讨论_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_法官如何阅卷_陈增宝_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_国家公诉人出庭指南_最高检三厅_2023.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_商标审查审理指南_国家知识产权局_2021.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/syntheses/synthesis_开庭_上海一中院_2024.md",
+          "relevance": "high"
+        },
+        {
+          "path": "wiki/concepts/concept_法官如何阅卷_陈增宝_2023_段级.md",
+          "relevance": "high"
         }
       ],
       "wiki_pages": [
@@ -166983,7 +167371,7 @@
         "wiki\\syntheses\\Synthesis_道交纠纷实质化解答记者问.md",
         "wiki\\syntheses\\Synthesis_道交解释二发布会新闻稿.md"
       ],
-      "source_count": 1594
+      "source_count": 1601
     },
     "指导性案例": {
       "source_files": [

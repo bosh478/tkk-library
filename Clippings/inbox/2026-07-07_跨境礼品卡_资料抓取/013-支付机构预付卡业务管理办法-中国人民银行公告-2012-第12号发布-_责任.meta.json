@@ -1,0 +1,21 @@
+{
+  "source_url": "https://fgw.sh.gov.cn/ys-hqjrfw-1.3.3.2-h5/20240821/5bd5ddd242a6460ebefd6327ff1bc129.html",
+  "fetched_at": "2026-07-07T16:24:31+08:00",
+  "title": "《支付机构预付卡业务管理办法》（中国人民银行公告〔2012〕第12号发布）_责任披露、数据使用和争议机制",
+  "author": null,
+  "publish_date": null,
+  "language": "zh",
+  "raw_html_path": "_raw/013-raw.html",
+  "raw_html_size": 22192,
+  "raw_html_sha256": "\\ab83f6a",
+  "dedup_hash": "7de64eee",
+  "source_page_links": [
+    {
+      "text": "1.3.3-②-8《支付机构预付卡业务管理办法》（中国人民银行公告〔2012〕第12号发布）.pdf",
+      "href": "https://fgw.sh.gov.cn/pdf/pdf/web/viewer.html?file=/cmsres/d3/d3e798ed2cb846758fdb635d76d41984/f8fa627c558e6c39059aa2ca39e245a2.pdf"
+    }
+  ],
+  "denoised": true,
+  "denoise_reduction_pct": 0.0,
+  "denoise_status": "fallback_minimal_denoise"
+}
