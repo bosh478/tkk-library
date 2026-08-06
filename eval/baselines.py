@@ -89,7 +89,7 @@ def search_dense_only(client, query_vec, top_k=10) -> List[str]:
 
 
 def _bm25_encode_query(query_text: str) -> Optional[models.SparseVector]:
-    """v4.2: 用持久化 vocab 把 query 编码成 BM25 sparse vector. None 表示 vocab 未加载."""
+    """v5.1: 用 jieba 分词 (替代 char-level) + 持久化 vocab encode."""
     import pickle
     from pathlib import Path
     from collections import Counter
@@ -100,10 +100,17 @@ def _bm25_encode_query(query_text: str) -> Optional[models.SparseVector]:
         with open(VOCAB_PATH, "rb") as f:
             data = pickle.load(f)
         vocab = data["vocab"]
-        # 简单 char-level tokenize, 同 ingest_legal_v2 ZH_TOKEN_PATTERN
-        import re
-        ZH_TOKEN_PATTERN = r"[一-龥]|[A-Za-z0-9]+"
-        tokens = re.findall(ZH_TOKEN_PATTERN, query_text)
+        # v5.1: jieba 分词 (与 ingest 保持一致)
+        try:
+            import jieba
+            dict_path = Path("/home/kangkang/.claude/skills/tkk-legal-ingest/legal_dict.txt")
+            if dict_path.exists():
+                jieba.load_userdict(str(dict_path))
+            tokens = [t.strip() for t in jieba.cut(query_text) if t.strip() and len(t) > 1]
+        except ImportError:
+            # fallback to char-level
+            import re
+            tokens = re.findall(r"[一-龥]|[A-Za-z0-9]+", query_text)
         if not tokens:
             return None
         counter = Counter(tokens)
