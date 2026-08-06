@@ -11,6 +11,16 @@ __pycache__/
 # 临时/草稿目录与文件
 _drafts/
 models/
+rerank_venv/        # tkk-rag 推理服务虚拟环境 (4.6GB, 不可入库)
+_qmd/               # qmd 索引 cache (440MB SQLite)
+*.pdf               # 原始 PDF 不入库（走百度同步盘 / LFS）
+*.docx
+*.doc
+*.epub
+*.mobi
+*.azw3
+*.zip
+*.tar.gz
 
 # 工具运行产物
 scripts/logs/
