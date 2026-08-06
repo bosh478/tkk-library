@@ -88,15 +88,44 @@ def search_dense_only(client, query_vec, top_k=10) -> List[str]:
     return _dedup_paths([r.payload.get("path", "") for r in results.points], top_k)
 
 
+def _bm25_encode_query(query_text: str) -> Optional[models.SparseVector]:
+    """v4.2: 用持久化 vocab 把 query 编码成 BM25 sparse vector. None 表示 vocab 未加载."""
+    import pickle
+    from pathlib import Path
+    from collections import Counter
+    VOCAB_PATH = Path("/home/kangkang/.cache/tkk-legal-ingest/bm25_vocab.pkl")
+    if not VOCAB_PATH.exists():
+        return None
+    try:
+        with open(VOCAB_PATH, "rb") as f:
+            data = pickle.load(f)
+        vocab = data["vocab"]
+        # 简单 char-level tokenize, 同 ingest_legal_v2 ZH_TOKEN_PATTERN
+        import re
+        ZH_TOKEN_PATTERN = r"[一-龥]|[A-Za-z0-9]+"
+        tokens = re.findall(ZH_TOKEN_PATTERN, query_text)
+        if not tokens:
+            return None
+        counter = Counter(tokens)
+        pairs = [(vocab[t], c) for t, c in counter.items() if t in vocab]
+        if not pairs:
+            return None
+        indices, values = zip(*pairs)
+        return models.SparseVector(indices=list(indices), values=[float(v) for v in values])
+    except Exception:
+        return None
+
+
 def search_rrf(client, query_vec, query_text, top_k=10) -> List[str]:
-    """C. RRF hybrid: dense + sparse prefetch, FusionQuery(RRF)"""
+    """C. RRF hybrid: dense + sparse prefetch, FusionQuery(RRF) [v4.2 真启 sparse]"""
+    sparse_query = _bm25_encode_query(query_text)
+    prefetches = [models.Prefetch(query=query_vec, using="dense", limit=20)]
+    if sparse_query is not None:
+        prefetches.append(models.Prefetch(query=sparse_query, using="sparse", limit=20))
     results = client.query_points(
         collection_name=COLLECTION_NAME,
-        prefetch=[
-            models.Prefetch(query=query_vec, using="dense", limit=20),
-        ],
-        query=query_vec,
-        using="dense",
+        prefetch=prefetches,
+        query=models.FusionQuery(fusion=models.Fusion.RRF),
         limit=top_k * 3,
         with_payload=True,
     )
