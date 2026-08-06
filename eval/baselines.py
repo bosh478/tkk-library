@@ -60,22 +60,36 @@ def search_bm25_only(client, query_text, top_k=10) -> List[str]:
     return []
 
 
+def _dedup_paths(paths: List[str], limit: int = 10) -> List[str]:
+    """按 path 去重 (Qdrant 每个 chunk 独立一条 path, 同 md 多个 chunk 重复).
+
+    保留第一次出现的顺序 (即最相关 chunk 优先).
+    """
+    seen = set()
+    out = []
+    for p in paths:
+        if p and p not in seen:
+            seen.add(p)
+            out.append(p)
+        if len(out) >= limit:
+            break
+    return out
+
+
 def search_dense_only(client, query_vec, top_k=10) -> List[str]:
     """B. BGE-M3 dense only: Qdrant dense query"""
     results = client.query_points(
         collection_name=COLLECTION_NAME,
         query=query_vec,
         using="dense",
-        limit=top_k,
+        limit=top_k * 3,  # 多取以保证 dedup 后还有 top_k
         with_payload=True,
     )
-    return [r.payload.get("path", "") for r in results.points]
+    return _dedup_paths([r.payload.get("path", "") for r in results.points], top_k)
 
 
 def search_rrf(client, query_vec, query_text, top_k=10) -> List[str]:
     """C. RRF hybrid: dense + sparse prefetch, FusionQuery(RRF)"""
-    # 由于 BM25 训练结果未序列化, 此处简化用 dense-only + 模拟 sparse
-    # 实际应传 sparse vector
     results = client.query_points(
         collection_name=COLLECTION_NAME,
         prefetch=[
@@ -83,20 +97,20 @@ def search_rrf(client, query_vec, query_text, top_k=10) -> List[str]:
         ],
         query=query_vec,
         using="dense",
-        limit=top_k,
+        limit=top_k * 3,
         with_payload=True,
     )
-    return [r.payload.get("path", "") for r in results.points]
+    return _dedup_paths([r.payload.get("path", "") for r in results.points], top_k)
 
 
 def search_rrf_rerank(client, query_vec, query_text, top_k=10) -> List[str]:
     """D. RRF + rerank: RRF 取 top 20, rerank 选 top 10"""
-    # 1. RRF 取 top 20
+    # 1. RRF 取 top 20 (多取 30 给 rerank + dedup 后仍有 top_k)
     rrf_results = client.query_points(
         collection_name=COLLECTION_NAME,
         query=query_vec,
         using="dense",
-        limit=20,
+        limit=30,
         with_payload=True,
     )
     if not rrf_results.points:
@@ -106,21 +120,21 @@ def search_rrf_rerank(client, query_vec, query_text, top_k=10) -> List[str]:
     try:
         rerank_resp = requests.post(
             f"{RAG_BASE_URL}/rerank",
-            json={"query": query_text, "documents": docs, "top_n": top_k},
+            json={"query": query_text, "documents": docs, "top_n": top_k * 2},
             timeout=30,
         )
         rerank_resp.raise_for_status()
         reranked = rerank_resp.json().get("results", [])
     except Exception as e:
         print(f"  ⚠️ rerank failed: {e}, fallback to RRF")
-        return [r.payload.get("path", "") for r in rrf_results.points[:top_k]]
-    # 3. 把 rerank 结果映回 path
+        return _dedup_paths([r.payload.get("path", "") for r in rrf_results.points], top_k)
+    # 3. 把 rerank 结果映回 path, 再 dedup
     paths = []
     for r in reranked:
         orig_idx = r.get("index", -1)
         if 0 <= orig_idx < len(rrf_results.points):
             paths.append(rrf_results.points[orig_idx].payload.get("path", ""))
-    return paths
+    return _dedup_paths(paths, top_k)
 
 
 # ──────────────────────── 指标 ────────────────────────

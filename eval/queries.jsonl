@@ -1,50 +1,151 @@
-{"query": "四川运用法律监督模型清理涉企刑事挂案", "ground_truth": ["wiki/summaries/summary_20250413_最高检_违规异地执法_四川运用法律监督模型清理涉企刑事挂案.md"], "doc_type": "summary"}
-{"query": "张晗、建策、傅鹰掩饰、隐瞒犯罪所得案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_104辑_1114号_张晗_建策_傅鹰掩饰_隐瞒犯罪所得案.md"], "doc_type": "synthesis"}
-{"query": "从3个维度理解家事纠纷中的“最有利于未成年子女原则”", "ground_truth": ["wiki/summaries/summary_20230320_上海高院_办案心法_从3个维度理解家事纠纷中的“最有利于未成年子女原则”.md"], "doc_type": "summary"}
-{"query": "买卖合同纠纷 第五部分典型情形（第3册 段 23）", "ground_truth": ["wiki/concepts/concept_买卖合同纠纷_段23_第五部分典型情形_第3册.md"], "doc_type": "concept"}
-{"query": "统编教材 涉港澳民商事审判实务和区际司法协助", "ground_truth": ["wiki/concepts/concept_统编教材_涉港澳民商事审判实务和区际司法协助.md"], "doc_type": "concept"}
-{"query": "最高人民法院审理食品药品纠纷案件适用法律若干问题的规定（2021修正）", "ground_truth": ["wiki/entities/entity_最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定（2021修正）.md"], "doc_type": "entity"}
-{"query": "索南欧珠非法猎捕、杀害珍贵、濒危野生动物案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_129辑_UNKNOWN_13号_索南欧珠非法猎捕_杀害珍贵_濒危野生动物案.md"], "doc_type": "synthesis"}
-{"query": "最高人民检察院、公安部逮捕社会危险性条件若干问题的规定（试行）", "ground_truth": ["wiki/entities/entity_最高人民检察院、公安部关于逮捕社会危险性条件若干问题的规定（试行）.md"], "doc_type": "entity"}
-{"query": "最高法院司法观点集成 合同卷 II", "ground_truth": ["wiki/syntheses/TypicalCase_最高法院司法观点集成_合同卷_II_杜万华_2024.md"], "doc_type": "synthesis"}
-{"query": "谭某诉吴某、雒某债权人撤销权纠纷案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-01-2-078-001.md"], "doc_type": "synthesis"}
-{"query": "叶文言、叶文语等盗窃", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_47辑_339号_叶文言、叶文语等盗窃.md"], "doc_type": "synthesis"}
-{"query": "民法典合同编第十六章【保理合同】综合（Articles 751-769）", "ground_truth": ["wiki/concepts/concept_民法典适用大全_合同卷3_第十六章保理合同.md"], "doc_type": "concept"}
-{"query": "刑事审判参考 总第90辑", "ground_truth": ["wiki/summaries/summary_刑事审判参考_总第90辑.md"], "doc_type": "summary"}
-{"query": "刘友祝拐卖妇女案", "ground_truth": ["wiki/syntheses/synthesis_刑事审判参考_总第87辑.md", "wiki/syntheses/Court_刑事审判参考_87辑_第791号_刘友祝拐卖妇女案.md"], "doc_type": "synthesis"}
-{"query": "最高人民法院最高人民检察院办理危害计算机信息系统安全刑事案件应用法律若干问题的解释", "ground_truth": ["wiki/entities/entity_最高人民法院最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释.md"], "doc_type": "entity"}
-{"query": "入库参考案例：李某博集资诈骗案", "ground_truth": ["wiki/summaries/summary_20250327_最高法_入库案例_入库参考案例：李某博集资诈骗案.md"], "doc_type": "summary"}
-{"query": "中华人民共和国科学技术普及法", "ground_truth": ["wiki/concepts/concept_中华人民共和国科学技术普及法.md"], "doc_type": "concept"}
-{"query": "（一）个人非法经营数额在一百万元以上，单位非法经营数额在五百万元以上的；", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_1辑_190号_（一）个人非法经营数额在一百万元以上，单位非法经营数额在五百.md"], "doc_type": "synthesis"}
-{"query": "建设工程施工合同纠纷事实查明的思路与方法理解与适用", "ground_truth": ["wiki/syntheses/synthesis_建设工程施工合同纠纷事实查明的思路与方法.md"], "doc_type": "synthesis"}
-{"query": "宁博 刘天翔：职业病工伤认定决定的合法性审查", "ground_truth": ["wiki/summaries/summary_20221020_上海一中法院_微课程_宁博 刘天翔：职业病工伤认定决定的合法性审查.md"], "doc_type": "summary"}
-{"query": "二审行政裁定书", "ground_truth": ["wiki/syntheses/GuideCase_(拆迁)二审行政裁定书.md"], "doc_type": "synthesis"}
-{"query": "股东积怨十余年，“多输困局”如何破解？", "ground_truth": ["wiki/summaries/summary_20250811_上海二中院_至正法官札记_股东积怨十余年多输困局如何破解.md"], "doc_type": "summary"}
-{"query": "刘某磊诉北海某房地产开发有限公司借款合同纠纷案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-16-2-103-001.md"], "doc_type": "synthesis"}
-{"query": "昆山某成置业有限公司执行转重整案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-18-5-101-006.md"], "doc_type": "synthesis"}
-{"query": "离婚纠纷 代理词写作规范（第5册 段 49）", "ground_truth": ["wiki/concepts/concept_离婚纠纷_段49_代理词写作规范_第5册.md"], "doc_type": "concept"}
-{"query": "全国人大常委会法工委立法规划室副主任王历磊：贯彻实施法治宣传教育法应当做好深度融合这篇文章", "ground_truth": ["wiki/summaries/Summary_前沿法评_2025-10-22_全国人大常委会法工委立法规划室副主任王历磊贯彻实施法治宣传教育法应当做好深度.md"], "doc_type": "summary"}
-{"query": "最高人民法院执行批复理解与适用（上）", "ground_truth": ["wiki/concepts/concept_最高人民法院执行批复理解与适用（上）.md"], "doc_type": "concept"}
-{"query": "杨永保等走私毒品案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_12辑_82号_杨永保等走私毒品案.md"], "doc_type": "synthesis"}
-{"query": "融资租赁合同纠纷精修补完 诉讼时效风险（第1册 段 61）", "ground_truth": ["wiki/concepts/concept_融资租赁合同纠纷精修补完_段61_诉讼时效风险_第1册.md"], "doc_type": "concept"}
-{"query": "最高检发布9个知识产权保护典型案例", "ground_truth": ["wiki/summaries/summary_20250423_最高检_典型案例_最高检发布9个知识产权保护典型案例.md"], "doc_type": "summary"}
-{"query": "再婚老伴的遗嘱", "ground_truth": ["wiki/summaries/summary_上海二中_再婚老伴的遗嘱.md"], "doc_type": "summary"}
-{"query": "外观设计专利侵权 第八部分程序要点（第1册 段 39）", "ground_truth": ["wiki/concepts/concept_外观设计专利侵权_段39_第八部分程序要点_第1册.md"], "doc_type": "concept"}
-{"query": "刑事审判参考 总第82辑", "ground_truth": ["wiki/summaries/summary_刑事审判参考_总第82辑.md"], "doc_type": "summary"}
-{"query": "受遗赠人“接受遗赠”的理解与认定", "ground_truth": ["wiki/summaries/summary_20250224_上海高院_办案心法_受遗赠人“接受遗赠”的理解与认定.md"], "doc_type": "summary"}
-{"query": "张敏贩卖毒品案如何正确认定非法持有毒品罪", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_16辑_105号_张敏贩卖毒品案如何正确认定非法持有毒品罪.md"], "doc_type": "synthesis"}
-{"query": "这些不赡养老人的理由成立吗？| 至正开放麦", "ground_truth": ["wiki/summaries/summary_20230505_上海二中院_至正开放麦_这些不赡养老人的理由成立吗.md"], "doc_type": "summary"}
-{"query": "-直接言词证据为孤证，其他间接证据不能形成完", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_77辑_第657号_-直接言词证据为孤证，其他间接证据不能形成完_整证据链的，应依法作出无罪判决….·罗灿27_覃玉顺强奸、故意杀人案.md"], "doc_type": "synthesis"}
-{"query": "名誉权纠纷 调解与和解规则（第7册 段 25）", "ground_truth": ["wiki/concepts/concept_名誉权纠纷_段25_调解与和解规则_第7册.md"], "doc_type": "concept"}
-{"query": "合同编通则司法解释：违约损失赔偿如何计算 | 至正开放麦", "ground_truth": ["wiki/summaries/summary_20240531_上海二中院_至正开放麦_合同编通则司法解释违约损失赔偿如何计算.md"], "doc_type": "summary"}
-{"query": "纠治小过重罚42万元罚款降到4万元", "ground_truth": ["wiki/summaries/summary_20251218_最高检_违规异地执法_纠治小过重罚42万元罚款降到4万元.md"], "doc_type": "summary"}
-{"query": "从一份人身安全保护令看隐私权保护 | 至正开放麦", "ground_truth": ["wiki/summaries/summary_20230705_上海二中院_至正开放麦_从一份人身安全保护令看隐私权保护.md"], "doc_type": "summary"}
-{"query": "案例89", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_3辑_89号_案例89.md"], "doc_type": "synthesis"}
-{"query": "工伤致残，赔偿款为何5年难兑现？", "ground_truth": ["wiki/summaries/summary_20250921_最高检_今晚九点半_工伤致残_赔偿款为何5年难兑现_.md"], "doc_type": "summary"}
-{"query": "俞志刚绑架案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_63辑_第496号_俞志刚绑架案.md", "wiki/syntheses/synthesis_刑事审判参考_总第63辑.md"], "doc_type": "synthesis"}
-{"query": "人民检察院检察建议工作规定", "ground_truth": ["wiki/entities/entity_人民检察院检察建议工作规定.md"], "doc_type": "entity"}
-{"query": "二审行政判决书", "ground_truth": ["wiki/syntheses/GuideCase_(专利)二审行政判决书.md"], "doc_type": "synthesis"}
-{"query": "保证人承担保证责任诉请的审查（融资租赁合同纠纷）", "ground_truth": ["wiki/concepts/concept_保证人承担保证责任诉请_融资租赁.md", "wiki/concepts/concept_取回租赁物以及余值折算诉请_融资租赁.md", "wiki/concepts/concept_行使抵质押权诉请_融资租赁.md"], "doc_type": "concept"}
-{"query": "中华人民共和国行政诉讼法", "ground_truth": ["wiki/concepts/concept_中华人民共和国行政诉讼法.md"], "doc_type": "concept"}
-{"query": "最高人民检察院关于充分发挥检察职能作用助力打好污染防治攻坚战的通知", "ground_truth": ["wiki/entities/entity_关于充分发挥检察职能作用助力打好污染防治攻坚战的通知.md"], "doc_type": "entity"}
-{"query": "一以牟利为目的向淫秽网站投放广告的行为如何定", "ground_truth": ["wiki/syntheses/Court_刑事审判参考/Court_刑事审判参考_78辑_第668号_一以牟利为目的向淫秽网站投放广告的行为如何定_罪…_刘静坤30_张方耀传播淫秽物品牟利案_1.md"], "doc_type": "synthesis"}
+{"query": "中华人民共和国旅游法", "ground_truth": ["wiki/concepts/concept_中华人民共和国旅游法.md"], "doc_type": "treatise"}
+{"query": "人身保险合同 第十三部分特别程序（第7册 段 75）", "ground_truth": ["wiki/concepts/concept_人身保险合同_段75_第十三部分特别程序_第7册.md"], "doc_type": "treatise"}
+{"query": "名誉权纠纷 总体情况与统计（第7册 段 1）", "ground_truth": ["wiki/concepts/concept_名誉权纠纷_段1_总体情况与统计_第7册.md"], "doc_type": "treatise"}
+{"query": "民法典合同编第二十六章【中介合同】综合（Articles 961-967）", "ground_truth": ["wiki/concepts/concept_民法典适用大全_合同卷5_第二十六章中介合同.md"], "doc_type": "treatise"}
+{"query": "财产保险合同 第三部分法律适用（第3册 段 14）", "ground_truth": ["wiki/concepts/concept_财产保险合同_段14_第三部分法律适用_第3册.md"], "doc_type": "treatise"}
+{"query": "民商事案件立案审查 当事人陈述规则（第8册 段 38）", "ground_truth": ["wiki/concepts/concept_民商事案件立案审查_段38_当事人陈述规则_第8册.md"], "doc_type": "treatise"}
+{"query": "融资租赁合同纠纷精修补完 诉讼时效审查（第1册 段 22）", "ground_truth": ["wiki/concepts/concept_融资租赁合同纠纷精修补完_段22_诉讼时效审查_第1册.md"], "doc_type": "treatise"}
+{"query": "中华人民共和国价格法", "ground_truth": ["wiki/concepts/concept_中华人民共和国价格法.md"], "doc_type": "treatise"}
+{"query": "政府信息公开类案 书证规则与认定（第1册 段 33）", "ground_truth": ["wiki/concepts/concept_政府信息公开类案_段33_书证规则与认定_第1册.md"], "doc_type": "treatise"}
+{"query": "目录体例概览5册v3 当事人诉讼策略（第5册 段 30）", "ground_truth": ["wiki/concepts/concept_目录体例概览5册v3_段30_当事人诉讼策略_第5册.md"], "doc_type": "treatise"}
+{"query": "受贿类案知识缺口标注v3 常见争议焦点类型（第1册 段 24）", "ground_truth": ["wiki/concepts/concept_受贿类案知识缺口标注v3_段24_常见争议焦点类型_第1册.md"], "doc_type": "treatise"}
+{"query": "民间借贷类案 最高法类案同判意见（第2册 段 55）", "ground_truth": ["wiki/concepts/concept_民间借贷类案_段55_最高法类案同判意见_第2册.md"], "doc_type": "treatise"}
+{"query": "继承纠纷 行政诉讼专题（第6册 段 90）", "ground_truth": ["wiki/concepts/concept_继承纠纷_段90_行政诉讼专题_第6册.md"], "doc_type": "treatise"}
+{"query": "中华人民共和国预备役人员法", "ground_truth": ["wiki/concepts/concept_中华人民共和国预备役人员法.md"], "doc_type": "treatise"}
+{"query": "民商事管辖权异议 执行与实现（第5册 段 27）", "ground_truth": ["wiki/concepts/concept_民商事管辖权异议_段27_执行与实现_第5册.md"], "doc_type": "treatise"}
+{"query": "民事再审案件审查程序 反诉与本诉合并（第2册 段 43）", "ground_truth": ["wiki/concepts/concept_民事再审案件审查程序_段43_反诉与本诉合并_第2册.md"], "doc_type": "treatise"}
+{"query": "民事审判实务问答", "ground_truth": ["wiki/concepts/concept_民事审判实务问答.md"], "doc_type": "treatise"}
+{"query": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石", "ground_truth": ["wiki/concepts/concept_全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释.md"], "doc_type": "treatise"}
+{"query": "犯罪中止", "ground_truth": ["wiki/concepts/concept_犯罪中止_第24条_L3_202605.md"], "doc_type": "treatise"}
+{"query": "统编教材 环境资源审判实务", "ground_truth": ["wiki/concepts/concept_统编教材_环境资源审判实务.md"], "doc_type": "treatise"}
+{"query": "目录体例概览5册v3 国际私法适用（第5册 段 72）", "ground_truth": ["wiki/concepts/concept_目录体例概览5册v3_段72_国际私法适用_第5册.md"], "doc_type": "treatise"}
+{"query": "《侵权责任法教程》第九章 共同加害行为（程啸 2025）", "ground_truth": ["wiki/concepts/concept_侵权责任法教程_程啸_2025_第九章共同加害行为.md"], "doc_type": "treatise"}
+{"query": "买卖合同纠纷 合同效力认定（第3册 段 10）", "ground_truth": ["wiki/concepts/concept_买卖合同纠纷_段10_合同效力认定_第3册.md"], "doc_type": "treatise"}
+{"query": "民间借贷类案 证人证言规则（第2册 段 37）", "ground_truth": ["wiki/concepts/concept_民间借贷类案_段37_证人证言规则_第2册.md"], "doc_type": "treatise"}
+{"query": "人身保险合同 跨境破产与执行（第7册 段 74）", "ground_truth": ["wiki/concepts/concept_人身保险合同_段74_跨境破产与执行_第7册.md"], "doc_type": "treatise"}
+{"query": "最高法院司法观点集成 合同卷 I", "ground_truth": ["wiki/syntheses/TypicalCase_最高法院司法观点集成_合同卷_I_杜万华_2024.md"], "doc_type": "case_analysis"}
+{"query": "最高检发布首批人民监督员监督检察办案活动典型案例", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检发布首批人民监督员监督检察办案活动典型案例.md"], "doc_type": "case_analysis"}
+{"query": "四川审判 法答精粹丨实际借款人犯贷款诈骗罪，名义借款人是否担责？", "ground_truth": ["wiki/syntheses/synthesis_法答精粹_名义借款人责任.md"], "doc_type": "case_analysis"}
+{"query": "练永伟等贩卖毒品案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_52辑_第413号_练永伟贩卖毒品案.md", "wiki/syntheses/synthesis_刑事审判参考_总第52辑.md"], "doc_type": "case_analysis"}
+{"query": "云南省高级人民法院院长张宏伟：筑牢生态安全司法保护屏障", "ground_truth": ["wiki/syntheses/CourtFa_前沿法评_云南省高级人民法院院长张宏伟筑牢生态安全司法保护屏障.md"], "doc_type": "case_analysis"}
+{"query": "20190521_最高人民检察院关于印发最高人民检察院第十四批指导性案例的通知", "ground_truth": ["wiki/syntheses/synthesis_最高检第十四批指导性案例.md"], "doc_type": "case_analysis"}
+{"query": "最高检、公安部联合印发《关于依法妥善办理轻伤害案件的指导意见》", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检公安部联合印发关于依法妥善办理轻伤害案件的指导意见.md"], "doc_type": "case_analysis"}
+{"query": "依法惩治妨害疫情防控秩序犯罪典型案例", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_依法惩治妨害疫情防控秩序犯罪典型案例.md"], "doc_type": "case_analysis"}
+{"query": "中国某集团有限公司江苏分公司诉李某贵侵害植物新品种权及不正当竞争纠纷案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-09-2-161-001.md"], "doc_type": "case_analysis"}
+{"query": "最高检发布惩治麻醉药品、精神药品失管涉毒犯罪典型案例", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检发布惩治麻醉药品精神药品失管涉毒犯罪典型案例.md"], "doc_type": "case_analysis"}
+{"query": "吕锦城、黄高生故意杀人、拐卖儿童案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_82辑_第728号_吕锦城故意杀人拐卖儿童案.md", "wiki/syntheses/synthesis_刑事审判参考_总第82辑.md"], "doc_type": "case_analysis"}
+{"query": "刘祖枝故意杀人案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_84辑_第746号_刘祖枝故意杀人案.md", "wiki/syntheses/synthesis_刑事审判参考_总第84辑.md"], "doc_type": "case_analysis"}
+{"query": "依法惩治\"三农\"领域职务犯罪典型案例", "ground_truth": ["wiki/syntheses/synthesis_依法惩治三农领域职务犯罪典型案例.md"], "doc_type": "case_analysis"}
+{"query": "检察机关依法履职推动社会主义核心价值观融入法治建设典型案例", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_检察机关依法履职推动社会主义核心价值观融入法治建设典型案例.md"], "doc_type": "case_analysis"}
+{"query": "有限公司侵犯著作权纠纷案", "ground_truth": ["wiki/syntheses/GuideCase_（北京）有限公司侵犯著作权纠纷案.md"], "doc_type": "case_analysis"}
+{"query": "比特币是否具有财产属性？怎样执行返还交付？", "ground_truth": ["wiki/syntheses/Court_上海高院_案例参考册_比特币是否具有财产属性？怎样执行返还交付？.md"], "doc_type": "case_analysis"}
+{"query": "敦煌某良种公司诉吉林某种业公司、桦甸某农资商店侵害植物新品种权纠纷案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-13-2-161-011.md"], "doc_type": "case_analysis"}
+{"query": "开发商销售期房时未告知房屋“不利因素”，要承担责任吗？", "ground_truth": ["wiki/syntheses/Court_上海高院_案例参考册_开发商销售期房时未告知房屋“不利因素”，要承担责任吗？.md"], "doc_type": "case_analysis"}
+{"query": "被告人认罪认罚后法院量刑权何去何从", "ground_truth": ["wiki/syntheses/Court_至正法律研究_被告人认罪认罚后法院量刑权何去何从.md"], "doc_type": "case_analysis"}
+{"query": "刘某安骗取贷款裁定假释案", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-18-1-112-001.md"], "doc_type": "case_analysis"}
+{"query": "虞秀强职务侵占案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_59辑_第484号_虞秀强职务侵占案.md", "wiki/syntheses/synthesis_刑事审判参考_总第59辑.md"], "doc_type": "case_analysis"}
+{"query": "最高检发布2025年检察听证典型案例", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检发布2025年检察听证典型案例.md"], "doc_type": "case_analysis"}
+{"query": "贺喜民抢劫案", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_38辑_第300号_贺喜民抢劫案.md", "wiki/syntheses/synthesis_刑事审判参考_总第38辑.md"], "doc_type": "case_analysis"}
+{"query": "股份有限公司侵害商标权纠纷申诉、申请民事判决书", "ground_truth": ["wiki/syntheses/GuideCase_（集团）股份有限公司侵害商标权纠纷申诉、申请民事判决书.md"], "doc_type": "case_analysis"}
+{"query": "2026-14-2-022-002", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2026-14-2-022-002.md"], "doc_type": "case_analysis"}
+{"query": "最高人民法院关于行政案件案由的暂行规定", "ground_truth": ["wiki/entities/entity_最高人民法院关于行政案件案由的暂行规定.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院 中国证券监督管理委员会印发《关于切实审理好上市公司破产重整案件工作座谈会纪要》的通知", "ground_truth": ["wiki/entities/entity_法2024_309号_上市公司破产重整座谈会纪要.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院全国法院民商事审判工作会议纪要的通知", "ground_truth": ["wiki/entities/entity_最高人民法院关于印发《全国法院民商事审判工作会议纪要》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民检察院 公安部关于公安机关管辖的刑事案件立案追诉标准的规定（二）的通知（2022）", "ground_truth": ["wiki/entities/entity_关于印发《最高人民检察院 公安部关于公安机关管辖的刑事案件立案追诉标准的规定（二）》的通知（2022）.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复（2020修正）", "ground_truth": ["wiki/entities/entity_最高人民法院关于对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复（2020修正）.md"], "doc_type": "judicial_interpretation"}
+{"query": "江苏省常见犯罪量刑指导意见（二）实施细则（2024）", "ground_truth": ["wiki/entities/entity_广西高院_量刑指导意见实施细则_2021.md", "wiki/entities/entity_江苏高院_七种量刑_苏高法[2024]156.md", "wiki/entities/entity_福建高院_量刑指导意见实施细则_2021.md", "wiki/concepts/concept_认罪认罚从宽制度.md", "wiki/entities/entity_两高常见犯罪量刑指导意见(试行).md", "wiki/entities/entity_江西高院_量刑指导意见实施细则_2021.md", "wiki/concepts/concept_累犯.md", "wiki/concepts/concept_缓刑.md", "wiki/entities/entity_内蒙古高院_量刑指导意见实施细则_2021.md", "wiki/entities/entity_最高人民法院 最高人民检察院印发《关于常见犯罪的量刑指导意见（试行）》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "20211001_司法部关于印发《监狱计分考核罪犯工作规定》的通知", "ground_truth": ["wiki/entities/entity_监狱计分考核罪犯工作规定.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院 公安部 司法部关于印发《〈中华人民共和国人民陪审员法〉实施中若干问题的答复意见（二）》", "ground_truth": ["wiki/entities/entity_法2025_247号_人民陪审员法实施答复意见二.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院在执行工作中进一步强化善意文明执行理念的意见", "ground_truth": ["wiki/entities/entity_最高人民法院关于在执行工作中进一步强化善意文明执行理念的意见.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院 全国妇联印发《关于开展家庭教育指导工作的意见》的通知", "ground_truth": ["wiki/entities/entity_法发2023_7号_家庭教育指导意见.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院关于人民法院司法拍卖房产竞买人资格若干问题的规定", "ground_truth": ["wiki/entities/entity_法释2021_18号_司法拍卖房产竞买人资格规定.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院办公厅关于全国法院一站式建设优秀改革创新成果评选活动情况的通报", "ground_truth": ["wiki/entities/entity_人民法院一站式建设优秀改革创新成果评选活动情况的通报.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院关于修改《关于审理民间借贷案件适用法律若干问题的规定》的决定", "ground_truth": ["wiki/entities/entity_法释2020_6号_修改民间借贷案件规定决定.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院、最高人民检察院、公安部办理非法集资刑事案件若干问题的意见的通知", "ground_truth": ["wiki/entities/entity_最高人民法院、最高人民检察院、公安部印发《关于办理非法集资刑事案件若干问题的意见》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "办理实施“软暴力”的刑事案件若干问题的意见", "ground_truth": ["wiki/entities/entity_关于办理实施“软暴力”的刑事案件若干问题的意见.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院关于审理仲裁司法审查案件若干问题的规定", "ground_truth": ["wiki/entities/entity_法释2017_22号_仲裁司法审查案件若干问题的规定.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院关于外币及港澳台货币逾期付款利息计算标准的批复", "ground_truth": ["wiki/entities/entity_法释2025_2号_外币逾期付款利息计算标准批复.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院 自然资源部加强闲置土地司法查封和处置 工作衔接的意见", "ground_truth": ["wiki/entities/entity_最高人民法院 自然资源部关于加强闲置土地司法查封和处置 工作衔接的意见.md"], "doc_type": "judicial_interpretation"}
+{"query": "人民检察院诉讼档案管理办法和《人民检察院诉讼文书材料立卷归档细则》的通知", "ground_truth": ["wiki/entities/entity_关于印发《人民检察院诉讼档案管理办法》和《人民检察院诉讼文书材料立卷归档细则》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院关于人民法院办理财产保全案件若干问题的规定（2020修正）", "ground_truth": ["wiki/entities/entity_法释2020修正_财产保全案件规定.md"], "doc_type": "judicial_interpretation"}
+{"query": "人民检察院行政诉讼监督规则", "ground_truth": ["wiki/entities/entity_人民检察院行政诉讼监督规则.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民检察院 公安部关于依法妥善办理轻伤害案件的指导意见的通知", "ground_truth": ["wiki/entities/entity_最高人民检察院 公安部关于印发《关于依法妥善办理轻伤害案件的指导意见》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "最高人民法院充分发挥司法职能作用助力中小微企业发展的指导意见的通知", "ground_truth": ["wiki/entities/entity_最高人民法院印发《关于充分发挥司法职能作用助力中小微企业发展的指导意见》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "人民检察院行刑反向衔接工作指引", "ground_truth": ["wiki/entities/entity_关于印发《人民检察院行刑反向衔接工作指引》的通知.md"], "doc_type": "judicial_interpretation"}
+{"query": "关于依法惩治水运物流领域侵犯财产犯罪的指导意见", "ground_truth": ["wiki/entities/entity_关于依法惩治水运物流领域侵犯财产犯罪的指导意见.md"], "doc_type": "judicial_interpretation"}
+{"query": "【检答网集萃】运输毒品案的犯罪嫌疑人供述，在其上游贩卖毒品犯罪的证据卷中，应归属于哪种证据种类", "ground_truth": ["wiki/summaries/summary_20250806_最高检_检答网集萃_检答网集萃运输毒品案的犯罪嫌疑人供述在其.md"], "doc_type": "practical_discussion"}
+{"query": "“借钱炒股”赚利息，470亿场外配资黑幕被撕开", "ground_truth": ["wiki/summaries/summary_20251216_最高检_今晚九点半_借钱炒股_赚利息_470亿场外配资黑幕被撕开.md"], "doc_type": "practical_discussion"}
+{"query": "深入广西沿边沿海，听守边护边兴边的故事", "ground_truth": ["wiki/summaries/summary_20241124_最高检_高质效办案在基层_深入广西沿边沿海听守边护边兴边的故事.md"], "doc_type": "practical_discussion"}
+{"query": "律师办理公司对外担保业务操作指引（2024）", "ground_truth": ["wiki/summaries/summary_20241217_律师办理公司对外担保业务操作指引2024.md"], "doc_type": "practical_discussion"}
+{"query": "最高检、公安部联合发布依法惩治骗取出口退税犯罪典型案例", "ground_truth": ["wiki/summaries/summary_20240823_最高检_典型案例_最高检、公安部联合发布依法惩治骗取出口退税犯罪典型案例.md"], "doc_type": "practical_discussion"}
+{"query": "最高法行政审判讲堂第二期答疑实录", "ground_truth": ["wiki/summaries/summary_20250530_最高法行政审判讲堂第二期答疑实录.md"], "doc_type": "practical_discussion"}
+{"query": "维修资金的“糊涂账”", "ground_truth": ["wiki/summaries/summary_20241125_上海二中院_至正法官札记_维修资金的糊涂账.md"], "doc_type": "practical_discussion"}
+{"query": "传播未成年人黄谣信息，法院判决平台担责", "ground_truth": ["wiki/summaries/Summary_小案大道理_2024-08-02_传播未成年人黄谣信息法院判决平台担责.md"], "doc_type": "practical_discussion"}
+{"query": "【检答网集萃—36】适用认罪认罚从宽制度的案件拟作相对不起诉是否需要签署认罪认罚具结书", "ground_truth": ["wiki/summaries/summary_20210314_最高检_检答网集萃_检答网集萃—36适用认罪认罚从宽制度的案.md"], "doc_type": "practical_discussion"}
+{"query": "【检答网集萃—102】申请司法救助有无期限限制？", "ground_truth": ["wiki/summaries/summary_20230201_最高检_检答网集萃_检答网集萃—102申请司法救助有无期限限.md"], "doc_type": "practical_discussion"}
+{"query": "商标权纠纷案件中，法院在审查被告所提合法来源抗辩是否成立时应当把握何种标准？", "ground_truth": ["wiki/summaries/Summary_法答网精选_03_商标权纠纷案件中法院在审查被告所提合法来源抗辩是否成立时应当把握何种标准.md"], "doc_type": "practical_discussion"}
+{"query": "须海波：清算义务人之清算赔偿责任丨", "ground_truth": ["wiki/summaries/summary_20211119_上海一中法院_微课程_须海波_清算义务人之清算赔偿责任丨.md"], "doc_type": "practical_discussion"}
+{"query": "哈尔滨工业大学党委书记、中国工程院院士陈杰：推动人工智能与司法工作稳慎融合", "ground_truth": ["wiki/summaries/Summary_前沿法评_2025-07-23_哈尔滨工业大学党委书记中国工程院院士陈杰推动人工智能与司法工作稳慎融合.md"], "doc_type": "practical_discussion"}
+{"query": "合同编通则司法解释：合同无效法律后果的若干适用难点 | 至正开放麦", "ground_truth": ["wiki/summaries/summary_20240516_上海二中院_至正开放麦_合同编通则司法解释合同无效法律后果的若干适用难点.md"], "doc_type": "practical_discussion"}
+{"query": "创新管理路径推动高质效办好每一个案件", "ground_truth": ["wiki/summaries/summary_20241115_最高检_高质效办好每一个案件_创新管理路径推动高质效办好每一个案件.md"], "doc_type": "practical_discussion"}
+{"query": "最高检发布首批5起检察机关贯彻少捕慎诉慎押刑事司法政策典型案例", "ground_truth": ["wiki/summaries/summary_20211203_最高检_典型案例_最高检发布首批5起检察机关贯彻少捕慎诉慎押刑事司法政策典型案例.md"], "doc_type": "practical_discussion"}
+{"query": "爱拼才会赢，拼出\"晋江经验\"新传奇", "ground_truth": ["wiki/summaries/summary_20240925_最高检_高质效办案在基层_爱拼才会赢拼出晋江经验新传奇.md"], "doc_type": "practical_discussion"}
+{"query": "深入推进以三个管理为导向的检察管理转型", "ground_truth": ["wiki/summaries/summary_20241129_最高检_高质效办好每一个案件_深入推进以三个管理为导向的检察管理转型.md"], "doc_type": "practical_discussion"}
+{"query": "入库参考案例解读​：​指令集知识产权保护的边界和规则", "ground_truth": ["wiki/summaries/summary_20250501_最高法_入库案例_入库参考案例解读​：​指令集知识产权保护的边界和规则.md"], "doc_type": "practical_discussion"}
+{"query": "审查民商事管辖权异议案件的3个步骤", "ground_truth": ["wiki/summaries/summary_20230220_上海高院_办案心法_审查民商事管辖权异议案件的3个步骤.md"], "doc_type": "practical_discussion"}
+{"query": "最高检发布防范金融投资诈骗典型案例", "ground_truth": ["wiki/summaries/summary_20231024_最高检_典型案例_最高检发布防范金融投资诈骗典型案例.md"], "doc_type": "practical_discussion"}
+{"query": "最高检发布6起依法惩治妨害国（边）境管理犯罪典型案例", "ground_truth": ["wiki/summaries/summary_20220707_最高检_典型案例_最高检发布6起依法惩治妨害国边境管理犯罪典型案例.md"], "doc_type": "practical_discussion"}
+{"query": "原因债权是否因票据授受而消灭；如果不消灭，持票人权利如何，持票人提示付款被拒的不同情形下，持票人权利", "ground_truth": ["wiki/summaries/Summary_法答网精选_02_原因债权是否因票据授受而消灭如果不消灭持票人权利如何持票人提示付款被拒的不同情形下持票人权利如何.md"], "doc_type": "practical_discussion"}
+{"query": "涉外商事海事审判实务和国际司法协助", "ground_truth": ["wiki/summaries/summary_统编教材_涉外商事海事审判实务.md"], "doc_type": "practical_discussion"}
+{"query": "凌捷、林佳豪：民法典名誉权条款的理解与适用", "ground_truth": ["wiki/summaries/summary_20221128_上海一中法院_微课程_凌捷_林佳豪_民法典名誉权条款的理解与适用.md"], "doc_type": "practical_discussion"}
+{"query": "[案件名]（[案号]）判决书", "ground_truth": ["wiki/cases/judgments/_template/case_judgment_template.md"], "doc_type": "case_judgment"}
+{"query": "魏建军抢劫、放火案 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_51辑_第401号_魏建军抢劫放火案.md"], "doc_type": "evidence_assessment"}
+{"query": "昆山晟某精密机械有限公司诉广州捷某电子科技有限公司、沪某电子股份有限公司侵害实用新型专利权纠纷案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-13-2-160-032.md"], "doc_type": "evidence_assessment"}
+{"query": "陈某等组织、领导传销活动案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-03-1-168-001.md"], "doc_type": "evidence_assessment"}
+{"query": "刘某某煽动颠覆国家政权案对利用互联网煽动颠覆国家政权的案件如何审查判断证据 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_3辑_129号_刘某某煽动颠覆国家政权案对利用互联网煽动颠覆国家政.md"], "doc_type": "evidence_assessment"}
+{"query": "有限公司与汕头宏业股份有限公司、汕头经济特区新业发展有限公司保证合同纠纷二审案 证据", "ground_truth": ["wiki/syntheses/GuideCase_(香港)有限公司与汕头宏业(集团)股份有限公司、汕头经济特区新业发展有限公司保证合同纠纷二审案.md"], "doc_type": "evidence_assessment"}
+{"query": "赵某锋故意杀人案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2023-04-1-177-002.md"], "doc_type": "evidence_assessment"}
+{"query": "任某故意伤害案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-04-1-179-006.md"], "doc_type": "evidence_assessment"}
+{"query": "某银行与周某、邓某执行异议案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-17-5-201-017.md"], "doc_type": "evidence_assessment"}
+{"query": "2015 民申字第3640号 证据", "ground_truth": ["wiki/syntheses/Court_公报案例_(2015)民申字第3640号.md"], "doc_type": "evidence_assessment"}
+{"query": "辽宁某设备租赁有限公司诉北京市大兴区应急管理局行政处罚案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-12-3-001-014.md"], "doc_type": "evidence_assessment"}
+{"query": "最高检发布“3 15”消费者权益保护检察公益诉讼典型案例 证据", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检发布315消费者权益保护检察公益诉讼典型案例.md"], "doc_type": "evidence_assessment"}
+{"query": "刘加奎故意杀人案因民间矛盾激化引发且被害人有一定过错的案件如何适用死刑 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_6辑_43号_刘加奎故意杀人案因民间矛盾激化引发且被害人有一定过.md"], "doc_type": "evidence_assessment"}
+{"query": "宁波某工贸公司诉宁波市知识产权局、第三人美国某公司专利行政裁决案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-13-3-024-008.md"], "doc_type": "evidence_assessment"}
+{"query": "刘某琼等开设赌场案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2023-06-1-286-010.md"], "doc_type": "evidence_assessment"}
+{"query": "某基金会诉深圳某美环保公司、浙江某宝网络公司大气污染民事公益诉讼案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-11-2-466-016.md"], "doc_type": "evidence_assessment"}
+{"query": "曹成金故意杀人案间接故意犯罪是否存在未遂形态 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_21辑_129号_曹成金故意杀人案间接故意犯罪是否存在未遂形态.md"], "doc_type": "evidence_assessment"}
+{"query": "新型隐性受贿犯罪实务疑难解析 证据", "ground_truth": ["wiki/syntheses/synthesis_新型隐性受贿犯罪实务疑难解析_万龙_2025.md"], "doc_type": "evidence_assessment"}
+{"query": "郭建升被控贷款诈骗案一贷款诈骗罪中的“以非法占有为目的”应如何把握 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_14辑_85号_郭建升被控贷款诈骗案一贷款诈骗罪中的_以非法占有为.md"], "doc_type": "evidence_assessment"}
+{"query": "柯某成侵犯公民个人信息案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-18-1-207-009.md"], "doc_type": "evidence_assessment"}
+{"query": "孙某琴诉吉林省长春市朝阳区人民政府不履行征收安置补偿职责案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-12-3-021-001.md"], "doc_type": "evidence_assessment"}
+{"query": "有限责任公司、重庆晨光百货有限责任公司、重庆晨光大酒店有限责任公司房屋拆迁纠纷二审案 证据", "ground_truth": ["wiki/syntheses/GuideCase_(集团)有限责任公司、重庆晨光百货有限责任公司、重庆晨光大酒店有限责任公司房屋拆迁纠纷二审案.md"], "doc_type": "evidence_assessment"}
+{"query": "豆某侠与咸阳市某汽车公司、汤某生执行实施案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-17-5-101-022.md"], "doc_type": "evidence_assessment"}
+{"query": "湖北恒某商品混凝土有限公司诉武汉博某建设集团有限公司买卖合同纠纷案 证据", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-08-2-084-001.md"], "doc_type": "evidence_assessment"}
+{"query": "张义洋故意杀人案 证据", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_32辑_241号_张义洋故意杀人案.md"], "doc_type": "evidence_assessment"}
+{"query": "恶意囤积商标并借诉讼牟利构成恶意诉讼 证据", "ground_truth": ["wiki/syntheses/ShanghaiCourt_IP_005.md"], "doc_type": "evidence_assessment"}
+{"query": "谢某抢劫案 程序", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_91辑_第845号_谢某抢劫案.md"], "doc_type": "procedural"}
+{"query": "执行工作指导 总第79辑 最高法执行局 2022 程序", "ground_truth": ["wiki/syntheses/synthesis_执行工作指导_总第79辑_最高法执行局_2022.md"], "doc_type": "procedural"}
+{"query": "何起明诈骗案 程序", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_23辑_148号_何起明诈骗案.md"], "doc_type": "procedural"}
+{"query": "庄某某、佐佐木某某诉上海某网络科技有限公司侵害作品信息网络传播权纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-09-2-158-009.md"], "doc_type": "procedural"}
+{"query": "执行工作指导 总第78辑 程序", "ground_truth": ["wiki/syntheses/synthesis_执行工作指导_总第78辑_最高法执行局_2022.md"], "doc_type": "procedural"}
+{"query": "吴晓丽贷款诈骗案如何区分贷款诈骗罪和贷款纠纷 程序", "ground_truth": ["wiki/syntheses/Court_刑事审判参考_15辑_92号_吴晓丽贷款诈骗案如何区分贷款诈骗罪和贷款纠纷.md"], "doc_type": "procedural"}
+{"query": "天津市某澳种子有限公司诉重庆某升农业发展有限公司侵害植物新品种权纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-13-2-161-001.md"], "doc_type": "procedural"}
+{"query": "全文｜最高检发布食品药品安全消费者权益保护检察公益诉讼典型案例 程序", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_全文最高检发布食品药品安全消费者权益保护检察公益诉讼典型案例.md"], "doc_type": "procedural"}
+{"query": "尹某林诈骗案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-04-1-222-003.md"], "doc_type": "procedural"}
+{"query": "何某诉上海自某人工智能科技有限公司网络侵权责任纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-07-2-369-001.md"], "doc_type": "procedural"}
+{"query": "蔡某某虚开增值税专用发票裁定假释案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2023-16-1-146-002.md"], "doc_type": "procedural"}
+{"query": "刑事审判参考 总第66辑 程序", "ground_truth": ["wiki/syntheses/synthesis_刑事审判参考_总第66辑.md"], "doc_type": "procedural"}
+{"query": "卫某龙、龚某、薛某东非法获取计算机信息系统数据案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-18-1-252-001.md"], "doc_type": "procedural"}
+{"query": "最高检发布“依法惩治网络犯罪 助力网络空间综合治理”典型案例 程序", "ground_truth": ["wiki/syntheses/SPP_TypicalCase_最高检发布依法惩治网络犯罪_助力网络空间综合治理典型案例.md"], "doc_type": "procedural"}
+{"query": "最高法发布《最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）》 程序", "ground_truth": ["wiki/syntheses/Synthesis_道交解释二发布会新闻稿.md"], "doc_type": "procedural"}
+{"query": "杜某荣、赵某洋等诉某财产保险公司人身保险合同纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-08-2-334-001.md"], "doc_type": "procedural"}
+{"query": "民法典担保制度司法解释理解与适用 程序", "ground_truth": ["wiki/syntheses/synthesis_民法典担保制度解释理解与适用_最高法民二庭_2021年.md"], "doc_type": "procedural"}
+{"query": "刘某女、潘某富与湖南某置业投资公司执行监督案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-17-5-203-004.md"], "doc_type": "procedural"}
+{"query": "江苏里下河地区农业科学研究所与宝应县天补农资经营有限公司侵害植物新品种权纠纷上诉案 程序", "ground_truth": ["wiki/syntheses/Court_公报案例_(2008)苏民三终字第0220号.md"], "doc_type": "procedural"}
+{"query": "有限公司、漳州开发区汇丰源贸易有限公司、嘉吉国际公司（CargillInternationalSA） 程序", "ground_truth": ["wiki/syntheses/GuideCase_（福建）有限公司、漳州开发区汇丰源贸易有限公司、嘉吉国际公司（CargillInternationalSA）买卖合同纠纷二审民事判决书.md"], "doc_type": "procedural"}
+{"query": "刘某惠、胡某等聚众斗殴案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-04-1-268-001.md"], "doc_type": "procedural"}
+{"query": "《贪污贿赂解释 二 》疑难问题与案例指导 程序", "ground_truth": ["wiki/syntheses/synthesis_贪污贿赂解释二疑难问题与案例指导.md"], "doc_type": "procedural"}
+{"query": "星某物业管理有限公司诉恒某投资有限公司物业服务合同纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2026-16-6-121-001.md"], "doc_type": "procedural"}
+{"query": "无锡市马山某园物业管理有限公司诉于某飞劳动合同纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2025-07-2-490-004.md"], "doc_type": "procedural"}
+{"query": "某电影公司等诉深圳市某影业有限公司不正当竞争纠纷案 程序", "ground_truth": ["wiki/syntheses/synthesis_入库案例_2024-09-2-488-009.md"], "doc_type": "procedural"}
