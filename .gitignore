@@ -35,3 +35,7 @@ wiki/.checkpoints/
 _backups/
 .scripts_backup_*/
 
+
+# Qdrant 内部文件 (cwd 污染, 2026-08-08 修复)
+.qdrant-initialized
+/storage/aliases/
