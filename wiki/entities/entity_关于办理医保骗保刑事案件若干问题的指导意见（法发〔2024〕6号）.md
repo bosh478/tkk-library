@@ -14,7 +14,8 @@ related:
 - - - concept_诈骗罪
 - - - concept_贪污罪
 - - - concept_盗窃罪
-- - - concept_掩饰隐瞒犯罪所得罪
+- - - concept_掩饰隐瞒犯罪所得罪_L4_202607
+  - - - synthesis_掩隐罪vs洗钱罪vs帮信罪_对比_L2
 - - - concept_医保骗保犯罪
 source: sources/0-现行规范库/《关于办理医保骗保刑事案件若干问题的指导意见》（法发〔2024〕6号）.md
 status: 〔现行有效〕
