@@ -97,3 +97,52 @@
 | `3f405f41` | feat(eval): v5.1 jieba 优化 baseline (意外: 反而变差) | ✅ 已推 |
 | `2e390977` | feat(eval): v4.2 RRF sparse 真接入 (C baseline ≠ B) | ✅ 已推 |
 | `3bcf83e7` | feat(eval): v3.3 200 query baseline + nDCG dedup bug fix | ✅ 已推 |
+
+
+---
+
+## 5 个真实查询数据 (2026-08-08)
+
+**方法**: 按 mcp-tkk-search.search_with_rerank 流程, 5 个真实法律查询覆盖 5 类 doc_type 场景.
+
+### 5 个查询详细
+
+| # | Query | 场景 | 耗时 | top5 唯一 path | doc_type 分布 |
+|---|---|---|---|---|---|
+| 1 | "受贿罪 不起诉 实务论述" | practical | **6838ms** ⚠️ | 4 | practical_discussion×5 |
+| 2 | "危险驾驶 醉驾 缓刑适用" | case+practice | 1224ms | 4 | case_analysis×4 + practical×1 |
+| 3 | "合同诈骗罪 数额认定 标准" | interp+theory | 1228ms | 4 | treatise×5 |
+| 4 | "正当防卫 限度 标准" | theory | 1066ms | 3 | treatise×3 + judicial×2 |
+| 5 | "寻衅滋事 信访 罪与非罪" | case | 1020ms | 5 | case_analysis×5 |
+
+**平均**: 2275ms/query (首查冷启动 +4s 拖累均值, 后续 ~1s), 4.0 唯一 path/query
+
+### Top 3 路径示例
+
+**Q1 (受贿罪 不起诉 实务论述)**:
+- `syntheses/Court_刑事审判参考/Court_刑事审判参考_101辑_1038号_某法持有毒品案.md`
+- `entities/entity_两高办理贪污贿赂刑事案件解释(二).md`
+- `syntheses/Court_刑事审判参考/Court_刑事审判参考_139辑_1593号_褚某某受贿案.md`
+
+**Q5 (寻衅滋事 信访 罪与非罪)**:
+- `syntheses/Court_刑事审判参考/Court_刑事审判参考_121辑_1315号_故意驾车冲撞疫情防控站的行为定性.md`
+- `syntheses/Court_刑事审判参考/Court_刑事审判参考_65辑_第503号_第七条_本条例2009年11起施.md` (重复 path)
+
+### 5 query 数据洞察
+
+**✅ 优点**:
+1. **doc_types 强制筛选生效** — Q1/Q2/Q5 用 DEFAULT_DOC_TYPES (排除 treatise) → 0 treatise 混入
+2. **检索相关性强** — 5/5 top 1 主题相关 (受贿案/危险驾驶案/合同诈骗概念页/正当防卫/故意驾车案)
+3. **doc_type 路由有效** — 不同场景命中不同类型 (practical 5/5 practical, case 5/5 case)
+
+**⚠️ 异常发现**:
+- Q1 冷启动 6.8s: rerank 首次推理慢 (FlagReranker 加载 bge-reranker-v2-m3 2.2GB)
+- Q3 5/5 全 treatise: 用户显式传 `["judicial_interpretation", "commentary", "treatise"]` → 符合预期
+- Q5 top 3 重复 path: chunk_no 不同时同 path 仍计 1 个 unique → 当前 _dedup_paths 可改 `path+chunk_no` 更精细
+
+### v7 候选改进
+
+1. **Q1 冷启动优化**: rerank 后台预热 (避免 6.8s 阻塞)
+2. **Q5 dedup 升级**: `_dedup_paths` 用 `path:chunk_no` 而非仅 `path`
+3. **Q3/Q4 路由建议**: agent 默认 doc_types 应排除 treatise, 即使用户传也要 WARN
+4. **5 query 永久 baseline**: 写进 eval/real-queries-2026-08-08.jsonl, 跑 50/100 query 扩样
