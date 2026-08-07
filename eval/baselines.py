@@ -76,13 +76,31 @@ def _dedup_paths(paths: List[str], limit: int = 10) -> List[str]:
     return out
 
 
-def search_dense_only(client, query_vec, top_k=10) -> List[str]:
+# v6: 默认排除 treatise (学术概念页) 改善 top 1 相关性
+# 调研: 5 query 抽样, "危险驾驶 醉驾" top 1 从 名誉权纠纷 (treatise, 不相关) → 危险驾驶案例 (practical_discussion, 相关)
+DEFAULT_DOC_TYPES = [
+    "case_judgment", "case_analysis", "judicial_interpretation",
+    "commentary", "practical_discussion", "evidence_assessment", "procedural",
+]
+
+
+def _doc_types_filter(doc_types):
+    """v6: 构造 Qdrant doc_types 过滤器 (排除 treatise 默认)"""
+    if doc_types is None:
+        return None
+    return models.Filter(must=[
+        models.FieldCondition(key="doc_type", match=models.MatchAny(any=doc_types))
+    ])
+
+
+def search_dense_only(client, query_vec, top_k=10, doc_types=None) -> List[str]:
     """B. BGE-M3 dense only: Qdrant dense query"""
     results = client.query_points(
         collection_name=COLLECTION_NAME,
         query=query_vec,
         using="dense",
         limit=top_k * 3,  # 多取以保证 dedup 后还有 top_k
+        query_filter=_doc_types_filter(doc_types),
         with_payload=True,
     )
     return _dedup_paths([r.payload.get("path", "") for r in results.points], top_k)
@@ -123,7 +141,7 @@ def _bm25_encode_query(query_text: str) -> Optional[models.SparseVector]:
         return None
 
 
-def search_rrf(client, query_vec, query_text, top_k=10) -> List[str]:
+def search_rrf(client, query_vec, query_text, top_k=10, doc_types=None) -> List[str]:
     """C. RRF hybrid: dense + sparse prefetch, FusionQuery(RRF) [v4.2 真启 sparse]"""
     sparse_query = _bm25_encode_query(query_text)
     prefetches = [models.Prefetch(query=query_vec, using="dense", limit=20)]
@@ -139,7 +157,7 @@ def search_rrf(client, query_vec, query_text, top_k=10) -> List[str]:
     return _dedup_paths([r.payload.get("path", "") for r in results.points], top_k)
 
 
-def search_rrf_rerank(client, query_vec, query_text, top_k=10) -> List[str]:
+def search_rrf_rerank(client, query_vec, query_text, top_k=10, doc_types=None) -> List[str]:
     """D. RRF + rerank: RRF 取 top 20, rerank 选 top 10"""
     # 1. RRF 取 top 20 (多取 30 给 rerank + dedup 后仍有 top_k)
     rrf_results = client.query_points(
@@ -147,6 +165,7 @@ def search_rrf_rerank(client, query_vec, query_text, top_k=10) -> List[str]:
         query=query_vec,
         using="dense",
         limit=30,
+        query_filter=_doc_types_filter(doc_types),
         with_payload=True,
     )
     if not rrf_results.points:
@@ -234,9 +253,9 @@ def main():
     # 4 baseline
     baselines = {
         "A. BM25 only (legacy)": lambda q, v: search_bm25_only(client, q, args.top_k),
-        "B. Dense only (BGE-M3)": lambda q, v: search_dense_only(client, v, args.top_k),
-        "C. RRF hybrid": lambda q, v: search_rrf(client, v, q, args.top_k),
-        "D. RRF + bge-reranker-v2-m3 (target)": lambda q, v: search_rrf_rerank(client, v, q, args.top_k),
+        "B. Dense only (BGE-M3)": lambda q, v: search_dense_only(client, v, args.top_k, DEFAULT_DOC_TYPES),
+        "C. RRF hybrid": lambda q, v: search_rrf(client, v, q, args.top_k, DEFAULT_DOC_TYPES),
+        "D. RRF + bge-reranker-v2-m3 (target)": lambda q, v: search_rrf_rerank(client, v, q, args.top_k, DEFAULT_DOC_TYPES),
     }
 
     results = {name: {"ndcg": [], "recall": [], "abstain": 0, "time": 0.0} for name in baselines}
