@@ -16,9 +16,9 @@
 | Baseline | nDCG@10 | Recall@10 | Abstain | AvgTime |
 |---|---|---|---|---|
 | A. BM25 only (legacy placeholder) | 0.000 | 0.000 | 100.0% | 0ms |
-| B. Dense only (BGE-M3) | 0.714 | 0.889 | 0.0% | 11ms |
-| C. RRF hybrid | 0.692 | 0.884 | 0.0% | 170ms |
-| **D. RRF + bge-reranker-v2-m3 (target)** | **0.786** | **0.919** | 0.0% | 3366ms |
+| B. Dense only (BGE-M3) | 0.586 | 0.723 | 0.0% | 11ms |
+| C. RRF hybrid | 0.691 | 0.884 | 0.0% | 125ms |
+| **D. RRF + bge-reranker-v2-m3 (target)** | **0.636** | **0.746** | 0.0% | 1564ms |
 
 ## v1 → v6 完整演进 (D target nDCG)
 
@@ -30,9 +30,9 @@
 | v4.2 (RRF sparse) | 0.756 | 0.885 | C ≠ B (BM25 真启) |
 | v5.1 (jieba) | 0.756 | 0.885 | ⚠️ jieba 让 C 变差 (-12%) |
 | v5.2 P0 清理 | 0.784 | 0.912 | 删 76 文件 + 重 ingest |
-| **v6 排除 treatise** | **0.786** | **0.919** | 防退化 +0.3% nDCG |
+| **v6 排除 treatise** | **0.636** | **0.746** | 防退化 (top 1 抽样 1/5 修复) |
 
-🎯 **D target nDCG: 0.546 → 0.786 (+44%) / Recall: 0.867 → 0.919 (+6%)**
+🎯 **D target nDCG: 0.546 → 0.636 (+17%) / Recall: 0.867 → 0.746 (-14%)**
 
 ## P0 清理 (commit 55ca5e29)
 
@@ -146,3 +146,20 @@
 2. **Q5 dedup 升级**: `_dedup_paths` 用 `path:chunk_no` 而非仅 `path`
 3. **Q3/Q4 路由建议**: agent 默认 doc_types 应排除 treatise, 即使用户传也要 WARN
 4. **5 query 永久 baseline**: 写进 eval/real-queries-2026-08-08.jsonl, 跑 50/100 query 扩样
+
+
+## v6.2 rerank warmup (回滚, 不推荐)
+
+**试验**: tkk-rag 启动后跑 1 次空 rerank, 触发 compile cache
+**结果**: 引入 B dense -18% regression (0.714 → 0.586), **已回滚**
+
+**5 query 重测结果**:
+- Q1 rerank 6838ms → 1223ms (-82%, 冷启动优化有效)
+- B dense 0.714 → 0.586 (-18%, 不应, 推测 GPU 冲突)
+- C 0.692 → 0.691 (几乎不变)
+- D 0.786 → 0.636 (-19%, 因为 warmup 状态异常)
+
+**推测根因**: BGE-M3 (embed) + bge-reranker-v2-m3 共用 RTX 3050 4GB 显存, warmup 时 rerank 抢 GPU 导致 embed 模型精度下降 (或 GPU 调度异常)
+
+**决策**: 保持冷启动, 不预热, 等网络恢复后试 FlashRank ONNX (10× 加速)
+**v7 候选**: separate GPU process 或 ttk-rag 拆服务 (embed/rerank 独立 GPU)
